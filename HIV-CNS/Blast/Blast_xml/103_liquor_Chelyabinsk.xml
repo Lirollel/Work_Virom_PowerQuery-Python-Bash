@@ -1,0 +1,2842 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.14.0+</BlastOutput_version>
+  <BlastOutput_reference>Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb Miller (2000), &quot;A greedy algorithm for aligning DNA sequences&quot;, J Comput Biol 2000; 7(1-2):203-14.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_25625</BlastOutput_query-ID>
+  <BlastOutput_query-def>103_liquor_Chelyabinsk</BlastOutput_query-def>
+  <BlastOutput_query-len>138</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>1</Parameters_sc-match>
+      <Parameters_sc-mismatch>-2</Parameters_sc-mismatch>
+      <Parameters_gap-open>0</Parameters_gap-open>
+      <Parameters_gap-extend>0</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_25625</Iteration_query-ID>
+  <Iteration_query-def>103_liquor_Chelyabinsk</Iteration_query-def>
+  <Iteration_query-len>138</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1111816729|gb|KU749403.1|</Hit_id>
+  <Hit_def>HIV-1 isolate DEMA112UA024 from Ukraine, partial genome</Hit_def>
+  <Hit_accession>KU749403</Hit_accession>
+  <Hit_len>9658</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>230.105</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>6.01115e-56</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>133</Hsp_query-to>
+      <Hsp_hit-from>5742</Hsp_hit-from>
+      <Hsp_hit-to>5874</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>130</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>133</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTTAC</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACATATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTTAC</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|409181519|gb|JX500695.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 10RU6792 from Russia, partial genome</Hit_def>
+  <Hit_accession>JX500695</Hit_accession>
+  <Hit_len>9186</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>222.718</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>1.00588e-53</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5213</Hsp_hit-from>
+      <Hsp_hit-to>5341</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|216761494|gb|FJ490734.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 04RU1172 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490734</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>222.718</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>1.00588e-53</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|148469915|gb|EF589043.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02KZPAV300480 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>EF589043</Hit_accession>
+  <Hit_len>8843</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>220.872</Hsp_bit-score>
+      <Hsp_score>119</Hsp_score>
+      <Hsp_evalue>3.61778e-53</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>4878</Hsp_hit-from>
+      <Hsp_hit-to>5008</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|56609290|gb|AY829208.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02UZ740 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>AY829208</Hit_accession>
+  <Hit_len>8819</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>220.872</Hsp_bit-score>
+      <Hsp_score>119</Hsp_score>
+      <Hsp_evalue>3.61778e-53</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>4878</Hsp_hit-from>
+      <Hsp_hit-to>5008</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1858400425|gb|MN703135.1|</Hit_id>
+  <Hit_def>HIV-1 isolate DEMA614RU011 from Russia, complete genome</Hit_def>
+  <Hit_accession>MN703135</Hit_accession>
+  <Hit_len>9073</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5126</Hsp_hit-from>
+      <Hsp_hit-to>5254</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1839434364|gb|MT222949.1|</Hit_id>
+  <Hit_def>HIV-1 isolate DEMA615RU028 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT222949</Hit_accession>
+  <Hit_len>9347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5180</Hsp_hit-from>
+      <Hsp_hit-to>5308</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1573780017|gb|MH330356.1|</Hit_id>
+  <Hit_def>HIV-1 isolate BLG051 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330356</Hit_accession>
+  <Hit_len>9006</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5038</Hsp_hit-from>
+      <Hsp_hit-to>5166</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|557749869|gb|KF716492.1|</Hit_id>
+  <Hit_def>HIV-1 isolate DEMA108RU004 from Russia gag protein (gag) gene, complete cds; nonfunctional pol protein (pol) gene, partial sequence; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>KF716492</Hit_accession>
+  <Hit_len>8990</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5027</Hsp_hit-from>
+      <Hsp_hit-to>5155</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACCTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1954998980|gb|MT369951.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1032_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369951</Hit_accession>
+  <Hit_len>8901</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4972</Hsp_hit-from>
+      <Hsp_hit-to>5100</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|371559533|gb|JQ292900.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_SP_B_049 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence</Hit_def>
+  <Hit_accession>JQ292900</Hit_accession>
+  <Hit_len>8967</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5116</Hsp_hit-from>
+      <Hsp_hit-to>5244</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|371559503|gb|JQ292897.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_915_1035 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>JQ292897</Hit_accession>
+  <Hit_len>9031</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5124</Hsp_hit-from>
+      <Hsp_hit-to>5252</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|371559493|gb|JQ292896.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_915_1016 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>JQ292896</Hit_accession>
+  <Hit_len>9004</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5128</Hsp_hit-from>
+      <Hsp_hit-to>5256</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|371559453|gb|JQ292892.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU01029 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>JQ292892</Hit_accession>
+  <Hit_len>8845</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4976</Hsp_hit-from>
+      <Hsp_hit-to>5104</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|216761528|gb|FJ490751.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 96RU192 from Russia vpr protein (vpr) gene, partial cds</Hit_def>
+  <Hit_accession>FJ490751</Hit_accession>
+  <Hit_len>289</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|216761520|gb|FJ490747.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02RU873 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490747</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|216761514|gb|FJ490744.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 03RU996 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490744</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|216761502|gb|FJ490738.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02RU820 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490738</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|216761496|gb|FJ490735.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 96RU176 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490735</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|216761490|gb|FJ490732.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 04RU1141 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490732</Hit_accession>
+  <Hit_len>285</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|216761488|gb|FJ490731.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 04RU1139 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490731</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|216761486|gb|FJ490730.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 04RU1123 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490730</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|216761484|gb|FJ490729.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 03RU1093 from Russia vpr protein (vpr) gene, complete cds &gt;gi|216761518|gb|FJ490746.1| HIV-1 isolate 04RU1077 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490729</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|216761478|gb|FJ490726.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 96RU197 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490726</Hit_accession>
+  <Hit_len>288</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|216761476|gb|FJ490725.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 96RU190 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490725</Hit_accession>
+  <Hit_len>289</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|216761464|gb|FJ490719.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 99RU553 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490719</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|216761462|gb|FJ490718.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 99RU550 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490718</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|216761460|gb|FJ490717.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 99RU546 from Russia vpr protein (vpr) gene, complete cds &gt;gi|216761468|gb|FJ490721.1| HIV-1 isolate 02RU933 from Russia vpr protein (vpr) gene, complete cds &gt;gi|216761472|gb|FJ490723.1| HIV-1 isolate 02RU937 from Russia vpr protein (vpr) gene, complete cds &gt;gi|216761500|gb|FJ490737.1| HIV-1 isolate 98RU376 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490717</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|216761454|gb|FJ490714.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 00RU660 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490714</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|216761450|gb|FJ490712.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 98RU365 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490712</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|216761444|gb|FJ490709.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 97RU246 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490709</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|112351477|gb|DQ823361.1|</Hit_id>
+  <Hit_def>HIV-1 strain 01UAKV254 from Ukraine, partial genome</Hit_def>
+  <Hit_accession>DQ823361</Hit_accession>
+  <Hit_len>8879</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4878</Hsp_hit-from>
+      <Hsp_hit-to>5006</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|62532603|gb|AY857145.2|</Hit_id>
+  <Hit_def>HIV-1 isolate 8665145 from Australia, partial genome</Hit_def>
+  <Hit_accession>AY857145</Hit_accession>
+  <Hit_len>6575</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4920</Hsp_hit-from>
+      <Hsp_hit-to>5048</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|56609326|gb|AY829212.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02UZ0672 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>AY829212</Hit_accession>
+  <Hit_len>8816</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4878</Hsp_hit-from>
+      <Hsp_hit-to>5006</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|56609320|gb|AY829211.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02UZ0667 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), and vpu protein (vpu) genes, complete cds</Hit_def>
+  <Hit_accession>AY829211</Hit_accession>
+  <Hit_len>7403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4878</Hsp_hit-from>
+      <Hsp_hit-to>5006</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|56609270|gb|AY829206.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02UZ698 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>AY829206</Hit_accession>
+  <Hit_len>8834</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4878</Hsp_hit-from>
+      <Hsp_hit-to>5006</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|56609260|gb|AY829205.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02UZ694 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>AY829205</Hit_accession>
+  <Hit_len>8825</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4878</Hsp_hit-from>
+      <Hsp_hit-to>5006</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|56609240|gb|AY829203.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02UZ652 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>AY829203</Hit_accession>
+  <Hit_len>8825</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>217.178</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>4.6799e-52</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4878</Hsp_hit-from>
+      <Hsp_hit-to>5006</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|1112940581|gb|KY238328.1|</Hit_id>
+  <Hit_def>HIV-1 isolate MSK_SK_007_U5-vpu from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; tat protein (tat) and rev protein (rev) genes, partial cds; vpu protein (vpu) gene, complete cds; and envelope glycoprotein (env) gene, partial cds</Hit_def>
+  <Hit_accession>KY238328</Hit_accession>
+  <Hit_len>5771</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>215.332</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>1.68319e-51</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>5097</Hsp_hit-from>
+      <Hsp_hit-to>5227</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_qseq>
+      <Hsp_hseq>GGGTTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|1954999140|gb|MT369967.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1052_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369967</Hit_accession>
+  <Hit_len>8918</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>215.332</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>1.68319e-51</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>4971</Hsp_hit-from>
+      <Hsp_hit-to>5101</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|371559473|gb|JQ292894.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RUA007 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>JQ292894</Hit_accession>
+  <Hit_len>8976</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>215.332</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>1.68319e-51</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>5131</Hsp_hit-from>
+      <Hsp_hit-to>5261</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_qseq>
+      <Hsp_hseq>GGGTTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|238734312|gb|FJ388951.1|</Hit_id>
+  <Hit_def>HIV-1 isolate CY173 from Cyprus gag protein (gag) gene, complete cds; nonfunctional pol protein (pol) gene, partial sequence; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; nonfunctional rev protein (rev) gene, complete sequence; vpu protein (vpu) and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds</Hit_def>
+  <Hit_accession>FJ388951</Hit_accession>
+  <Hit_len>8146</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>215.332</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>1.68319e-51</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>4859</Hsp_hit-from>
+      <Hsp_hit-to>4989</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAGGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|1111816768|gb|KU749407.1|</Hit_id>
+  <Hit_def>HIV-1 isolate DEMA112UA042 from Ukraine, partial genome</Hit_def>
+  <Hit_accession>KU749407</Hit_accession>
+  <Hit_len>9167</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.485</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>6.05383e-51</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>133</Hsp_query-to>
+      <Hsp_hit-from>5286</Hsp_hit-from>
+      <Hsp_hit-to>5418</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>133</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTTAC</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTATAC</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|409181529|gb|JX500696.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 10RU6617 from Russia, partial genome</Hit_def>
+  <Hit_accession>JX500696</Hit_accession>
+  <Hit_len>9195</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.485</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>6.05383e-51</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>133</Hsp_query-to>
+      <Hsp_hit-from>5215</Hsp_hit-from>
+      <Hsp_hit-to>5347</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>127</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>133</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTTAC</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATGATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTATAC</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1954998730|gb|MT334909.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_620_2015 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT334909</Hit_accession>
+  <Hit_len>8913</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.485</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>6.05383e-51</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4973</Hsp_hit-from>
+      <Hsp_hit-to>5101</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACWTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|1839434354|gb|MT222948.1|</Hit_id>
+  <Hit_def>HIV-1 isolate DEMA614RU024 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT222948</Hit_accession>
+  <Hit_len>9141</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5185</Hsp_hit-from>
+      <Hsp_hit-to>5313</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACACAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|1835285521|gb|MN116200.1|</Hit_id>
+  <Hit_def>HIV-1 isolate A1188 from Cameroon gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and mutant nef protein (nef) gene, partial cds</Hit_def>
+  <Hit_accession>MN116200</Hit_accession>
+  <Hit_len>8800</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5103</Hsp_hit-from>
+      <Hsp_hit-to>5231</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACATATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGTCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||||| |||||||||||||||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|1573780252|gb|MH330380.1|</Hit_id>
+  <Hit_def>HIV-1 isolate MRK087 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330380</Hit_accession>
+  <Hit_len>9048</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5055</Hsp_hit-from>
+      <Hsp_hit-to>5183</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACATATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACCTTGCAACAATTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|1573780193|gb|MH330374.1|</Hit_id>
+  <Hit_def>HIV-1 isolate MRK067 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330374</Hit_accession>
+  <Hit_len>8987</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5046</Hsp_hit-from>
+      <Hsp_hit-to>5168</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>120</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>123</Hsp_align-len>
+      <Hsp_qseq>GGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|1573779997|gb|MH330354.1|</Hit_id>
+  <Hit_def>HIV-1 isolate BLG044 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330354</Hit_accession>
+  <Hit_len>8974</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4983</Hsp_hit-from>
+      <Hsp_hit-to>5111</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATATATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| ||||||||||| |||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>gi|1573779987|gb|MH330353.1|</Hit_id>
+  <Hit_def>HIV-1 isolate BLG043 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330353</Hit_accession>
+  <Hit_len>9024</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5080</Hsp_hit-from>
+      <Hsp_hit-to>5208</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>gi|1573779957|gb|MH330350.1|</Hit_id>
+  <Hit_def>HIV-1 isolate BLG035 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330350</Hit_accession>
+  <Hit_len>9004</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5033</Hsp_hit-from>
+      <Hsp_hit-to>5161</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>gi|1573779840|gb|MH330338.1|</Hit_id>
+  <Hit_def>HIV-1 isolate ARH029 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330338</Hit_accession>
+  <Hit_len>9205</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5212</Hsp_hit-from>
+      <Hsp_hit-to>5340</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAGCTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>gi|1573779830|gb|MH330337.1|</Hit_id>
+  <Hit_def>HIV-1 isolate ARH028 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330337</Hit_accession>
+  <Hit_len>8896</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4986</Hsp_hit-from>
+      <Hsp_hit-to>5114</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGGATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>gi|1131388213|gb|KX907402.1|</Hit_id>
+  <Hit_def>HIV-1 isolate CO6172V5 from Tanzania, partial genome</Hit_def>
+  <Hit_accession>KX907402</Hit_accession>
+  <Hit_len>8658</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4867</Hsp_hit-from>
+      <Hsp_hit-to>4995</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACATATGGGGATACTTGGGAAGGAGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||||| |||||||||||||||||| ||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>gi|1112940571|gb|KY238327.1|</Hit_id>
+  <Hit_def>HIV-1 isolate MSK_SK_006-2 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>KY238327</Hit_accession>
+  <Hit_len>8941</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5105</Hsp_hit-from>
+      <Hsp_hit-to>5233</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGGTTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gi|1112940561|gb|KY238326.1|</Hit_id>
+  <Hit_def>HIV-1 isolate MSK_SK_006-1 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>KY238326</Hit_accession>
+  <Hit_len>8935</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5105</Hsp_hit-from>
+      <Hsp_hit-to>5233</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGGTTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>58</Hit_num>
+  <Hit_id>gi|1046813559|gb|KX228819.1|</Hit_id>
+  <Hit_def>HIV-1 isolate Read3_HIV_URF from Cameroon, partial genome</Hit_def>
+  <Hit_accession>KX228819</Hit_accession>
+  <Hit_len>8481</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4941</Hsp_hit-from>
+      <Hsp_hit-to>5069</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACATATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGTCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||||| |||||||||||||||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>59</Hit_num>
+  <Hit_id>gi|2288430134|gb|ON959774.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 40528v01_LH from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; and tat protein (tat) gene, partial cds</Hit_def>
+  <Hit_accession>ON959774</Hit_accession>
+  <Hit_len>5060</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4888</Hsp_hit-from>
+      <Hsp_hit-to>5016</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGCTTAGGACAACATATCTATAACACATATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||||||||||||||||| |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>60</Hit_num>
+  <Hit_id>gi|2251119885|gb|OM825002.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_12_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence</Hit_def>
+  <Hit_accession>OM825002</Hit_accession>
+  <Hit_len>8723</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>61</Hit_num>
+  <Hit_id>gi|2251119876|gb|OM825001.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_11_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>OM825001</Hit_accession>
+  <Hit_len>8722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>62</Hit_num>
+  <Hit_id>gi|2251119867|gb|OM825000.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_10_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>OM825000</Hit_accession>
+  <Hit_len>8722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>63</Hit_num>
+  <Hit_id>gi|2251119858|gb|OM824999.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_08_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>OM824999</Hit_accession>
+  <Hit_len>8722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>64</Hit_num>
+  <Hit_id>gi|2251119849|gb|OM824998.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_06_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>OM824998</Hit_accession>
+  <Hit_len>8722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>65</Hit_num>
+  <Hit_id>gi|2251119839|gb|OM824997.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_05_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>OM824997</Hit_accession>
+  <Hit_len>8722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>66</Hit_num>
+  <Hit_id>gi|2251119821|gb|OM824996.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_04_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>OM824996</Hit_accession>
+  <Hit_len>8722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>67</Hit_num>
+  <Hit_id>gi|2251119804|gb|OM824995.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_03_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>OM824995</Hit_accession>
+  <Hit_len>8722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>68</Hit_num>
+  <Hit_id>gi|2251119792|gb|OM824994.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_02_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>OM824994</Hit_accession>
+  <Hit_len>8722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>69</Hit_num>
+  <Hit_id>gi|2251119780|gb|OM824993.2|</Hit_id>
+  <Hit_def>HIV-1 clone 20608v01_01_2days from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>OM824993</Hit_accession>
+  <Hit_len>8722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4891</Hsp_hit-from>
+      <Hsp_hit-to>5019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTGGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGAGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||| | |||||||||||||||||| ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>70</Hit_num>
+  <Hit_id>gi|2104545853|gb|MZ427747.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_234_2012 from Russia, complete genome</Hit_def>
+  <Hit_accession>MZ427747</Hit_accession>
+  <Hit_len>8877</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>133</Hsp_query-to>
+      <Hsp_hit-from>4970</Hsp_hit-from>
+      <Hsp_hit-to>5102</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>133</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTTAC</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAAYTTTGCAACAACTAYTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTGTAC</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>71</Hit_num>
+  <Hit_id>gi|557749600|gb|KF716465.1|</Hit_id>
+  <Hit_def>HIV-1 isolate DEURF08CM005 from Cameroon gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>KF716465</Hit_accession>
+  <Hit_len>9008</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5042</Hsp_hit-from>
+      <Hsp_hit-to>5170</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACATATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGTCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||||| |||||||||||||||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>72</Hit_num>
+  <Hit_id>gi|1954999270|gb|MT369980.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1100_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369980</Hit_accession>
+  <Hit_len>8893</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>133</Hsp_query-to>
+      <Hsp_hit-from>4957</Hsp_hit-from>
+      <Hsp_hit-to>5087</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>ATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTTAC</Hsp_qseq>
+      <Hsp_hseq>ATTAGGACAACATATCTATAAYACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAGTAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTTAC</Hsp_hseq>
+      <Hsp_midline>||| ||||||||||||||||| || | |||||||||||||||||||||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>73</Hit_num>
+  <Hit_id>gi|1954999210|gb|MT369974.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1093_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369974</Hit_accession>
+  <Hit_len>8861</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4968</Hsp_hit-from>
+      <Hsp_hit-to>5096</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTATTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>74</Hit_num>
+  <Hit_id>gi|1954999190|gb|MT369972.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1091_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369972</Hit_accession>
+  <Hit_len>8879</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4971</Hsp_hit-from>
+      <Hsp_hit-to>5099</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTATTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>75</Hit_num>
+  <Hit_id>gi|1954999150|gb|MT369968.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1053_2017 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369968</Hit_accession>
+  <Hit_len>8904</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4974</Hsp_hit-from>
+      <Hsp_hit-to>5102</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>76</Hit_num>
+  <Hit_id>gi|1954999080|gb|MT369961.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1042_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369961</Hit_accession>
+  <Hit_len>8946</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>4974</Hsp_hit-from>
+      <Hsp_hit-to>5102</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>ATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_qseq>
+      <Hsp_hseq>ATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAACAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>77</Hit_num>
+  <Hit_id>gi|1954998880|gb|MT334924.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1016_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT334924</Hit_accession>
+  <Hit_len>8893</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4969</Hsp_hit-from>
+      <Hsp_hit-to>5097</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACYTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>78</Hit_num>
+  <Hit_id>gi|1954998720|gb|MT334908.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_610_2015 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT334908</Hit_accession>
+  <Hit_len>8895</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4970</Hsp_hit-from>
+      <Hsp_hit-to>5098</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAATATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||| ||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>79</Hit_num>
+  <Hit_id>gi|371559463|gb|JQ292893.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RUA001 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds</Hit_def>
+  <Hit_accession>JQ292893</Hit_accession>
+  <Hit_len>8986</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5136</Hsp_hit-from>
+      <Hsp_hit-to>5264</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTATTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>80</Hit_num>
+  <Hit_id>gi|238733940|gb|FJ388907.1|</Hit_id>
+  <Hit_def>HIV-1 isolate CY058 from Cyprus gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; nonfunctional rev protein (rev) gene, complete sequence; vpu protein (vpu) gene, complete cds; nonfunctional envelope glycoprotein (env) gene, complete sequence; and nonfunctional nef protein (nef) gene, partial sequence</Hit_def>
+  <Hit_accession>FJ388907</Hit_accession>
+  <Hit_len>8167</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4899</Hsp_hit-from>
+      <Hsp_hit-to>5027</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATCAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>81</Hit_num>
+  <Hit_id>gi|216761524|gb|FJ490749.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02RU877 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490749</Hit_accession>
+  <Hit_len>285</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAAAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>82</Hit_num>
+  <Hit_id>gi|216761516|gb|FJ490745.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 04RU1073 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490745</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>83</Hit_num>
+  <Hit_id>gi|216761506|gb|FJ490740.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 02RU829 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490740</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>84</Hit_num>
+  <Hit_id>gi|216761482|gb|FJ490728.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 03RU1103 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490728</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>85</Hit_num>
+  <Hit_id>gi|216761466|gb|FJ490720.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 99RU554 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490720</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAATATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||| ||||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>86</Hit_num>
+  <Hit_id>gi|216761456|gb|FJ490715.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 00RU672 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490715</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAGCACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||| ||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>87</Hit_num>
+  <Hit_id>gi|216761452|gb|FJ490713.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 98RU367 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490713</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATGATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>88</Hit_num>
+  <Hit_id>gi|216761448|gb|FJ490711.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 03RU1028 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490711</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGTCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>89</Hit_num>
+  <Hit_id>gi|216761446|gb|FJ490710.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 03RU1014 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490710</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATGACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| ||||||||||||||| |||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>90</Hit_num>
+  <Hit_id>gi|216761440|gb|FJ490707.1|</Hit_id>
+  <Hit_def>HIV-1 isolate 96RU160 from Russia vpr protein (vpr) gene, complete cds</Hit_def>
+  <Hit_accession>FJ490707</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>121</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACAAATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||| ||||||||||| | |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>91</Hit_num>
+  <Hit_id>gi|151368121|gb|EF545108.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU00051 from Russia, complete genome</Hit_def>
+  <Hit_accession>EF545108</Hit_accession>
+  <Hit_len>8806</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>211.638</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.17734e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4980</Hsp_hit-from>
+      <Hsp_hit-to>5108</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>92</Hit_num>
+  <Hit_id>gi|1573780213|gb|MH330376.1|</Hit_id>
+  <Hit_def>HIV-1 isolate MRK075 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330376</Hit_accession>
+  <Hit_len>8934</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>209.792</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>7.83112e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>133</Hsp_query-to>
+      <Hsp_hit-from>4988</Hsp_hit-from>
+      <Hsp_hit-to>5120</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>133</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTTAC</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAATAAGAATYTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTRTAC</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||||||||||| |||||||||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>93</Hit_num>
+  <Hit_id>gi|1573780077|gb|MH330362.1|</Hit_id>
+  <Hit_def>HIV-1 isolate IRK029 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330362</Hit_accession>
+  <Hit_len>8921</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>209.792</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>7.83112e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4980</Hsp_hit-from>
+      <Hsp_hit-to>5108</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>123</Hsp_identity>
+      <Hsp_positive>123</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACAYATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATMATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||| ||||||||||| | |||||||||||||||||||||||||| ||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>94</Hit_num>
+  <Hit_id>gi|1954999010|gb|MT369954.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1035_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369954</Hit_accession>
+  <Hit_len>8883</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>209.792</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>7.83112e-50</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4977</Hsp_hit-from>
+      <Hsp_hit-to>5105</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>123</Hsp_identity>
+      <Hsp_positive>123</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATAACACCTATGGGGATACTTGGGAAGGRGTTGAAGCTATAATAAGAAYTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||||||||| | |||||||||||||||||| ||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>95</Hit_num>
+  <Hit_id>gi|2104545724|gb|MZ427734.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_3695_2019 from Russia, complete genome</Hit_def>
+  <Hit_accession>MZ427734</Hit_accession>
+  <Hit_len>8843</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>207.945</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>2.81657e-49</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>138</Hsp_query-to>
+      <Hsp_hit-from>4930</Hsp_hit-from>
+      <Hsp_hit-to>5066</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>129</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTTACTCAAG</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGRCAACATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAACAAGAACTYTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTATAC-CAAG</Hsp_hseq>
+      <Hsp_midline>||||| || ||||||||||||||||| | |||||||||||||||||||||||||| ||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>96</Hit_num>
+  <Hit_id>gi|1573780057|gb|MH330360.1|</Hit_id>
+  <Hit_def>HIV-1 isolate IRK026 from Russia, complete genome</Hit_def>
+  <Hit_accession>MH330360</Hit_accession>
+  <Hit_len>9015</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>206.098</Hsp_bit-score>
+      <Hsp_score>111</Hsp_score>
+      <Hsp_evalue>1.01302e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5100</Hsp_hit-from>
+      <Hsp_hit-to>5228</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATRACACYTATGGGGATACTTGGGAAGGGGTTGAAGCTATARYAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| ||||||||||||||| |||| | |||||||||||||||||||||||||| ||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>97</Hit_num>
+  <Hit_id>gi|1954999260|gb|MT369979.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1099_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369979</Hit_accession>
+  <Hit_len>8864</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>206.098</Hsp_bit-score>
+      <Hsp_score>111</Hsp_score>
+      <Hsp_evalue>1.01302e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4961</Hsp_hit-from>
+      <Hsp_hit-to>5089</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAAYATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATARTAAGAACKTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||| ||||||||||||| | |||||||||||||||||||||||||| |||| ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>98</Hit_num>
+  <Hit_id>gi|1954999369|gb|MT369990.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1110_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369990</Hit_accession>
+  <Hit_len>8813</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>204.252</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>3.64347e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>4971</Hsp_hit-from>
+      <Hsp_hit-to>5101</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>123</Hsp_identity>
+      <Hsp_positive>123</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAACATATCTATRACACCTATGGGGATACTTGGGAAGGGGTTGAAGYTATARTAAGAMTTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_hseq>
+      <Hsp_midline>||||| ||||||||||||||| |||| | |||||||||||||||||||||||||| |||| |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>99</Hit_num>
+  <Hit_id>gi|1954999060|gb|MT369959.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1040_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT369959</Hit_accession>
+  <Hit_len>8890</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>204.252</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>3.64347e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>4971</Hsp_hit-from>
+      <Hsp_hit-to>5099</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATT</Hsp_qseq>
+      <Hsp_hseq>GGATTAGGACAAYATATCTATAACACCTATGGGGATACTTGGGAAGGGGTTGAAGCTATAACAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAMCATAGCAGAATAGGCATT</Hsp_hseq>
+      <Hsp_midline>||||| |||||| ||||||||||||| | |||||||||||||||||||||||||| ||||| |||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>100</Hit_num>
+  <Hit_id>gi|1954998890|gb|MT334925.1|</Hit_id>
+  <Hit_def>HIV-1 isolate RU_ERS_1018_2016 from Russia, complete genome</Hit_def>
+  <Hit_accession>MT334925</Hit_accession>
+  <Hit_len>8900</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>202.405</Hsp_bit-score>
+      <Hsp_score>109</Hsp_score>
+      <Hsp_evalue>1.31042e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>4966</Hsp_hit-from>
+      <Hsp_hit-to>5096</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>GGATTGGGACAACATATCTATAACACATCTGGGGATACTTGGGAAGGGGTTGAAGATATAATAAGAACTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACATAGCAGAATAGGCATTTT</Hsp_qseq>
+      <Hsp_hseq>GGRTTAGGACAACATATCTATRACACYTATGGGGATACYTGGGAAGGGGTTGAAGCTATAATAAGAWCTTTGCAACAACTACTGTTTGTTCATTTCAGAATTGGGTGCCAACAYAGCAGAATAGGCATTTT</Hsp_hseq>
+      <Hsp_midline>|| || ||||||||||||||| |||| | ||||||||| |||||||||||||||| |||||||||| |||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>91700463</Statistics_db-num>
+      <Statistics_db-len>1849721836</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.46</Statistics_kappa>
+      <Statistics_lambda>1.28</Statistics_lambda>
+      <Statistics_entropy>0.85</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
