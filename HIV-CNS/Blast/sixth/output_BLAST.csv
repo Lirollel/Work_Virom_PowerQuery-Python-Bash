@@ -1,0 +1,601 @@
+input_seq_id;hit_num;accession_id;definition
+100_liquor_Chelyabinsk;1;EF589039;"HIV-1 isolate 02KZPAV300497 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+100_liquor_Chelyabinsk;2;KJ771750;Human immunodeficiency virus isolate 12-01789 pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;3;KR233392;HIV-1 isolate VLD021 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;4;KR233361;HIV-1 isolate VLD147 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;5;KF720944;HIV-1 isolate AM013_2009 from Armenia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;6;HQ161925;HIV-1 isolate SML087 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;7;EU345678;HIV-1 isolate IR67B from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;8;MG063795;HIV-1 isolate MARY1069/RU from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;9;MF124848;HIV-1 isolate SHL046 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;10;KM247300;HIV-1 isolate RU_IRK_556_1999 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;11;KM247291;HIV-1 isolate RU_IRK_546_1999 from Russia pol protein (pol) gene, partial cds >gi|700588763|gb|KM247299.1| HIV-1 isolate RU_IRK_555_1999 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;12;MW115522;HIV-1 isolate SUR073 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;13;HM345536;HIV-1 isolate 01MOSR from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;14;HQ161918;HIV-1 isolate SML010 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;15;EF589041;"HIV-1 isolate 02KZYUZ300425 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+100_liquor_Chelyabinsk;16;MK931603;HIV-1 isolate RU_ERS_0393_2014 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;17;KR233364;HIV-1 isolate VLD167 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;18;KC665922;HIV-1 isolate RU_KHB057 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;19;KC509853;HIV-1 isolate RU_KHB074 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;20;EU345694;HIV-1 isolate IR84B from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;21;EU345692;HIV-1 isolate IR82B from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;22;MN116387;HIV-1 isolate 486-14.09.2017 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;23;KX530767;HIV-1 isolate 324628 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;24;KF374894;HIV-1 isolate 12RU191c from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;25;KF374867;HIV-1 isolate 11RU10520 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;26;MW115503;HIV-1 isolate SUR035 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;27;EU345893;HIV-1 isolate RUJA52 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;28;EU345661;HIV-1 isolate IR49B from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;29;MK931809;HIV-1 isolate RU_ERS_1465_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;30;MK931596;HIV-1 isolate RU_ERS_0381_2014 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;31;MK795086;HIV-1 isolate KRD222 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;32;MK589657;HIV-1 isolate KRS6194 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;33;MK029284;HIV-1 isolate 18971 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;34;MH494286;HIV-1 isolate MnObl_73 from Belarus pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;35;MF403212;HIV-1 isolate A1_0716391855885417 from Spain pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;36;KX662386;HIV-1 isolate UK_A1_36 from United Kingdom pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;37;KM247292;HIV-1 isolate RU_IRK_548_1999 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;38;OL792305;HIV-1 isolate 1311000007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;39;JX290208;HIV-1 isolate 10RU5836 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;40;EU345891;HIV-1 isolate RUJA39 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;41;EU345843;HIV-1 isolate AdelB from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;42;EU345773;HIV-1 isolate RU01074 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;43;EU345760;HIV-1 isolate RU01057 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;44;EF589040;"HIV-1 isolate 02KZYUZ300413 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+100_liquor_Chelyabinsk;45;MK931936;HIV-1 isolate RU_ERS_2190_2016 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;46;MK931767;HIV-1 isolate RU_ERS_0951_2015 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;47;HF679237;HIV-1 M:A1 Mn13A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+100_liquor_Chelyabinsk;48;KC156533;HIV-1 isolate RU_BLG003 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;49;JX290235;HIV-1 isolate 10RU72m from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;50;HM345566;HIV-1 isolate 37MOSR from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;51;HQ412525;HIV-1 isolate KLG083 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;52;MK931814;HIV-1 isolate RU_ERS_1470_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;53;MK589583;HIV-1 isolate KRS5414 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;54;MK245670;HIV-1 isolate 364_TAJ from Tajikistan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;55;HQ424157;HIV-1 isolate KRD025 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;56;HQ161913;HIV-1 isolate VLD127 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;57;FJ009761;HIV-1 isolate RU_915_1067 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;58;EU345766;HIV-1 isolate RU01064 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;59;MK931885;HIV-1 isolate RU_ERS_1868_2010 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;60;MK931868;HIV-1 isolate RU_ERS_1759_2008 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;61;MK931803;HIV-1 isolate RU_ERS_1458_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;62;MK931567;HIV-1 isolate RU_ERS_0312_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;63;MK589458;HIV-1 isolate KRS1827 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;64;MH330349;HIV-1 isolate BLG033 from Russia, complete genome
+100_liquor_Chelyabinsk;65;MH543066;HIV-1 isolate 146_TAJ from Tajikistan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;66;MF124829;HIV-1 isolate SHL013 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;67;KM247298;HIV-1 isolate RU_IRK_554_1999 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;68;KM247296;HIV-1 isolate RU_IRK_552_1999 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;69;OL752818;HIV-1 isolate 21KG84 from Kyrgyzstan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;70;KJ499621;HIV-1 isolate RU_KZN084 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;71;KF374926;HIV-1 isolate 12RU46p from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;72;KF374892;HIV-1 isolate 12RU184c from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;73;KF374866;HIV-1 isolate 11RU10476 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;74;KF374856;HIV-1 isolate 11RU9750 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;75;JX290219;HIV-1 isolate 10RU6602 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;76;MW115498;HIV-1 isolate SUR026 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;77;HE657456;HIV-1 M:A Mn-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+100_liquor_Chelyabinsk;78;HM345538;HIV-1 isolate 03MOSR from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;79;HQ161917;HIV-1 isolate SML006 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;80;EU345875;HIV-1 isolate RUJA16 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;81;EU345691;HIV-1 isolate IR81B from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;82;EF122560;HIV-1 isolate 04CNLN69 from China gag protein (gag) and pol protein (pol) genes, partial cds
+100_liquor_Chelyabinsk;83;MF403210;HIV-1 isolate A1_6155532822997478 from Spain pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;84;KJ722094;HIV-1 isolate RU_NNG549 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;85;KJ722077;HIV-1 isolate RU_NNG442 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;86;KJ722073;HIV-1 isolate RU_NNG424 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;87;KF257855;HIV-1 isolate Orb456 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;88;KF257851;HIV-1 isolate Orb445 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;89;KC340486;HIV-1 isolate 564286 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;90;KC509783;HIV-1 isolate RU_IRK035 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;91;HF679252;HIV-1 M:A1 Mn-34A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+100_liquor_Chelyabinsk;92;JX141204;HIV-1 isolate Chu431/RU from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;93;HQ412520;HIV-1 isolate KLG073 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;94;HQ161915;HIV-1 isolate SML001 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;95;FJ822097;HIV-1 isolate 43 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;96;MK931682;HIV-1 isolate RU_ERS_0660_2015 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;97;MK931642;HIV-1 isolate RU_ERS_0529_2015 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;98;MK245706;HIV-1 isolate 462_TAJ from Tajikistan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;99;MK002544;HIV-1 isolate 119_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;100;KY235854;HIV-1 isolate 15UZ16 from Uzbekistan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;101;KC254601;HIV-1 isolate BLG037 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;102;JX141221;HIV-1 isolate Sam496 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;103;MW115510;HIV-1 isolate SUR046 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;104;MK931897;HIV-1 isolate RU_ERS_1896_2009 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;105;MK931860;HIV-1 isolate RU_ERS_1724_2008 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;106;MK931689;HIV-1 isolate RU_ERS_0686_2015 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;107;MK931573;HIV-1 isolate RU_ERS_0319_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;108;MK589584;HIV-1 isolate KRS5415 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;109;MK029178;HIV-1 isolate 16105 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;110;MK002497;HIV-1 isolate 24_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;111;KR233404;HIV-1 isolate SRT042 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;112;OP330432;HIV-1 isolate RES_1389 from Belarus pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;113;OP330431;HIV-1 isolate RES_1302 from Belarus pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;114;KP659708;HIV-1 isolate RU_PRM069 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;115;OM050057;HIV-1 isolate 45-261 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;116;KC340436;HIV-1 isolate 500659 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;117;JQ292892;"HIV-1 isolate RU01029 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+100_liquor_Chelyabinsk;118;MK931815;HIV-1 isolate RU_ERS_1472_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;119;MK931793;HIV-1 isolate RU_ERS_1132_2017 from Russia pol protein (pol) and gag protein (gag) genes, partial cds >gi|1824673972|gb|MK931991.1| HIV-1 isolate RU_ERS_2439_2017 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;120;MH666620;HIV-1 isolate MOW177039 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;121;MH666537;HIV-1 isolate MOW140706 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;122;MG798954;HIV-1 isolate KYR_Bishkek51 from Kyrgyzstan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;123;KY235853;HIV-1 isolate 15UZ14 from Uzbekistan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;124;KR233390;HIV-1 isolate VLD013 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;125;KF374871;HIV-1 isolate 11RU11913 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;126;KC665918;HIV-1 isolate RU_KHB051 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;127;MK931776;HIV-1 isolate RU_ERS_0964_2015 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;128;MK931471;HIV-1 isolate RU_ERS_0386_2014 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;129;MK589645;HIV-1 isolate KRS6182 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;130;MK589532;HIV-1 isolate KRS4268 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;131;MK029316;HIV-1 isolate 19315 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;132;MK029222;HIV-1 isolate 18844 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;133;MH666651;HIV-1 isolate MOW185573 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;134;MH666409;"HIV-1 isolate MOW113725 from Russia pol protein (pol) gene, partial cds; and nonfunctional gag protein (gag) gene, partial sequence"
+100_liquor_Chelyabinsk;135;MH330362;HIV-1 isolate IRK029 from Russia, complete genome
+100_liquor_Chelyabinsk;136;MK002554;HIV-1 isolate 137_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;137;KX788815;HIV-1 isolate 755 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;138;KM190962;HIV-1 strain MnObl-81 from Belarus pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;139;KF498462;HIV-1 isolate KZ_Pav2012_118 from Kazakhstan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;140;HE657493;HIV-1 M:A Mg-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+100_liquor_Chelyabinsk;141;MK931911;HIV-1 isolate RU_ERS_1917_2009 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;142;MK931758;HIV-1 isolate RU_ERS_0931_2015 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;143;MK931566;HIV-1 isolate RU_ERS_0310_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;144;MK931561;HIV-1 isolate RU_ERS_0303_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;145;MK589654;HIV-1 isolate KRS6191 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;146;MK589597;HIV-1 isolate KRS5723 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;147;MK589556;HIV-1 isolate KRS4967 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;148;MH667159;HIV-1 isolate MOW29257 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;149;MK245698;HIV-1 isolate 450_TAJ from Tajikistan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;150;KJ722076;HIV-1 isolate RU_NNG441 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;151;KC509832;HIV-1 isolate RU_IRK010 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;152;KC208003;HIV-1 isolate RU_BLG004 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;153;MK931804;HIV-1 isolate RU_ERS_1459_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;154;MK029280;HIV-1 isolate 18964 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;155;MK029262;HIV-1 isolate 18912 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;156;MH543048;HIV-1 isolate 106_TAJ from Tajikistan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;157;OP805514;HIV-1 isolate 297_KRS_11.21 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;158;OP299039;HIV-1 isolate 21_1PN from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;159;KF177162;HIV-1 isolate RU_KHB048 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;160;KC509842;HIV-1 isolate RU_KHB013 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;161;GQ241002;HIV-1 isolate PN58 from Spain pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;162;FJ491442;HIV-1 isolate 3351 from Russia pol protein (pol) gene, partial cds >gi|1587446124|gb|MK029269.1| HIV-1 isolate 18922 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;163;MK589646;HIV-1 isolate KRS6183 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;164;MK589566;HIV-1 isolate KRS5396 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;165;MH666908;HIV-1 isolate MOW243257 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;166;MH330358;HIV-1 isolate IRK014 from Russia, complete genome
+100_liquor_Chelyabinsk;167;MG211641;HIV-1 isolate 16Tomsk2569 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;168;KJ499587;HIV-1 isolate RU_KZN046 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;169;MH667168;HIV-1 isolate MOW295009 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;170;MK245693;HIV-1 isolate 442_TAJ from Tajikistan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;171;KY235849;HIV-1 isolate 13UZ56 from Uzbekistan pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;172;KC509829;HIV-1 isolate RU_IRK007 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;173;KC509795;HIV-1 isolate RU_IRK079 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;174;MH666619;HIV-1 isolate MOW176853 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;175;MH666601;HIV-1 isolate MOW171197 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;176;MH666546;HIV-1 isolate MOW141752 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;177;OM050117;HIV-1 isolate 94-94a from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;178;MK589604;HIV-1 isolate KRS5731 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;179;MK589490;HIV-1 isolate KRS4215 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;180;MH330368;HIV-1 isolate IRK042 from Russia, complete genome
+100_liquor_Chelyabinsk;181;KR233352;HIV-1 isolate VLD114 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;182;OM856397;HIV-1 isolate Oryol.1299 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;183;OM856664;HIV-1 isolate Oryol.5807 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;184;KJ499575;HIV-1 isolate RU_KZN034 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;185;MK931623;HIV-1 isolate RU_ERS_0420_2014 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;186;MK931613;HIV-1 isolate RU_ERS_0408_2014 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;187;MK589647;HIV-1 isolate KRS6184 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;188;KC509830;HIV-1 isolate RU_IRK008 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;189;MW229184;HIV-1 isolate 119_KRS_01.20 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;190;MK589574;HIV-1 isolate KRS5405 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;191;MH666848;HIV-1 isolate MOW230272 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;192;OP330415;HIV-1 isolate RES_1332 from Belarus pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;193;MK029195;HIV-1 isolate 18783 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;194;MH667121;HIV-1 isolate MOW285258 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;195;MH666805;HIV-1 isolate MOW214455 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;196;MH666583;HIV-1 isolate MOW153796 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;197;MH666578;HIV-1 isolate MOW15256 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;198;OL792493;HIV-1 isolate 1311000914 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+100_liquor_Chelyabinsk;199;KC254620;HIV-1 isolate IRK040 from Russia pol protein (pol) gene, partial cds
+100_liquor_Chelyabinsk;200;MK029171;HIV-1 isolate 16047 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;1;JX290271;HIV-1 isolate 09RU2272 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;2;JX290250;HIV-1 isolate 10RU6037 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;3;MG264385;HIV-1 isolate Rostov03 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;4;KF374810;HIV-1 isolate 11RU12082 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;5;JX290251;HIV-1 isolate 10RU6049 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;6;MG264384;HIV-1 isolate Rostov02 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;7;KX574386;HIV-1 isolate Kemerovo56 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;8;KF374820;HIV-1 isolate 11RU12152 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;9;KF374764;HIV-1 isolate 11RU9822 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;10;MG211616;HIV-1 isolate 16Tomsk2972 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;11;KF374794;HIV-1 isolate 11RU10830 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;12;KF374762;HIV-1 isolate 11RU9799 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;13;KF374735;HIV-1 isolate 11RU9512 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;14;KF374730;HIV-1 isolate 11RU9478 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;15;KF374725;HIV-1 isolate 11RU9383 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;16;JX290264;HIV-1 isolate 10RU6691 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;17;KF374819;HIV-1 isolate 11RU12145 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;18;KF374770;HIV-1 isolate 11RU9899 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;19;JX290260;HIV-1 isolate 10RU6498 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;20;KF374841;HIV-1 isolate 12RU17000 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;21;KF374816;HIV-1 isolate 11RU12130 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;22;KF374799;HIV-1 isolate 11RU11905 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;23;KF374769;HIV-1 isolate 11RU9872 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;24;KF374743;HIV-1 isolate 11RU9662 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;25;KF374742;HIV-1 isolate 11RU9661 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;26;KF374738;HIV-1 isolate 11RU9644 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;27;JX500700;HIV-1 isolate 10RU6649 from Russia, partial genome
+185_plasma_Chelyabinsk;28;JX500698;HIV-1 isolate 11RU18n from Russia, partial genome
+185_plasma_Chelyabinsk;29;JX290265;HIV-1 isolate 10RU6712 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;30;JX290263;HIV-1 isolate 10RU6649 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;31;JX290249;HIV-1 isolate 10RU5983 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;32;KF374811;HIV-1 isolate 11RU12094 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;33;KF374803;HIV-1 isolate 11RU11953 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;34;KF374778;HIV-1 isolate 11RU10361 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;35;KF374727;HIV-1 isolate 11RU9416 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;36;KF374722;HIV-1 isolate 12RU7005 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;37;MG211539;HIV-1 isolate 14Tomsk09 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;38;KF374839;HIV-1 isolate 12RU16911 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;39;KF374837;HIV-1 isolate 12RU16448 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;40;KF374802;HIV-1 isolate 11RU11952 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;41;KF374798;HIV-1 isolate 11RU11900 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;42;KF374760;HIV-1 isolate 11RU9795 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;43;KF374757;HIV-1 isolate 11RU9785 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;44;KF374754;HIV-1 isolate 11RU9770 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;45;KF374751;HIV-1 isolate 11RU9754 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;46;KF374723;HIV-1 isolate 12RU7006 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;47;KF374713;HIV-1 isolate 12RU6986 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;48;KF374711;HIV-1 isolate 12RU6984 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;49;JX500699;HIV-1 isolate 10RU5983 from Russia, partial genome
+185_plasma_Chelyabinsk;50;JX290262;HIV-1 isolate 10RU6637 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;51;JX290255;HIV-1 isolate 10RU6311 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;52;JN230353;HIV-1 strain 10RU6637 from Russia, partial genome
+185_plasma_Chelyabinsk;53;MG211581;HIV-1 isolate 16Tomsk2223 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;54;KF374779;HIV-1 isolate 11RU10367 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;55;KF374736;HIV-1 isolate 11RU9631 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;56;MG211577;HIV-1 isolate 16Tomsk2045 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;57;MG211562;HIV-1 isolate 15Tomsk22 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;58;KF374827;HIV-1 isolate 11RU13095 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;59;KF374800;HIV-1 isolate 11RU11907 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;60;KF374745;HIV-1 isolate 11RU9665 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;61;KF374732;HIV-1 isolate 11RU9489 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;62;JX290259;HIV-1 isolate 10RU6443 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;63;MG211620;HIV-1 isolate 16Tomsk3331 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;64;KF374824;HIV-1 isolate 11RU13053 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;65;KF374817;HIV-1 isolate 11RU12135 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;66;KF374771;HIV-1 isolate 11RU9901 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;67;MG211545;HIV-1 isolate 14Tomsk64 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;68;KX574381;HIV-1 isolate Kemerovo49 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;69;KF374845;HIV-1 isolate 12RU473n from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;70;KF374826;HIV-1 isolate 11RU13061 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;71;KF374809;HIV-1 isolate 11RU12081 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;72;MT101833;HIV-1 isolate 16RU64 pol protein (pol) and gag protein (gag) genes, partial cds
+185_plasma_Chelyabinsk;73;MT101813;HIV-1 isolate 16RU22 pol protein (pol) and gag protein (gag) genes, partial cds
+185_plasma_Chelyabinsk;74;MG211585;HIV-1 isolate 16Tomsk2290 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;75;MG211573;HIV-1 isolate 15Tomsk41 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;76;KF374830;HIV-1 isolate 12RU15214 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;77;KF374805;HIV-1 isolate 11RU11980 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;78;KF374789;HIV-1 isolate 11RU10482 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;79;KF374748;HIV-1 isolate 11RU9681 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;80;KF374741;HIV-1 isolate 11RU9655 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;81;KF374721;HIV-1 isolate 12RU7004 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;82;JX500701;HIV-1 isolate 09RU4829 from Russia, partial genome
+185_plasma_Chelyabinsk;83;MN649290;HIV-1 isolate 01_Omsk2 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;84;MG211599;HIV-1 isolate 16Tomsk2628 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;85;MG211578;HIV-1 isolate 16Tomsk2167 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;86;KX574384;HIV-1 isolate Kemerovo54 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;87;KJ197202;"HIV-1 isolate RU_8501 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+185_plasma_Chelyabinsk;88;KX574391;HIV-1 isolate Kemerovo62 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;89;KF374796;HIV-1 isolate 11RU11186 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;90;KF374718;HIV-1 isolate 12RU6997 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;91;MT101799;HIV-1 isolate 16RU01 pol protein (pol) and gag protein (gag) genes, partial cds
+185_plasma_Chelyabinsk;92;MG211613;HIV-1 isolate 16Tomsk2943 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;93;KX574388;HIV-1 isolate Kemerovo58 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;94;KJ197200;"HIV-1 isolate RU_8141 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+185_plasma_Chelyabinsk;95;KF374823;HIV-1 isolate 11RU12160 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;96;KF374791;HIV-1 isolate 11RU10533 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;97;KF374781;HIV-1 isolate 11RU10393 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;98;KF374772;HIV-1 isolate 11RU9907 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;99;KF374767;HIV-1 isolate 11RU9828 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;100;KF374763;HIV-1 isolate 11RU9800 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;101;KF374746;HIV-1 isolate 11RU9674 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;102;JX290257;HIV-1 isolate 10RU6407 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;103;KF374832;HIV-1 isolate 12RU15557 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;104;KF374782;HIV-1 isolate 11RU10394 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;105;MT369988;HIV-1 isolate RU_ERS_1108_2016 from Russia, complete genome
+185_plasma_Chelyabinsk;106;MG211588;HIV-1 isolate 16Tomsk2322 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;107;MG211579;HIV-1 isolate 16Tomsk2203 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;108;KF374768;HIV-1 isolate 11RU9832 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;109;KF374756;HIV-1 isolate 11RU9780 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;110;KF374749;HIV-1 isolate 11RU9705 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;111;MK984160;HIV-1 isolate T11.17 from Russia, complete genome
+185_plasma_Chelyabinsk;112;MG211574;HIV-1 isolate 15Tomsk45 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;113;KX574373;HIV-1 isolate Kemerovo39 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;114;KX574371;HIV-1 isolate Kemerovo36 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;115;KF374831;HIV-1 isolate 12RU15550 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;116;KF374825;HIV-1 isolate 11RU13060 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;117;KF374786;HIV-1 isolate 11RU10471 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;118;KF374784;HIV-1 isolate 11RU10400 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;119;KF374726;HIV-1 isolate 11RU9405 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;120;MW229218;HIV-1 isolate 35_KRS_01.19 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;121;KX640182;HIV-1 isolate Tyumen33 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;122;MW229217;HIV-1 isolate 34_KRS_01.19 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;123;MT101827;"HIV-1 isolate 16RU43 nonfunctional pol protein (pol) gene, partial sequence; and gag protein (gag) gene, partial cds"
+185_plasma_Chelyabinsk;124;MK002569;HIV-1 isolate 10_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;125;MG264382;HIV-1 isolate KBR01 from Russia pol protein-like (pol) gene, partial sequence
+185_plasma_Chelyabinsk;126;KX574377;HIV-1 isolate Kemerovo45 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;127;KF374801;HIV-1 isolate 11RU11948 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;128;KF374766;HIV-1 isolate 11RU9826 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;129;MT101822;HIV-1 isolate 16RU34 pol protein (pol) and gag protein (gag) genes, partial cds
+185_plasma_Chelyabinsk;130;MT101800;HIV-1 isolate 16RU03 pol protein (pol) and gag protein (gag) genes, partial cds
+185_plasma_Chelyabinsk;131;MK245769;HIV-1 isolate 381_TAJ from Tajikistan pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;132;MK002586;HIV-1 isolate 101_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;133;MG211592;HIV-1 isolate 16Tomsk2533 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;134;MG211548;HIV-1 isolate 15Tomsk03 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;135;KX574372;HIV-1 isolate Kemerovo37 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;136;KX574367;HIV-1 isolate Kemerovo29 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;137;KF374813;HIV-1 isolate 11RU12101 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;138;KF374807;HIV-1 isolate 11RU11984 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;139;KF374774;HIV-1 isolate 11RU9928 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;140;KF374744;HIV-1 isolate 11RU9664 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;141;KF374739;HIV-1 isolate 11RU9650 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;142;MK002587;HIV-1 isolate 105_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;143;MG211615;HIV-1 isolate 16Tomsk2964 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;144;MG211590;HIV-1 isolate 16Tomsk2344 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;145;MK002573;HIV-1 isolate 17_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;146;KX574359;HIV-1 isolate Kemerovo09 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;147;MT101834;HIV-1 isolate 16RU67 pol protein (pol) and gag protein (gag) genes, partial cds
+185_plasma_Chelyabinsk;148;MT101817;HIV-1 isolate 16RU28 pol protein (pol) and gag protein (gag) genes, partial cds
+185_plasma_Chelyabinsk;149;MK245770;HIV-1 isolate 425_TAJ from Tajikistan pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;150;MK002588;HIV-1 isolate 106_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;151;MG211627;HIV-1 isolate 16Tomsk6591 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;152;KX574390;HIV-1 isolate Kemerovo61 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;153;KX574366;HIV-1 isolate Kemerovo25 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;154;KF374833;HIV-1 isolate 12RU15565 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;155;KF374818;HIV-1 isolate 11RU12144 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;156;KF374775;HIV-1 isolate 11RU9932 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;157;KF374750;HIV-1 isolate 11RU9753 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;158;KF374737;HIV-1 isolate 11RU9637 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;159;MG211591;HIV-1 isolate 16Tomsk2532 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;160;KF374793;HIV-1 isolate 11RU10769 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;161;MG211589;HIV-1 isolate 16Tomsk2326 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;162;KF374812;HIV-1 isolate 11RU12100 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;163;KF374780;HIV-1 isolate 11RU10379 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;164;JX500702;HIV-1 isolate 10RU6366 from Russia, partial genome
+185_plasma_Chelyabinsk;165;JX290269;HIV-1 isolate 10RU6837 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;166;MT369985;HIV-1 isolate RU_ERS_1105_2016 from Russia, complete genome
+185_plasma_Chelyabinsk;167;MK002579;HIV-1 isolate 71_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;168;MK002576;HIV-1 isolate 47_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;169;MK002571;HIV-1 isolate 14_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;170;MG211619;HIV-1 isolate 16Tomsk3330 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;171;MG211604;HIV-1 isolate 16Tomsk2717 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;172;MG211572;HIV-1 isolate 15Tomsk39 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;173;MG211567;HIV-1 isolate 15Tomsk32 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;174;MG211565;HIV-1 isolate 15Tomsk30 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;175;MG211550;HIV-1 isolate 15Tomsk05 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;176;KX574379;HIV-1 isolate Kemerovo47 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;177;KX574360;HIV-1 isolate Kemerovo10 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;178;KF374804;HIV-1 isolate 11RU11955 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;179;KF374753;HIV-1 isolate 11RU9760 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;180;KF374729;HIV-1 isolate 11RU9456 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;181;KF374724;HIV-1 isolate 12RU7012 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;182;KF374710;HIV-1 isolate 12RU6982 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;183;JX290268;HIV-1 isolate 10RU6829 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;184;MT369991;HIV-1 isolate RU_ERS_1111_2016 from Russia, complete genome
+185_plasma_Chelyabinsk;185;MT101828;HIV-1 isolate 16RU48 pol protein (pol) and gag protein (gag) genes, partial cds
+185_plasma_Chelyabinsk;186;MG211621;HIV-1 isolate 16Tomsk3344 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;187;MK002577;HIV-1 isolate 58_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;188;MG211609;HIV-1 isolate 16Tomsk2848 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;189;MG211593;HIV-1 isolate 16Tomsk2567 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;190;KF374758;HIV-1 isolate 11RU9788 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;191;MT101814;HIV-1 isolate 16RU23 pol protein (pol) and gag protein (gag) genes, partial cds
+185_plasma_Chelyabinsk;192;MN649310;HIV-1 isolate 34_Omsk2 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;193;MN649302;HIV-1 isolate 19_Omsk2 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;194;MK002567;HIV-1 isolate 04_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;195;MH543311;HIV-1 isolate 359_TAJ from Tajikistan pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;196;KF374843;HIV-1 isolate 12RU39p from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;197;MK002572;HIV-1 isolate 15_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;198;MH543307;HIV-1 isolate 306_TAJ from Tajikistan pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;199;MG211623;HIV-1 isolate 16Tomsk3577 from Russia pol protein (pol) gene, partial cds
+185_plasma_Chelyabinsk;200;MG211603;HIV-1 isolate 16Tomsk2684 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;1;JX290271;HIV-1 isolate 09RU2272 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;2;JX290250;HIV-1 isolate 10RU6037 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;3;MG264385;HIV-1 isolate Rostov03 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;4;KF374810;HIV-1 isolate 11RU12082 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;5;JX290251;HIV-1 isolate 10RU6049 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;6;MG264384;HIV-1 isolate Rostov02 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;7;KX574386;HIV-1 isolate Kemerovo56 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;8;KF374820;HIV-1 isolate 11RU12152 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;9;KF374764;HIV-1 isolate 11RU9822 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;10;MG211616;HIV-1 isolate 16Tomsk2972 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;11;KF374794;HIV-1 isolate 11RU10830 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;12;KF374762;HIV-1 isolate 11RU9799 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;13;KF374735;HIV-1 isolate 11RU9512 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;14;KF374730;HIV-1 isolate 11RU9478 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;15;KF374725;HIV-1 isolate 11RU9383 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;16;JX290264;HIV-1 isolate 10RU6691 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;17;KF374819;HIV-1 isolate 11RU12145 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;18;KF374770;HIV-1 isolate 11RU9899 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;19;JX290260;HIV-1 isolate 10RU6498 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;20;KF374841;HIV-1 isolate 12RU17000 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;21;KF374816;HIV-1 isolate 11RU12130 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;22;KF374799;HIV-1 isolate 11RU11905 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;23;KF374769;HIV-1 isolate 11RU9872 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;24;KF374742;HIV-1 isolate 11RU9661 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;25;KF374738;HIV-1 isolate 11RU9644 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;26;JX500700;HIV-1 isolate 10RU6649 from Russia, partial genome
+186_liquor_Chelyabinsk;27;JX500698;HIV-1 isolate 11RU18n from Russia, partial genome
+186_liquor_Chelyabinsk;28;JX290265;HIV-1 isolate 10RU6712 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;29;JX290263;HIV-1 isolate 10RU6649 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;30;JX290249;HIV-1 isolate 10RU5983 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;31;KF374811;HIV-1 isolate 11RU12094 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;32;KF374803;HIV-1 isolate 11RU11953 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;33;KF374778;HIV-1 isolate 11RU10361 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;34;KF374727;HIV-1 isolate 11RU9416 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;35;KF374722;HIV-1 isolate 12RU7005 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;36;MG211539;HIV-1 isolate 14Tomsk09 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;37;KF374839;HIV-1 isolate 12RU16911 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;38;KF374837;HIV-1 isolate 12RU16448 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;39;KF374830;HIV-1 isolate 12RU15214 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;40;KF374802;HIV-1 isolate 11RU11952 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;41;KF374798;HIV-1 isolate 11RU11900 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;42;KF374760;HIV-1 isolate 11RU9795 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;43;KF374757;HIV-1 isolate 11RU9785 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;44;KF374751;HIV-1 isolate 11RU9754 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;45;KF374743;HIV-1 isolate 11RU9662 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;46;KF374741;HIV-1 isolate 11RU9655 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;47;KF374723;HIV-1 isolate 12RU7006 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;48;KF374713;HIV-1 isolate 12RU6986 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;49;KF374711;HIV-1 isolate 12RU6984 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;50;JX500699;HIV-1 isolate 10RU5983 from Russia, partial genome
+186_liquor_Chelyabinsk;51;JX290262;HIV-1 isolate 10RU6637 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;52;JX290255;HIV-1 isolate 10RU6311 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;53;JN230353;HIV-1 strain 10RU6637 from Russia, partial genome
+186_liquor_Chelyabinsk;54;MG211581;HIV-1 isolate 16Tomsk2223 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;55;KF374779;HIV-1 isolate 11RU10367 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;56;KF374754;HIV-1 isolate 11RU9770 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;57;KF374736;HIV-1 isolate 11RU9631 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;58;MG211577;HIV-1 isolate 16Tomsk2045 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;59;MG211562;HIV-1 isolate 15Tomsk22 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;60;KF374827;HIV-1 isolate 11RU13095 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;61;KF374800;HIV-1 isolate 11RU11907 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;62;KF374767;HIV-1 isolate 11RU9828 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;63;KF374745;HIV-1 isolate 11RU9665 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;64;KF374732;HIV-1 isolate 11RU9489 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;65;JX290259;HIV-1 isolate 10RU6443 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;66;MG211620;HIV-1 isolate 16Tomsk3331 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;67;KF374824;HIV-1 isolate 11RU13053 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;68;KF374817;HIV-1 isolate 11RU12135 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;69;KF374771;HIV-1 isolate 11RU9901 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;70;MG211545;HIV-1 isolate 14Tomsk64 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;71;KX574381;HIV-1 isolate Kemerovo49 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;72;KF374845;HIV-1 isolate 12RU473n from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;73;KF374826;HIV-1 isolate 11RU13061 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;74;KF374809;HIV-1 isolate 11RU12081 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;75;KF374749;HIV-1 isolate 11RU9705 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;76;MT101833;HIV-1 isolate 16RU64 pol protein (pol) and gag protein (gag) genes, partial cds
+186_liquor_Chelyabinsk;77;MT101813;HIV-1 isolate 16RU22 pol protein (pol) and gag protein (gag) genes, partial cds
+186_liquor_Chelyabinsk;78;MG211585;HIV-1 isolate 16Tomsk2290 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;79;MG211573;HIV-1 isolate 15Tomsk41 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;80;KF374805;HIV-1 isolate 11RU11980 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;81;KF374789;HIV-1 isolate 11RU10482 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;82;KF374784;HIV-1 isolate 11RU10400 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;83;KF374748;HIV-1 isolate 11RU9681 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;84;KF374721;HIV-1 isolate 12RU7004 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;85;JX500701;HIV-1 isolate 09RU4829 from Russia, partial genome
+186_liquor_Chelyabinsk;86;MN649290;HIV-1 isolate 01_Omsk2 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;87;MG211599;HIV-1 isolate 16Tomsk2628 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;88;MG211578;HIV-1 isolate 16Tomsk2167 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;89;KX574384;HIV-1 isolate Kemerovo54 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;90;KX574391;HIV-1 isolate Kemerovo62 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;91;KF374796;HIV-1 isolate 11RU11186 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;92;KF374718;HIV-1 isolate 12RU6997 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;93;MT101799;HIV-1 isolate 16RU01 pol protein (pol) and gag protein (gag) genes, partial cds
+186_liquor_Chelyabinsk;94;MK245769;HIV-1 isolate 381_TAJ from Tajikistan pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;95;MG211613;HIV-1 isolate 16Tomsk2943 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;96;KX574388;HIV-1 isolate Kemerovo58 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;97;KJ197200;"HIV-1 isolate RU_8141 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+186_liquor_Chelyabinsk;98;KF374791;HIV-1 isolate 11RU10533 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;99;KF374786;HIV-1 isolate 11RU10471 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;100;KF374781;HIV-1 isolate 11RU10393 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;101;KF374772;HIV-1 isolate 11RU9907 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;102;KF374763;HIV-1 isolate 11RU9800 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;103;KF374746;HIV-1 isolate 11RU9674 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;104;JX290257;HIV-1 isolate 10RU6407 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;105;KF374832;HIV-1 isolate 12RU15557 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;106;KF374782;HIV-1 isolate 11RU10394 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;107;MT369988;HIV-1 isolate RU_ERS_1108_2016 from Russia, complete genome
+186_liquor_Chelyabinsk;108;MG211588;HIV-1 isolate 16Tomsk2322 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;109;MG211579;HIV-1 isolate 16Tomsk2203 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;110;KF374768;HIV-1 isolate 11RU9832 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;111;KF374756;HIV-1 isolate 11RU9780 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;112;MK984160;HIV-1 isolate T11.17 from Russia, complete genome
+186_liquor_Chelyabinsk;113;MG211574;HIV-1 isolate 15Tomsk45 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;114;KX574373;HIV-1 isolate Kemerovo39 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;115;KX574371;HIV-1 isolate Kemerovo36 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;116;KF374831;HIV-1 isolate 12RU15550 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;117;KF374825;HIV-1 isolate 11RU13060 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;118;KF374726;HIV-1 isolate 11RU9405 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;119;MW229218;HIV-1 isolate 35_KRS_01.19 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;120;KX640182;HIV-1 isolate Tyumen33 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;121;KJ197202;"HIV-1 isolate RU_8501 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+186_liquor_Chelyabinsk;122;KF374813;HIV-1 isolate 11RU12101 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;123;MW229217;HIV-1 isolate 34_KRS_01.19 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;124;MT101827;"HIV-1 isolate 16RU43 nonfunctional pol protein (pol) gene, partial sequence; and gag protein (gag) gene, partial cds"
+186_liquor_Chelyabinsk;125;MK002569;HIV-1 isolate 10_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;126;KX574377;HIV-1 isolate Kemerovo45 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;127;KF374801;HIV-1 isolate 11RU11948 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;128;KF374766;HIV-1 isolate 11RU9826 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;129;MT101822;HIV-1 isolate 16RU34 pol protein (pol) and gag protein (gag) genes, partial cds
+186_liquor_Chelyabinsk;130;MK002586;HIV-1 isolate 101_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;131;MG211592;HIV-1 isolate 16Tomsk2533 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;132;MG211567;HIV-1 isolate 15Tomsk32 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;133;MG211565;HIV-1 isolate 15Tomsk30 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;134;MG211548;HIV-1 isolate 15Tomsk03 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;135;KX574372;HIV-1 isolate Kemerovo37 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;136;KX574367;HIV-1 isolate Kemerovo29 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;137;KF374823;HIV-1 isolate 11RU12160 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;138;KF374818;HIV-1 isolate 11RU12144 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;139;KF374807;HIV-1 isolate 11RU11984 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;140;KF374774;HIV-1 isolate 11RU9928 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;141;KF374744;HIV-1 isolate 11RU9664 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;142;MK245770;HIV-1 isolate 425_TAJ from Tajikistan pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;143;MK002587;HIV-1 isolate 105_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;144;MG211621;HIV-1 isolate 16Tomsk3344 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;145;MG211615;HIV-1 isolate 16Tomsk2964 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;146;MG211590;HIV-1 isolate 16Tomsk2344 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;147;MK002573;HIV-1 isolate 17_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;148;MG264382;HIV-1 isolate KBR01 from Russia pol protein-like (pol) gene, partial sequence
+186_liquor_Chelyabinsk;149;KX574359;HIV-1 isolate Kemerovo09 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;150;JX290269;HIV-1 isolate 10RU6837 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;151;MT101834;HIV-1 isolate 16RU67 pol protein (pol) and gag protein (gag) genes, partial cds
+186_liquor_Chelyabinsk;152;MT101817;HIV-1 isolate 16RU28 pol protein (pol) and gag protein (gag) genes, partial cds
+186_liquor_Chelyabinsk;153;MT101800;HIV-1 isolate 16RU03 pol protein (pol) and gag protein (gag) genes, partial cds
+186_liquor_Chelyabinsk;154;MK002588;HIV-1 isolate 106_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;155;MG211627;HIV-1 isolate 16Tomsk6591 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;156;KX574390;HIV-1 isolate Kemerovo61 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;157;KX574366;HIV-1 isolate Kemerovo25 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;158;KF374833;HIV-1 isolate 12RU15565 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;159;KF374775;HIV-1 isolate 11RU9932 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;160;KF374753;HIV-1 isolate 11RU9760 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;161;KF374750;HIV-1 isolate 11RU9753 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;162;KF374739;HIV-1 isolate 11RU9650 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;163;KF374737;HIV-1 isolate 11RU9637 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;164;JX290268;HIV-1 isolate 10RU6829 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;165;MG211591;HIV-1 isolate 16Tomsk2532 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;166;KF374793;HIV-1 isolate 11RU10769 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;167;MG211589;HIV-1 isolate 16Tomsk2326 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;168;KF374812;HIV-1 isolate 11RU12100 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;169;KF374780;HIV-1 isolate 11RU10379 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;170;JX500702;HIV-1 isolate 10RU6366 from Russia, partial genome
+186_liquor_Chelyabinsk;171;MT369985;HIV-1 isolate RU_ERS_1105_2016 from Russia, complete genome
+186_liquor_Chelyabinsk;172;MK002579;HIV-1 isolate 71_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;173;MK002576;HIV-1 isolate 47_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;174;MK002571;HIV-1 isolate 14_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;175;MG211619;HIV-1 isolate 16Tomsk3330 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;176;MG211604;HIV-1 isolate 16Tomsk2717 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;177;MG211572;HIV-1 isolate 15Tomsk39 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;178;MG211550;HIV-1 isolate 15Tomsk05 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;179;KX574379;HIV-1 isolate Kemerovo47 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;180;KX574360;HIV-1 isolate Kemerovo10 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;181;KF374846;HIV-1 isolate 12RU474n from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;182;KF374829;HIV-1 isolate 12RU15176 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;183;KF374804;HIV-1 isolate 11RU11955 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;184;KF374729;HIV-1 isolate 11RU9456 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;185;KF374724;HIV-1 isolate 12RU7012 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;186;KF374710;HIV-1 isolate 12RU6982 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;187;MT369991;HIV-1 isolate RU_ERS_1111_2016 from Russia, complete genome
+186_liquor_Chelyabinsk;188;MT101828;HIV-1 isolate 16RU48 pol protein (pol) and gag protein (gag) genes, partial cds
+186_liquor_Chelyabinsk;189;MK002577;HIV-1 isolate 58_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;190;MG211593;HIV-1 isolate 16Tomsk2567 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;191;KF374758;HIV-1 isolate 11RU9788 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;192;KF374755;HIV-1 isolate 11RU9779 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;193;MT101814;HIV-1 isolate 16RU23 pol protein (pol) and gag protein (gag) genes, partial cds
+186_liquor_Chelyabinsk;194;MN649310;HIV-1 isolate 34_Omsk2 from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;195;MK002567;HIV-1 isolate 04_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;196;MH543311;HIV-1 isolate 359_TAJ from Tajikistan pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;197;KF374843;HIV-1 isolate 12RU39p from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;198;MK002572;HIV-1 isolate 15_Krasnoyarsk from Russia pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;199;MH543307;HIV-1 isolate 306_TAJ from Tajikistan pol protein (pol) gene, partial cds
+186_liquor_Chelyabinsk;200;MG211623;HIV-1 isolate 16Tomsk3577 from Russia pol protein (pol) gene, partial cds

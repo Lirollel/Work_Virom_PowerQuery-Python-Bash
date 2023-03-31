@@ -1,0 +1,336 @@
+>Feature Seq1				
+<1	>1092	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1092	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq2				
+<1	>1092	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1092	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq3				
+<1	>1116	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1116	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq4				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq5				
+<1	>1092	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1092	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq6				
+<1	>1049	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1049	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq7				
+<1	>1092	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1092	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq8				
+<1	>1089	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1089	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq9				
+<1	>1038	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1038	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq10				
+<1	>1110	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1110	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq11				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq12				
+<1	>1110	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1110	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq13				
+<1	>1110	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1110	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq14				
+<1	>1107	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1107	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq15				
+<1	>1070	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1070	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq16				
+<1	>1116	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1116	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq17				
+<1	>1070	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1070	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq18				
+<1	>1116	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1116	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq19				
+<1	>1092	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1092	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq20				
+<1	>1110	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1110	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq21				
+<1	>1062	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1062	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq22				
+<1	>1109	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1109	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq23				
+<1	>1086	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1086	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq24				
+<1	>1113	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1113	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq25				
+<1	>1110	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1110	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq26				
+<1	>1110	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1110	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq27				
+<1	>1080	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1080	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq28				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq29				
+<1	>1110	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1110	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq30				
+<1	>1092	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1092	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq31				
+<1	>1092	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1092	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq32				
+<1	>1116	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1116	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq33				
+<1	>1116	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1116	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq34				
+<1	>1116	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1116	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq35				
+<1	>1092	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1092	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq36				
+<1	>1128	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1128	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq37				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq38				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq39				
+<1	>1116	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1116	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq40				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq41				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq42				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq43				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq44				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq45				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq46				
+<1	>1115	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1115	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq47				
+<1	>1113	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1113	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
+>Feature Seq48				
+<1	>1113	gene		
+			gene	pol
+			note	contains protease and reverse transcriptase
+<1	>1113	CDS		
+			gene	pol
+			product	protease and reverse transcriptase
