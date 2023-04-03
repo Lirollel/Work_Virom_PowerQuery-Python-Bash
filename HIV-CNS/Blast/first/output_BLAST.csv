@@ -1,0 +1,1001 @@
+input_seq_id;hit_num;accession_id;definition
+11_plasma_Chelyabinsk;1;ON653503;HIV-1 isolate HIV1_2018_104_LO from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;2;ON653572;HIV-1 isolate HIV1_2018_93_VN from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;3;MH623923;Human immunodeficiency virus isolate TH-PDR-3-029 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;4;MH623950;Human immunodeficiency virus isolate TH-PDR-3-057 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;5;MH623882;Human immunodeficiency virus isolate TH-PDR-2-048 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;6;ON653577;HIV-1 isolate HIV1_2018_43_VN from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;7;MH623934;Human immunodeficiency virus isolate TH-PDR-3-040 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;8;MH623887;Human immunodeficiency virus isolate TH-PDR-2-053 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;9;MH623939;Human immunodeficiency virus isolate TH-PDR-3-045 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;10;MH623940;Human immunodeficiency virus isolate TH-PDR-3-046 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;11;ON653486;HIV-1 isolate HIV1_2018_77_LO from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;12;MH623829;Human immunodeficiency virus isolate TH-PDR-1-053 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;13;MH623933;Human immunodeficiency virus isolate TH-PDR-3-039 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;14;MH623936;Human immunodeficiency virus isolate TH-PDR-3-042 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;15;MH623888;Human immunodeficiency virus isolate TH-PDR-2-054 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;16;MH623915;Human immunodeficiency virus isolate TH-PDR-3-021 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;17;MH623913;Human immunodeficiency virus isolate TH-PDR-3-019 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;18;MH623873;Human immunodeficiency virus isolate TH-PDR-2-039 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;19;MH623937;Human immunodeficiency virus isolate TH-PDR-3-043 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;20;MH623914;Human immunodeficiency virus isolate TH-PDR-3-020 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;21;MH623858;Human immunodeficiency virus isolate TH-PDR-2-023 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;22;MH623492;Human immunodeficiency virus isolate ML-PDR-1-007 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;23;MH623883;Human immunodeficiency virus isolate TH-PDR-2-049 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;24;AY589919;HIV-1 isolate 02ZA.DR70 from South Africa nonfunctional pol protein (pol) gene, partial sequence
+11_plasma_Chelyabinsk;25;MH623570;Human immunodeficiency virus isolate ML-PDR-2-056 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;26;KX692209;HIV-1 isolate CH44 from Switzerland pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;27;MH623897;Human immunodeficiency virus isolate TH-PDR-3-003 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;28;MK931812;HIV-1 isolate RU_ERS_1468_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;29;AY589911;HIV-1 isolate 02ZA.DR59 from South Africa nonfunctional pol protein (pol) gene, partial sequence
+11_plasma_Chelyabinsk;30;MH623618;Human immunodeficiency virus isolate ML-PDR-2-112 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;31;MH623599;Human immunodeficiency virus isolate ML-PDR-2-091 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;32;KJ722077;HIV-1 isolate RU_NNG442 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;33;EF450004;HIV-1 isolate 5870795 from Switzerland pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;34;KF720944;HIV-1 isolate AM013_2009 from Armenia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;35;MK931805;HIV-1 isolate RU_ERS_1460_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;36;MG063795;HIV-1 isolate MARY1069/RU from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;37;KR233337;HIV-1 isolate SRT047 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;38;KM247291;HIV-1 isolate RU_IRK_546_1999 from Russia pol protein (pol) gene, partial cds >gi|700588763|gb|KM247299.1| HIV-1 isolate RU_IRK_555_1999 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;39;KJ722076;HIV-1 isolate RU_NNG441 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;40;KJ771121;Human immunodeficiency virus isolate 09-03544 pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;41;JX290209;HIV-1 isolate 10RU6010 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;42;EU345875;HIV-1 isolate RUJA16 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;43;EU345843;HIV-1 isolate AdelB from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;44;EU345760;HIV-1 isolate RU01057 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;45;EF589041;"HIV-1 isolate 02KZYUZ300425 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+11_plasma_Chelyabinsk;46;AY589896;HIV-1 isolate 02ZA.DR41 from South Africa pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;47;HG421645;HIV-1 M:CRF08_BC partial gene for gag-pol polyprotein, protease and reverse transcriptase region, isolate YN482
+11_plasma_Chelyabinsk;48;EF449880;HIV-1 isolate 5192708 from Switzerland pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;49;MH623917;Human immunodeficiency virus isolate TH-PDR-3-023 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;50;KX692210;HIV-1 isolate CH45 from Switzerland pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;51;KF374887;HIV-1 isolate 12RU138c from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;52;HQ161925;HIV-1 isolate SML087 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;53;HQ161911;HIV-1 isolate VLD044 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;54;EU345766;HIV-1 isolate RU01064 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;55;MH666401;HIV-1 isolate MOW111140 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;56;MH330353;HIV-1 isolate BLG043 from Russia, complete genome
+11_plasma_Chelyabinsk;57;MH330349;HIV-1 isolate BLG033 from Russia, complete genome
+11_plasma_Chelyabinsk;58;KX692158;HIV-1 isolate CH32 from Switzerland pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;59;KR233356;HIV-1 isolate VLD121 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;60;KM247300;HIV-1 isolate RU_IRK_556_1999 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;61;KM247292;HIV-1 isolate RU_IRK_548_1999 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;62;KJ499572;HIV-1 isolate RU_KZN030 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;63;MK931815;HIV-1 isolate RU_ERS_1472_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;64;KJ722094;HIV-1 isolate RU_NNG549 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;65;KF374867;HIV-1 isolate 11RU10520 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;66;EF583222;HIV-1 isolate 04SP596775 from Spain pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;67;MK931837;HIV-1 isolate RU_ERS_1612_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;68;KJ771750;Human immunodeficiency virus isolate 12-01789 pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;69;KF177163;HIV-1 isolate RU_KHB060 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;70;KC509841;HIV-1 isolate RU_KHB011 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;71;EU345771;HIV-1 isolate RU01071 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;72;EU345678;HIV-1 isolate IR67B from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;73;MK245706;HIV-1 isolate 462_TAJ from Tajikistan pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;74;KR233360;HIV-1 isolate VLD146 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;75;KJ722101;HIV-1 isolate RU_NNG556 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;76;HE657456;HIV-1 M:A Mn-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+11_plasma_Chelyabinsk;77;MK589635;HIV-1 isolate KRS6172 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;78;MH623576;Human immunodeficiency virus isolate ML-PDR-2-062 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;79;MH623516;Human immunodeficiency virus isolate ML-PDR-1-031 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;80;KC665922;HIV-1 isolate RU_KHB057 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;81;GQ867608;HIV-1 isolate Dag21 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;82;MK589634;HIV-1 isolate KRS6171 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;83;MH666538;HIV-1 isolate MOW140948 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;84;KP090078;HIV-1 isolate NNO664/RU from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;85;KJ499587;HIV-1 isolate RU_KZN046 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;86;MH623541;Human immunodeficiency virus isolate ML-PDR-2-025 pol protein-like (pol) gene, partial sequence
+11_plasma_Chelyabinsk;87;MK931821;HIV-1 isolate RU_ERS_1587_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;88;MK931804;HIV-1 isolate RU_ERS_1459_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;89;KF177162;HIV-1 isolate RU_KHB048 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;90;HE657486;HIV-1 M:A Gr-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+11_plasma_Chelyabinsk;91;MK029262;HIV-1 isolate 18912 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;92;KF374862;HIV-1 isolate 11RU9900 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;93;JX141199;HIV-1 isolate Bash336/RU from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;94;MK589646;HIV-1 isolate KRS6183 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;95;KR233352;HIV-1 isolate VLD114 from Russia pol protein (pol) gene, partial cds
+11_plasma_Chelyabinsk;96;MK931813;HIV-1 isolate RU_ERS_1469_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;97;MK931802;HIV-1 isolate RU_ERS_1455_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;98;KX692025;HIV-1 isolate CH20 from Switzerland pol protein (pol) and gag protein (gag) genes, partial cds
+11_plasma_Chelyabinsk;99;MH330369;HIV-1 isolate IRK043 from Russia, complete genome
+11_plasma_Chelyabinsk;100;MT369961;HIV-1 isolate RU_ERS_1042_2016 from Russia, complete genome
+24_plasma_Chelyabinsk;1;GQ400798;HIV-1 isolate okp6kkL1EcaUO2u from Sweden nonfunctional pol protein (pol) gene, partial sequence
+24_plasma_Chelyabinsk;2;ON653502;HIV-1 isolate HIV1_2018_102_LO from Russia pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;3;ON367697;HIV-1 isolate HIV1_2017_94_KG from Russia pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;4;KT228699;HIV-1 isolate P109377083 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;5;KC921419;HIV-1 isolate R71131_16JUL2008 from Thailand pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;6;KT228787;HIV-1 isolate P119369694 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;7;MH623497;Human immunodeficiency virus isolate ML-PDR-1-012 pol protein-like (pol) gene, partial sequence
+24_plasma_Chelyabinsk;8;MG321789;HIV-1 isolate 2546848P001ProRT_B from Thailand pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;9;ON653575;HIV-1 isolate HIV1_2018_63_VN from Russia pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;10;KT228943;HIV-1 isolate P138277212U from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;11;KT228902;HIV-1 isolate P129402806 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;12;ON653563;HIV-1 isolate HIV1_2017_110_VN from Russia pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;13;KT228551;HIV-1 isolate P091492745 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;14;AY589933;HIV-1 isolate 03ZA.DR94 from South Africa nonfunctional pol protein (pol) gene, partial sequence
+24_plasma_Chelyabinsk;15;ON653581;HIV-1 isolate HIV1_2018_23_VN from Russia pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;16;AB894950;Human immunodeficiency virus 1 gene for Gag-Pol polyprotein, partial cds, isolate: 08HT0053PRRT
+24_plasma_Chelyabinsk;17;GQ400590;HIV-1 isolate dewOR39Cs8REfz6 from Sweden pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;18;KC921422;HIV-1 isolate R71138_29JUL2008 from Thailand pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;19;KT228421;HIV-1 isolate P070278221 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;20;KT228420;HIV-1 isolate P070278163 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;21;MH623634;Human immunodeficiency virus isolate ML-PDR-2-129 pol protein-like (pol) gene, partial sequence
+24_plasma_Chelyabinsk;22;FJ199809;HIV-1 isolate PS402 from South Africa pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;23;KT229308;HIV-1 isolate R050177857 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;24;KT229269;HIV-1 isolate R040314761 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;25;KT228488;HIV-1 isolate P080202152 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;26;KT228346;HIV-1 isolate P060157961 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;27;AY031223;HIV-1 isolate NC4364-1999 from USA pol polyprotein (pol) gene, partial cds
+24_plasma_Chelyabinsk;28;KT228433;HIV-1 isolate P070346922 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;29;KT228847;HIV-1 isolate P128328041 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;30;MH623606;Human immunodeficiency virus isolate ML-PDR-2-100 pol protein-like (pol) gene, partial sequence
+24_plasma_Chelyabinsk;31;KT228745;HIV-1 isolate P118285629 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;32;KT229162;HIV-1 isolate R00309421M from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;33;KT228899;HIV-1 isolate P129395221 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;34;KT229202;HIV-1 isolate R030214147 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;35;KT229339;HIV-1 isolate R050310946 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;36;KT229336;HIV-1 isolate R050309003 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;37;KT229292;HIV-1 isolate R050102836 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;38;KT229346;HIV-1 isolate R050336872 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;39;KT228672;HIV-1 isolate P108382879 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;40;KT228406;HIV-1 isolate P068152628 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;41;KT228371;HIV-1 isolate P060262292 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;42;KT229355;"HIV-1 isolate R050376853 from Australia pol protein (pol) gene, partial cds; and nonfunctional gag protein (gag) gene, partial sequence"
+24_plasma_Chelyabinsk;43;KT229342;HIV-1 isolate R050319104 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;44;KT228385;HIV-1 isolate P060308191 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;45;KT228575;HIV-1 isolate P098261855 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;46;KT228405;HIV-1 isolate P068127879 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;47;KT228618;HIV-1 isolate P099434554 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;48;KT229164;HIV-1 isolate R00316067W from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;49;GQ400778;HIV-1 isolate njeBhgo74B6v4hd from Sweden nonfunctional pol protein (pol) gene, partial sequence
+24_plasma_Chelyabinsk;50;KT228358;HIV-1 isolate P060223164 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;51;KT229343;HIV-1 isolate R050324596 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;52;KT228687;HIV-1 isolate P109349596 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;53;KT228338;HIV-1 isolate P060102120 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;54;HE657443;HIV-1 M:A Gom-7-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+24_plasma_Chelyabinsk;55;KT229043;HIV-1 isolate P148346730H from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;56;KT228925;HIV-1 isolate P129460742 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;57;KT228914;HIV-1 isolate P129428599 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;58;KT228855;HIV-1 isolate P129198204 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;59;KT228796;HIV-1 isolate P119388844 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;60;KT228770;HIV-1 isolate P119308707 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;61;DQ823358;HIV-1 strain 01UADN121 from Ukraine, partial genome
+24_plasma_Chelyabinsk;62;MK606559;HIV-1 isolate RU_SMF049 from Russia pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;63;KU143051;HIV-1 isolate PMB151_POL_60 from United Kingdom pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;64;KT228994;HIV-1 isolate P139370028P from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;65;KT228971;HIV-1 isolate P139315248H from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;66;KT228748;HIV-1 isolate P118301962 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;67;KT228703;HIV-1 isolate P109385861 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;68;KT228554;HIV-1 isolate P094755826 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;69;KF257871;HIV-1 isolate Orb485 from Russia nonfunctional pol protein (pol) gene, partial sequence
+24_plasma_Chelyabinsk;70;KT229194;HIV-1 isolate R030171946 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;71;KT228604;HIV-1 isolate P099404380 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;72;KT229356;HIV-1 isolate R050377374 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;73;KT229288;HIV-1 isolate R040375310 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;74;KT229123;HIV-1 isolate P149645852J from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;75;KT228375;HIV-1 isolate P060284958 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;76;KY370293;HIV-1 isolate 188_Donetsk from Ukraine pol protein (pol) gene, partial cds
+24_plasma_Chelyabinsk;77;KT228795;HIV-1 isolate P119388832 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;78;KT228495;HIV-1 isolate P080218644 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;79;KT228393;HIV-1 isolate P060350359 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;80;KT228888;"HIV-1 isolate P129374790 from Australia pol protein (pol) gene, partial cds; and nonfunctional gag protein (gag) gene, partial sequence"
+24_plasma_Chelyabinsk;81;KT228799;HIV-1 isolate P119400928 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;82;KT228497;HIV-1 isolate P080224303 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;83;KT228435;HIV-1 isolate P070352586 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;84;AY031823;HIV-1 isolate NC5266-1999 from USA pol polyprotein (pol) gene, partial cds
+24_plasma_Chelyabinsk;85;KT229301;HIV-1 isolate R050149825 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;86;KT228969;HIV-1 isolate P139312467B from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;87;KT229328;HIV-1 isolate R050263264 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;88;KT228946;HIV-1 isolate P138319601B from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;89;KT228737;HIV-1 isolate P118208376 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;90;KT229329;HIV-1 isolate R050266179 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;91;KT229327;HIV-1 isolate R050250965 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;92;KT229181;HIV-1 isolate R020383048 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;93;KT228449;HIV-1 isolate P070408823 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;94;KT228337;HIV-1 isolate P060102105 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;95;KT229049;HIV-1 isolate P148422870U from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;96;KT228753;HIV-1 isolate P118383286 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;97;AY031361;HIV-1 isolate NC4522-1999 from USA pol polyprotein (pol) gene, partial cds
+24_plasma_Chelyabinsk;98;KT229319;"HIV-1 isolate R050227563 from Australia pol protein (pol) gene, partial cds; and nonfunctional gag protein (gag) gene, partial sequence"
+24_plasma_Chelyabinsk;99;KT228675;HIV-1 isolate P109195549 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+24_plasma_Chelyabinsk;100;KT228807;HIV-1 isolate P119427059 from Australia pol protein (pol) and gag protein (gag) genes, partial cds
+25_plasma_Chelyabinsk;1;DQ823365;HIV-1 strain 01UAOD10 from Ukraine, partial genome
+25_plasma_Chelyabinsk;2;DQ823359;HIV-1 strain 01UAPol293 from Ukraine, partial genome
+25_plasma_Chelyabinsk;3;KF374876;HIV-1 isolate 11RU12103 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;4;EF589043;"HIV-1 isolate 02KZPAV300480 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;5;EF589041;"HIV-1 isolate 02KZYUZ300425 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;6;JQ292891;"HIV-1 isolate Irkutsk_5 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence"
+25_plasma_Chelyabinsk;7;EF589044;"HIV-1 isolate 02KZPAV300502 from Kazakhstan nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;8;EF589039;"HIV-1 isolate 02KZPAV300497 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;9;AY829211;"HIV-1 isolate 02UZ0667 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), and vpu protein (vpu) genes, complete cds"
+25_plasma_Chelyabinsk;10;KY235852;HIV-1 isolate 13UZ68 from Uzbekistan pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;11;MN317577;HIV-1 isolate HIV1_Arch98_2018 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;12;MH330349;HIV-1 isolate BLG033 from Russia, complete genome
+25_plasma_Chelyabinsk;13;KF374925;HIV-1 isolate 12RU45p from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;14;KF374856;HIV-1 isolate 11RU9750 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;15;EF589040;"HIV-1 isolate 02KZYUZ300413 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;16;DQ823361;HIV-1 strain 01UAKV254 from Ukraine, partial genome
+25_plasma_Chelyabinsk;17;DQ823356;HIV-1 strain 01UAPol294 from Ukraine, partial genome
+25_plasma_Chelyabinsk;18;KX640132;HIV-1 isolate Tyumen17 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;19;HF679222;HIV-1 M:A1 MnoBl-60A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;20;DQ823360;HIV-1 strain 01UAPol303 from Ukraine, partial genome
+25_plasma_Chelyabinsk;21;DQ823357;HIV-1 strain 01UADN139 from Ukraine, partial genome
+25_plasma_Chelyabinsk;22;AY829212;"HIV-1 isolate 02UZ0672 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;23;AY829209;"HIV-1 isolate 02UZ0659 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;24;AY829208;"HIV-1 isolate 02UZ740 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;25;AY829206;"HIV-1 isolate 02UZ698 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;26;AY829203;"HIV-1 isolate 02UZ652 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;27;AY500393;HIV-1 isolate 03RU20-06-13 from Russia, complete genome
+25_plasma_Chelyabinsk;28;HF679217;HIV-1 M:A1 MnObl-45A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;29;JQ292898;"HIV-1 isolate RU_915_1038 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;30;JX290219;HIV-1 isolate 10RU6602 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;31;HE657538;HIV-1 M:A Gr-15-A partial gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;32;HE657482;HIV-1 M:A Gr-5-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;33;HE657486;HIV-1 M:A Gr-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;34;EF122560;HIV-1 isolate 04CNLN69 from China gag protein (gag) and pol protein (pol) genes, partial cds
+25_plasma_Chelyabinsk;35;KY235853;HIV-1 isolate 15UZ14 from Uzbekistan pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;36;JX290235;HIV-1 isolate 10RU72m from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;37;HE657456;HIV-1 M:A Mn-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;38;MK245671;HIV-1 isolate 380_TAJ from Tajikistan pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;39;HE657459;HIV-1 M:A Mn-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;40;MH330353;HIV-1 isolate BLG043 from Russia, complete genome
+25_plasma_Chelyabinsk;41;MH330352;HIV-1 isolate BLG041 from Russia, complete genome
+25_plasma_Chelyabinsk;42;MH330346;HIV-1 isolate ARH068 from Russia, complete genome
+25_plasma_Chelyabinsk;43;MG902951;HIV-1 isolate ARH011 from Russia, complete genome
+25_plasma_Chelyabinsk;44;KU749403;HIV-1 isolate DEMA112UA024 from Ukraine, partial genome
+25_plasma_Chelyabinsk;45;HF679236;HIV-1 M:A1 Mn17A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;46;JQ292893;"HIV-1 isolate RUA001 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;47;DQ167216;"HIV-1 isolate EST2002-394 from Estonia truncated gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), aberrant vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds"
+25_plasma_Chelyabinsk;48;KF374883;HIV-1 isolate 12RU041c from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;49;KY238328;"HIV-1 isolate MSK_SK_007_U5-vpu from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; tat protein (tat) and rev protein (rev) genes, partial cds; vpu protein (vpu) gene, complete cds; and envelope glycoprotein (env) gene, partial cds"
+25_plasma_Chelyabinsk;50;KF374866;HIV-1 isolate 11RU10476 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;51;HE657493;HIV-1 M:A Mg-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;52;HE657478;HIV-1 M:A Gr-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;53;DQ823367;HIV-1 strain 01UAOD89 from Ukraine, partial genome
+25_plasma_Chelyabinsk;54;AY829205;"HIV-1 isolate 02UZ694 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;55;HF679246;HIV-1 M:A1 Mn-28A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;56;HE657479;HIV-1 M:A Gr-13-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;57;KF374857;HIV-1 isolate 11RU9755 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;58;JQ292894;"HIV-1 isolate RUA007 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;59;MN703139;HIV-1 isolate DEMA616RU026, complete genome
+25_plasma_Chelyabinsk;60;MG799048;HIV-1 isolate KYR_Osh83 from Kyrgyzstan pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;61;KX640175;HIV-1 isolate Tyumen67 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;62;HF679241;HIV-1 M:A1 Mn-23A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;63;HE657487;HIV-1 M:A Gr-10-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;64;HE657480;HIV-1 M:A Gr-2-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;65;MK510070;HIV-1 isolate HIV1_Arch48_2018 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;66;HE657448;HIV-1 M:A Gom-25-A partial gag-pol gene for polyprotein, protease and reverse trancriptase region, genomic RNA
+25_plasma_Chelyabinsk;67;MH330351;HIV-1 isolate BLG038 from Russia, complete genome
+25_plasma_Chelyabinsk;68;HF679252;HIV-1 M:A1 Mn-34A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;69;JX290214;HIV-1 isolate 10RU6401 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;70;MT369980;HIV-1 isolate RU_ERS_1100_2016 from Russia, complete genome
+25_plasma_Chelyabinsk;71;HE657525;HIV-1 M:A MnObl-24-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;72;AY829210;"HIV-1 isolate 02UZ0663 from Uzbekistan gag protein (gag) and truncated pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;73;KY235849;HIV-1 isolate 13UZ56 from Uzbekistan pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;74;HF679209;HIV-1 M:A1 MnObl-66A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;75;JX290218;HIV-1 isolate 10RU6587 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;76;HE657518;HIV-1 M:A MnObl-32-A partial ag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;77;HE657472;HIV-1 M:A Br-6-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;78;JQ292899;"HIV-1 isolate RU_915_1041 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+25_plasma_Chelyabinsk;79;HE577617;HIV-1 M:A MnObl-05-A-BY partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;80;HF679258;HIV-1 M:A1 Mn-40A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;81;HE657484;HIV-1 M:A Gr-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;82;HE657477;HIV-1 M:A Gr-14-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;83;HE657473;HIV-1 M:A Br-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;84;MK510027;HIV-1 isolate HIV1_Arch21_2015 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;85;AB747538;Human immunodeficiency virus 1 gag-pol gene for pol protein, partial sequence, isolate: 12032031
+25_plasma_Chelyabinsk;86;MT334931;HIV-1 isolate RU_ERS_1028_2016 from Russia, complete genome
+25_plasma_Chelyabinsk;87;HF679237;HIV-1 M:A1 Mn13A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;88;HE657483;HIV-1 M:A Gr-16-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;89;HE657532;HIV-1 M:A Gom-18-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;90;MH330362;HIV-1 isolate IRK029 from Russia, complete genome
+25_plasma_Chelyabinsk;91;MG799028;HIV-1 isolate KYR_Osh32 from Kyrgyzstan pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;92;HE657444;HIV-1 M:A Gom-15-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+25_plasma_Chelyabinsk;93;MK294987;HIV-1 isolate HIV46_VNov2015 from Russia pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;94;MT369963;HIV-1 isolate RU_ERS_1044_2016 from Russia, complete genome
+25_plasma_Chelyabinsk;95;MH543058;HIV-1 isolate 131_TAJ from Tajikistan pol protein (pol) gene, partial cds
+25_plasma_Chelyabinsk;96;HF679243;HIV-1 M:A1 Mn-25A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;97;HF679220;HIV-1 M:A1 MnObl-36A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+25_plasma_Chelyabinsk;98;MN703137;HIV-1 isolate DEMA614RU025 from Russia, complete genome
+25_plasma_Chelyabinsk;99;MZ427762;HIV-1 isolate RU_ERS_3125_2017 from Russia, complete genome
+25_plasma_Chelyabinsk;100;HE657454;HIV-1 M:A Mn-16-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;1;EF589041;"HIV-1 isolate 02KZYUZ300425 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;2;MH330353;HIV-1 isolate BLG043 from Russia, complete genome
+27_plasma_Chelyabinsk;3;EF589043;"HIV-1 isolate 02KZPAV300480 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;4;EF589044;"HIV-1 isolate 02KZPAV300502 from Kazakhstan nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;5;DQ823357;HIV-1 strain 01UADN139 from Ukraine, partial genome
+27_plasma_Chelyabinsk;6;AY829211;"HIV-1 isolate 02UZ0667 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), and vpu protein (vpu) genes, complete cds"
+27_plasma_Chelyabinsk;7;EF589040;"HIV-1 isolate 02KZYUZ300413 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;8;EF589039;"HIV-1 isolate 02KZPAV300497 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;9;JX290219;HIV-1 isolate 10RU6602 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;10;KF374925;HIV-1 isolate 12RU45p from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;11;JX290235;HIV-1 isolate 10RU72m from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;12;EF122560;HIV-1 isolate 04CNLN69 from China gag protein (gag) and pol protein (pol) genes, partial cds
+27_plasma_Chelyabinsk;13;DQ823365;HIV-1 strain 01UAOD10 from Ukraine, partial genome
+27_plasma_Chelyabinsk;14;AY829212;"HIV-1 isolate 02UZ0672 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;15;AY829208;"HIV-1 isolate 02UZ740 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;16;AY829206;"HIV-1 isolate 02UZ698 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;17;AY829203;"HIV-1 isolate 02UZ652 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;18;MK510024;HIV-1 isolate HIV1_Arch17_2015 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;19;MH330354;HIV-1 isolate BLG044 from Russia, complete genome
+27_plasma_Chelyabinsk;20;MH330349;HIV-1 isolate BLG033 from Russia, complete genome
+27_plasma_Chelyabinsk;21;DQ823361;HIV-1 strain 01UAKV254 from Ukraine, partial genome
+27_plasma_Chelyabinsk;22;DQ823358;HIV-1 strain 01UADN121 from Ukraine, partial genome
+27_plasma_Chelyabinsk;23;HF679217;HIV-1 M:A1 MnObl-45A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+27_plasma_Chelyabinsk;24;DQ823360;HIV-1 strain 01UAPol303 from Ukraine, partial genome
+27_plasma_Chelyabinsk;25;AY829209;"HIV-1 isolate 02UZ0659 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;26;HE657468;HIV-1 M:A Br-5-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;27;MH330352;HIV-1 isolate BLG041 from Russia, complete genome
+27_plasma_Chelyabinsk;28;JQ292895;"HIV-1 isolate RU_560_1125_JA from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;29;JQ292893;"HIV-1 isolate RUA001 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;30;JQ292891;"HIV-1 isolate Irkutsk_5 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence"
+27_plasma_Chelyabinsk;31;AY829205;"HIV-1 isolate 02UZ694 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;32;DQ823359;HIV-1 strain 01UAPol293 from Ukraine, partial genome
+27_plasma_Chelyabinsk;33;MH330350;HIV-1 isolate BLG035 from Russia, complete genome
+27_plasma_Chelyabinsk;34;MH330348;HIV-1 isolate BLG032 from Russia, complete genome
+27_plasma_Chelyabinsk;35;HF679237;HIV-1 M:A1 Mn13A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+27_plasma_Chelyabinsk;36;HE657495;HIV-1 M:A Mg-6-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;37;DQ823367;HIV-1 strain 01UAOD89 from Ukraine, partial genome
+27_plasma_Chelyabinsk;38;HE657459;HIV-1 M:A Mn-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;39;KF374856;HIV-1 isolate 11RU9750 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;40;HF679246;HIV-1 M:A1 Mn-28A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+27_plasma_Chelyabinsk;41;HE657493;HIV-1 M:A Mg-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;42;JQ292899;"HIV-1 isolate RU_915_1041 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;43;JQ292892;"HIV-1 isolate RU01029 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;44;DQ207944;"HIV-1 isolate 99GEMZ011 from Georgia gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;45;AY500393;HIV-1 isolate 03RU20-06-13 from Russia, complete genome
+27_plasma_Chelyabinsk;46;OL505515;HIV-1 isolate 2017_118_LO from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;47;HE657488;HIV-1 M:A Gr-9-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;48;HE657484;HIV-1 M:A Gr-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;49;MH330351;HIV-1 isolate BLG038 from Russia, complete genome
+27_plasma_Chelyabinsk;50;JX500695;HIV-1 isolate 10RU6792 from Russia, partial genome
+27_plasma_Chelyabinsk;51;HE657510;HIV-1 M:A MnObl-09-A partal gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;52;FJ388950;"HIV-1 isolate CY171 from Cyprus gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; rev protein (rev) and vpu protein (vpu) genes, complete cds; nonfunctional envelope glycoprotein (env) gene, complete sequence; and nef protein (nef) gene, partial cds"
+27_plasma_Chelyabinsk;53;EF589042;"HIV-1 isolate 02KZKAR300435 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;54;DQ167216;"HIV-1 isolate EST2002-394 from Estonia truncated gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), aberrant vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds"
+27_plasma_Chelyabinsk;55;JQ292898;"HIV-1 isolate RU_915_1038 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+27_plasma_Chelyabinsk;56;MN317576;HIV-1 isolate HIV1_Arch96_2018 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;57;MH330359;HIV-1 isolate IRK025 from Russia, complete genome
+27_plasma_Chelyabinsk;58;HF679252;HIV-1 M:A1 Mn-34A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+27_plasma_Chelyabinsk;59;MH330356;HIV-1 isolate BLG051 from Russia, complete genome
+27_plasma_Chelyabinsk;60;MH330347;HIV-1 isolate BLG015 from Russia, complete genome
+27_plasma_Chelyabinsk;61;MG902951;HIV-1 isolate ARH011 from Russia, complete genome
+27_plasma_Chelyabinsk;62;KU749403;HIV-1 isolate DEMA112UA024 from Ukraine, partial genome
+27_plasma_Chelyabinsk;63;HF679209;HIV-1 M:A1 MnObl-66A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+27_plasma_Chelyabinsk;64;MT369980;HIV-1 isolate RU_ERS_1100_2016 from Russia, complete genome
+27_plasma_Chelyabinsk;65;HE657460;HIV-1 M:A Mn-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;66;KF374876;HIV-1 isolate 11RU12103 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;67;KF374857;HIV-1 isolate 11RU9755 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;68;HE657456;HIV-1 M:A Mn-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;69;KF374887;HIV-1 isolate 12RU138c from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;70;KF374866;HIV-1 isolate 11RU10476 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;71;HF679241;HIV-1 M:A1 Mn-23A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+27_plasma_Chelyabinsk;72;MH330362;HIV-1 isolate IRK029 from Russia, complete genome
+27_plasma_Chelyabinsk;73;KY235847;HIV-1 isolate 13UZ42 from Uzbekistan pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;74;KM190960;HIV-1 strain MnObl-78 from Belarus pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;75;KF374871;HIV-1 isolate 11RU11913 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;76;MT369982;HIV-1 isolate RU_ERS_1102_2016 from Russia, complete genome
+27_plasma_Chelyabinsk;77;HE657478;HIV-1 M:A Gr-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;78;HE657472;HIV-1 M:A Br-6-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;79;MH330358;HIV-1 isolate IRK014 from Russia, complete genome
+27_plasma_Chelyabinsk;80;KM190979;HIV-1 strain Mg-14 from Belarus pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;81;MT369961;HIV-1 isolate RU_ERS_1042_2016 from Russia, complete genome
+27_plasma_Chelyabinsk;82;HE657482;HIV-1 M:A Gr-5-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;83;HE657474;HIV-1 M:A Br-9-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;84;MN703137;HIV-1 isolate DEMA614RU025 from Russia, complete genome
+27_plasma_Chelyabinsk;85;MZ427762;HIV-1 isolate RU_ERS_3125_2017 from Russia, complete genome
+27_plasma_Chelyabinsk;86;MZ427723;HIV-1 isolate RU_ERS_769_2015 from Russia, complete genome
+27_plasma_Chelyabinsk;87;KF374862;HIV-1 isolate 11RU9900 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;88;JX290218;HIV-1 isolate 10RU6587 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;89;MK510046;HIV-1 isolate HIV1_Arch67_2017 from Russia pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;90;MH330368;HIV-1 isolate IRK042 from Russia, complete genome
+27_plasma_Chelyabinsk;91;HF679222;HIV-1 M:A1 MnoBl-60A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+27_plasma_Chelyabinsk;92;HE657518;HIV-1 M:A MnObl-32-A partial ag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;93;HE657486;HIV-1 M:A Gr-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+27_plasma_Chelyabinsk;94;MH330367;HIV-1 isolate IRK039 from Russia, complete genome
+27_plasma_Chelyabinsk;95;HF679243;HIV-1 M:A1 Mn-25A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+27_plasma_Chelyabinsk;96;HE657451;HIV-1 M:A Gom-4-A partial gag-pol gene for polyprotein, protease and reverse trancriptase region, genomic RNA
+27_plasma_Chelyabinsk;97;KM190962;HIV-1 strain MnObl-81 from Belarus pol protein (pol) gene, partial cds
+27_plasma_Chelyabinsk;98;MT334922;HIV-1 isolate RU_ERS_1013_2016 from Russia, complete genome
+27_plasma_Chelyabinsk;99;MZ427733;HIV-1 isolate RU_ERS_3759_2019 from Russia, complete genome
+27_plasma_Chelyabinsk;100;MH330369;HIV-1 isolate IRK043 from Russia, complete genome
+38_plasma_Chelyabinsk;1;AY829211;"HIV-1 isolate 02UZ0667 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), and vpu protein (vpu) genes, complete cds"
+38_plasma_Chelyabinsk;2;AY829206;"HIV-1 isolate 02UZ698 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;3;AY829212;"HIV-1 isolate 02UZ0672 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;4;AY829208;"HIV-1 isolate 02UZ740 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;5;AY829203;"HIV-1 isolate 02UZ652 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;6;EF589040;"HIV-1 isolate 02KZYUZ300413 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;7;EF589039;"HIV-1 isolate 02KZPAV300497 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;8;AY829209;"HIV-1 isolate 02UZ0659 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;9;EF589041;"HIV-1 isolate 02KZYUZ300425 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;10;KF374925;HIV-1 isolate 12RU45p from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;11;AY829205;"HIV-1 isolate 02UZ694 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;12;JQ292891;"HIV-1 isolate Irkutsk_5 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence"
+38_plasma_Chelyabinsk;13;JX290235;HIV-1 isolate 10RU72m from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;14;HE657486;HIV-1 M:A Gr-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;15;DQ167216;"HIV-1 isolate EST2002-394 from Estonia truncated gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), aberrant vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds"
+38_plasma_Chelyabinsk;16;KF374876;HIV-1 isolate 11RU12103 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;17;HF679217;HIV-1 M:A1 MnObl-45A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+38_plasma_Chelyabinsk;18;MH330346;HIV-1 isolate ARH068 from Russia, complete genome
+38_plasma_Chelyabinsk;19;JX290219;HIV-1 isolate 10RU6602 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;20;MT369980;HIV-1 isolate RU_ERS_1100_2016 from Russia, complete genome
+38_plasma_Chelyabinsk;21;KY238331;HIV-1 isolate MSK_SK_009_PRRT from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+38_plasma_Chelyabinsk;22;MN703139;HIV-1 isolate DEMA616RU026, complete genome
+38_plasma_Chelyabinsk;23;MH330353;HIV-1 isolate BLG043 from Russia, complete genome
+38_plasma_Chelyabinsk;24;MH330352;HIV-1 isolate BLG041 from Russia, complete genome
+38_plasma_Chelyabinsk;25;MG902951;HIV-1 isolate ARH011 from Russia, complete genome
+38_plasma_Chelyabinsk;26;KF374870;HIV-1 isolate 11RU11908 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;27;EF589044;"HIV-1 isolate 02KZPAV300502 from Kazakhstan nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;28;AY500393;HIV-1 isolate 03RU20-06-13 from Russia, complete genome
+38_plasma_Chelyabinsk;29;KY235847;HIV-1 isolate 13UZ42 from Uzbekistan pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;30;JQ292892;"HIV-1 isolate RU01029 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;31;KF374862;HIV-1 isolate 11RU9900 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;32;MH330350;HIV-1 isolate BLG035 from Russia, complete genome
+38_plasma_Chelyabinsk;33;MH330349;HIV-1 isolate BLG033 from Russia, complete genome
+38_plasma_Chelyabinsk;34;EF589043;"HIV-1 isolate 02KZPAV300480 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;35;DQ823365;HIV-1 strain 01UAOD10 from Ukraine, partial genome
+38_plasma_Chelyabinsk;36;KY238328;"HIV-1 isolate MSK_SK_007_U5-vpu from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; tat protein (tat) and rev protein (rev) genes, partial cds; vpu protein (vpu) gene, complete cds; and envelope glycoprotein (env) gene, partial cds"
+38_plasma_Chelyabinsk;37;KF374871;HIV-1 isolate 11RU11913 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;38;EF122560;HIV-1 isolate 04CNLN69 from China gag protein (gag) and pol protein (pol) genes, partial cds
+38_plasma_Chelyabinsk;39;HF679243;HIV-1 M:A1 Mn-25A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+38_plasma_Chelyabinsk;40;DQ823359;HIV-1 strain 01UAPol293 from Ukraine, partial genome
+38_plasma_Chelyabinsk;41;MH330354;HIV-1 isolate BLG044 from Russia, complete genome
+38_plasma_Chelyabinsk;42;JX290213;HIV-1 isolate 10RU6389 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;43;HE657459;HIV-1 M:A Mn-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;44;DQ823360;HIV-1 strain 01UAPol303 from Ukraine, partial genome
+38_plasma_Chelyabinsk;45;KY235849;HIV-1 isolate 13UZ56 from Uzbekistan pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;46;HE657456;HIV-1 M:A Mn-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;47;KF374857;HIV-1 isolate 11RU9755 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;48;KM190962;HIV-1 strain MnObl-81 from Belarus pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;49;JX290221;HIV-1 isolate 10RU6753 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;50;HE657493;HIV-1 M:A Mg-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;51;JQ292898;"HIV-1 isolate RU_915_1038 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;52;JQ292894;"HIV-1 isolate RUA007 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;53;EF589042;"HIV-1 isolate 02KZKAR300435 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;54;MK294987;HIV-1 isolate HIV46_VNov2015 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;55;KY238327;"HIV-1 isolate MSK_SK_006-2 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;56;KY238326;"HIV-1 isolate MSK_SK_006-1 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;57;JQ292899;"HIV-1 isolate RU_915_1041 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;58;DQ823361;HIV-1 strain 01UAKV254 from Ukraine, partial genome
+38_plasma_Chelyabinsk;59;DQ823357;HIV-1 strain 01UADN139 from Ukraine, partial genome
+38_plasma_Chelyabinsk;60;DQ823356;HIV-1 strain 01UAPol294 from Ukraine, partial genome
+38_plasma_Chelyabinsk;61;KY235853;HIV-1 isolate 15UZ14 from Uzbekistan pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;62;HF679252;HIV-1 M:A1 Mn-34A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+38_plasma_Chelyabinsk;63;HE657460;HIV-1 M:A Mn-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;64;KY238350;HIV-1 isolate PRM_068_PRRT from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+38_plasma_Chelyabinsk;65;KY235852;HIV-1 isolate 13UZ68 from Uzbekistan pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;66;HF679209;HIV-1 M:A1 MnObl-66A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+38_plasma_Chelyabinsk;67;HE657481;HIV-1 M:A Gr-4-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;68;JF683763;HIV-1 isolate CY213 from Cyprus, partial genome
+38_plasma_Chelyabinsk;69;MH330362;HIV-1 isolate IRK029 from Russia, complete genome
+38_plasma_Chelyabinsk;70;MH330356;HIV-1 isolate BLG051 from Russia, complete genome
+38_plasma_Chelyabinsk;71;KF374859;HIV-1 isolate 11RU9834 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;72;JX290220;HIV-1 isolate 10RU6617 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;73;HE657479;HIV-1 M:A Gr-13-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;74;JQ292893;"HIV-1 isolate RUA001 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+38_plasma_Chelyabinsk;75;MK510037;HIV-1 isolate HIV1_Arch133_2016 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;76;HF679246;HIV-1 M:A1 Mn-28A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+38_plasma_Chelyabinsk;77;HE657510;HIV-1 M:A MnObl-09-A partal gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;78;HE657495;HIV-1 M:A Mg-6-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;79;MK245663;HIV-1 isolate 348_TAJ from Tajikistan pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;80;KF374883;HIV-1 isolate 12RU041c from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;81;MT369966;HIV-1 isolate RU_ERS_1051_2016 from Russia, complete genome
+38_plasma_Chelyabinsk;82;HE657468;HIV-1 M:A Br-5-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;83;MK294981;HIV-1 isolate HIV33_VNov2015 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;84;MH330358;HIV-1 isolate IRK014 from Russia, complete genome
+38_plasma_Chelyabinsk;85;KM190979;HIV-1 strain Mg-14 from Belarus pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;86;HE657472;HIV-1 M:A Br-6-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;87;MH330359;HIV-1 isolate IRK025 from Russia, complete genome
+38_plasma_Chelyabinsk;88;HF679222;HIV-1 M:A1 MnoBl-60A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+38_plasma_Chelyabinsk;89;MH330368;HIV-1 isolate IRK042 from Russia, complete genome
+38_plasma_Chelyabinsk;90;MH543067;HIV-1 isolate 147_TAJ from Tajikistan pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;91;MG799048;HIV-1 isolate KYR_Osh83 from Kyrgyzstan pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;92;HF679256;HIV-1 M:A1 Mn-38A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+38_plasma_Chelyabinsk;93;LN600135;HIV-1 M:A1 Br-40A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+38_plasma_Chelyabinsk;94;HE657525;HIV-1 M:A MnObl-24-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;95;HE657518;HIV-1 M:A MnObl-32-A partial ag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;96;MW229184;HIV-1 isolate 119_KRS_01.20 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;97;HF679225;HIV-1 M:A1 MnObl-38A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+38_plasma_Chelyabinsk;98;HE657474;HIV-1 M:A Br-9-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+38_plasma_Chelyabinsk;99;MK510016;HIV-1 isolate HIV1_Arch4_2014 from Russia pol protein (pol) gene, partial cds
+38_plasma_Chelyabinsk;100;MH330369;HIV-1 isolate IRK043 from Russia, complete genome
+3_plasma_Chelyabinsk;1;EF589040;"HIV-1 isolate 02KZYUZ300413 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;2;EF589039;"HIV-1 isolate 02KZPAV300497 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;3;EF589041;"HIV-1 isolate 02KZYUZ300425 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;4;AY829211;"HIV-1 isolate 02UZ0667 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), and vpu protein (vpu) genes, complete cds"
+3_plasma_Chelyabinsk;5;AY829212;"HIV-1 isolate 02UZ0672 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;6;AY829208;"HIV-1 isolate 02UZ740 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;7;AY829203;"HIV-1 isolate 02UZ652 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;8;AY829206;"HIV-1 isolate 02UZ698 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;9;AY829205;"HIV-1 isolate 02UZ694 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;10;AY829209;"HIV-1 isolate 02UZ0659 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;11;AY500393;HIV-1 isolate 03RU20-06-13 from Russia, complete genome
+3_plasma_Chelyabinsk;12;MH330349;HIV-1 isolate BLG033 from Russia, complete genome
+3_plasma_Chelyabinsk;13;JQ292892;"HIV-1 isolate RU01029 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;14;EF122560;HIV-1 isolate 04CNLN69 from China gag protein (gag) and pol protein (pol) genes, partial cds
+3_plasma_Chelyabinsk;15;DQ823359;HIV-1 strain 01UAPol293 from Ukraine, partial genome
+3_plasma_Chelyabinsk;16;MH330356;HIV-1 isolate BLG051 from Russia, complete genome
+3_plasma_Chelyabinsk;17;EF589043;"HIV-1 isolate 02KZPAV300480 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;18;DQ823365;HIV-1 strain 01UAOD10 from Ukraine, partial genome
+3_plasma_Chelyabinsk;19;MH330352;HIV-1 isolate BLG041 from Russia, complete genome
+3_plasma_Chelyabinsk;20;JQ292898;"HIV-1 isolate RU_915_1038 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;21;KY238327;"HIV-1 isolate MSK_SK_006-2 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;22;KY238326;"HIV-1 isolate MSK_SK_006-1 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;23;MN703139;HIV-1 isolate DEMA616RU026, complete genome
+3_plasma_Chelyabinsk;24;MH330354;HIV-1 isolate BLG044 from Russia, complete genome
+3_plasma_Chelyabinsk;25;MH330353;HIV-1 isolate BLG043 from Russia, complete genome
+3_plasma_Chelyabinsk;26;MG902951;HIV-1 isolate ARH011 from Russia, complete genome
+3_plasma_Chelyabinsk;27;JQ292895;"HIV-1 isolate RU_560_1125_JA from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;28;EF589044;"HIV-1 isolate 02KZPAV300502 from Kazakhstan nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;29;DQ823361;HIV-1 strain 01UAKV254 from Ukraine, partial genome
+3_plasma_Chelyabinsk;30;DQ823360;HIV-1 strain 01UAPol303 from Ukraine, partial genome
+3_plasma_Chelyabinsk;31;JX290235;HIV-1 isolate 10RU72m from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;32;MH330346;HIV-1 isolate ARH068 from Russia, complete genome
+3_plasma_Chelyabinsk;33;JQ292891;"HIV-1 isolate Irkutsk_5 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence"
+3_plasma_Chelyabinsk;34;KY238328;"HIV-1 isolate MSK_SK_007_U5-vpu from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; tat protein (tat) and rev protein (rev) genes, partial cds; vpu protein (vpu) gene, complete cds; and envelope glycoprotein (env) gene, partial cds"
+3_plasma_Chelyabinsk;35;JQ292893;"HIV-1 isolate RUA001 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;36;DQ167216;"HIV-1 isolate EST2002-394 from Estonia truncated gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), aberrant vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds"
+3_plasma_Chelyabinsk;37;MH330362;HIV-1 isolate IRK029 from Russia, complete genome
+3_plasma_Chelyabinsk;38;MH330351;HIV-1 isolate BLG038 from Russia, complete genome
+3_plasma_Chelyabinsk;39;JQ292894;"HIV-1 isolate RUA007 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;40;DQ823367;HIV-1 strain 01UAOD89 from Ukraine, partial genome
+3_plasma_Chelyabinsk;41;DQ823356;HIV-1 strain 01UAPol294 from Ukraine, partial genome
+3_plasma_Chelyabinsk;42;HE657493;HIV-1 M:A Mg-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+3_plasma_Chelyabinsk;43;JX500696;HIV-1 isolate 10RU6617 from Russia, partial genome
+3_plasma_Chelyabinsk;44;DQ823358;HIV-1 strain 01UADN121 from Ukraine, partial genome
+3_plasma_Chelyabinsk;45;DQ823357;HIV-1 strain 01UADN139 from Ukraine, partial genome
+3_plasma_Chelyabinsk;46;MT369980;HIV-1 isolate RU_ERS_1100_2016 from Russia, complete genome
+3_plasma_Chelyabinsk;47;JF683763;HIV-1 isolate CY213 from Cyprus, partial genome
+3_plasma_Chelyabinsk;48;MT222948;HIV-1 isolate DEMA614RU024 from Russia, complete genome
+3_plasma_Chelyabinsk;49;MH330373;HIV-1 isolate MRK063 from Russia, complete genome
+3_plasma_Chelyabinsk;50;EF589042;"HIV-1 isolate 02KZKAR300435 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;51;KF374925;HIV-1 isolate 12RU45p from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;52;KF374871;HIV-1 isolate 11RU11913 from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;53;HE657510;HIV-1 M:A MnObl-09-A partal gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+3_plasma_Chelyabinsk;54;MH330367;HIV-1 isolate IRK039 from Russia, complete genome
+3_plasma_Chelyabinsk;55;MH330348;HIV-1 isolate BLG032 from Russia, complete genome
+3_plasma_Chelyabinsk;56;MZ427747;HIV-1 isolate RU_ERS_234_2012 from Russia, complete genome
+3_plasma_Chelyabinsk;57;HE657538;HIV-1 M:A Gr-15-A partial gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+3_plasma_Chelyabinsk;58;HE657482;HIV-1 M:A Gr-5-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+3_plasma_Chelyabinsk;59;MN703137;HIV-1 isolate DEMA614RU025 from Russia, complete genome
+3_plasma_Chelyabinsk;60;OL505515;HIV-1 isolate 2017_118_LO from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;61;MZ427755;HIV-1 isolate RU_ERS_3013_2015 from Russia, complete genome
+3_plasma_Chelyabinsk;62;KF374876;HIV-1 isolate 11RU12103 from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;63;JX290219;HIV-1 isolate 10RU6602 from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;64;MT369972;HIV-1 isolate RU_ERS_1091_2016 from Russia, complete genome
+3_plasma_Chelyabinsk;65;JF683780;HIV-1 isolate CY231 from Cyprus, partial genome
+3_plasma_Chelyabinsk;66;AY829210;"HIV-1 isolate 02UZ0663 from Uzbekistan gag protein (gag) and truncated pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;67;KY235847;HIV-1 isolate 13UZ42 from Uzbekistan pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;68;HE657486;HIV-1 M:A Gr-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+3_plasma_Chelyabinsk;69;MT369974;HIV-1 isolate RU_ERS_1093_2016 from Russia, complete genome
+3_plasma_Chelyabinsk;70;MH330358;HIV-1 isolate IRK014 from Russia, complete genome
+3_plasma_Chelyabinsk;71;MH330350;HIV-1 isolate BLG035 from Russia, complete genome
+3_plasma_Chelyabinsk;72;MH330347;HIV-1 isolate BLG015 from Russia, complete genome
+3_plasma_Chelyabinsk;73;MT334924;HIV-1 isolate RU_ERS_1016_2016 from Russia, complete genome
+3_plasma_Chelyabinsk;74;DQ207944;"HIV-1 isolate 99GEMZ011 from Georgia gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;75;JX290213;HIV-1 isolate 10RU6389 from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;76;JX290209;HIV-1 isolate 10RU6010 from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;77;OP056071;HIV-1 isolate KRS64-1 from Russia, complete genome
+3_plasma_Chelyabinsk;78;HF679237;HIV-1 M:A1 Mn13A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+3_plasma_Chelyabinsk;79;JX500695;HIV-1 isolate 10RU6792 from Russia, partial genome
+3_plasma_Chelyabinsk;80;JQ292899;"HIV-1 isolate RU_915_1041 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+3_plasma_Chelyabinsk;81;MH330368;HIV-1 isolate IRK042 from Russia, complete genome
+3_plasma_Chelyabinsk;82;HF679246;HIV-1 M:A1 Mn-28A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+3_plasma_Chelyabinsk;83;HF679217;HIV-1 M:A1 MnObl-45A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+3_plasma_Chelyabinsk;84;MZ427762;HIV-1 isolate RU_ERS_3125_2017 from Russia, complete genome
+3_plasma_Chelyabinsk;85;JX290220;HIV-1 isolate 10RU6617 from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;86;HE657456;HIV-1 M:A Mn-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+3_plasma_Chelyabinsk;87;MH330359;HIV-1 isolate IRK025 from Russia, complete genome
+3_plasma_Chelyabinsk;88;MT369984;HIV-1 isolate RU_ERS_1104_2016 from Russia, complete genome
+3_plasma_Chelyabinsk;89;HE657479;HIV-1 M:A Gr-13-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+3_plasma_Chelyabinsk;90;HF679267;HIV-1 M:A1 Gr-17A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+3_plasma_Chelyabinsk;91;KF374857;HIV-1 isolate 11RU9755 from Russia pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;92;MZ427757;HIV-1 isolate RU_ERS_3067_2017 from Russia, complete genome
+3_plasma_Chelyabinsk;93;HE657495;HIV-1 M:A Mg-6-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+3_plasma_Chelyabinsk;94;MZ427723;HIV-1 isolate RU_ERS_769_2015 from Russia, complete genome
+3_plasma_Chelyabinsk;95;HF679243;HIV-1 M:A1 Mn-25A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+3_plasma_Chelyabinsk;96;MT334922;HIV-1 isolate RU_ERS_1013_2016 from Russia, complete genome
+3_plasma_Chelyabinsk;97;KM190962;HIV-1 strain MnObl-81 from Belarus pol protein (pol) gene, partial cds
+3_plasma_Chelyabinsk;98;MH330364;HIV-1 isolate IRK031 from Russia, complete genome >gi|1573780104|gb|MH330365.1| HIV-1 isolate IRK035 from Russia, complete genome
+3_plasma_Chelyabinsk;99;MZ427733;HIV-1 isolate RU_ERS_3759_2019 from Russia, complete genome
+3_plasma_Chelyabinsk;100;MH330381;HIV-1 isolate MRK097 from Russia, complete genome
+46_plasma_Chelyabinsk;1;OP301469;HIV-1 isolate 851_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;2;OP299793;HIV-1 isolate 336_0CH from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;3;KM284611;HIV-1 isolate H51_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;4;MT189315;HIV-1 isolate 5104_wk-2_3_L9 from USA defective genome
+46_plasma_Chelyabinsk;5;MT189276;HIV-1 isolate 5104_CEFT_CD69_O22 from USA defective genome
+46_plasma_Chelyabinsk;6;KF374917;HIV-1 isolate 12RU6991 from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;7;MH330346;HIV-1 isolate ARH068 from Russia, complete genome
+46_plasma_Chelyabinsk;8;OL505499;HIV-1 isolate 2017_79_LO from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;9;OP301647;HIV-1 isolate 99_8GD from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;10;OP301633;HIV-1 isolate 980_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;11;OP300579;HIV-1 isolate 48_5PN from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;12;KM284673;HIV-1 isolate I80_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;13;MT190865;HIV-1 isolate 5104_wk-2_1_A8 from USA, complete genome
+46_plasma_Chelyabinsk;14;MT190863;HIV-1 isolate 5104_SEB_NEGPl2_C10 from USA, complete genome
+46_plasma_Chelyabinsk;15;MT190781;HIV-1 isolate 5104_CEFT_CD69_M4 from USA, complete genome
+46_plasma_Chelyabinsk;16;MT189322;HIV-1 isolate 5104_CMV_AIM_M24 from USA defective genome
+46_plasma_Chelyabinsk;17;MT189321;HIV-1 isolate 5104_wk-2_4_F18 from USA defective genome
+46_plasma_Chelyabinsk;18;MT189320;HIV-1 isolate 5104_wk-2_5_I14 from USA defective genome
+46_plasma_Chelyabinsk;19;MT189319;HIV-1 isolate 5104_wk-2_3_E1 from USA defective genome
+46_plasma_Chelyabinsk;20;MT189318;HIV-1 isolate 5104_SEB_CD69Pl2_K9 from USA defective genome
+46_plasma_Chelyabinsk;21;MT189317;HIV-1 isolate 5104_SEB_AIMPl2_O1 from USA defective genome
+46_plasma_Chelyabinsk;22;MT189316;HIV-1 isolate 5104_GAG_CD69_F10 from USA defective genome
+46_plasma_Chelyabinsk;23;MT189308;HIV-1 isolate 5104_wk-2_1_K13 from USA defective genome
+46_plasma_Chelyabinsk;24;MT189301;HIV-1 isolate 5104_GAG_NEG_F16 from USA defective genome
+46_plasma_Chelyabinsk;25;MT189297;HIV-1 isolate 5104_SEB_AIM_M14 from USA defective genome
+46_plasma_Chelyabinsk;26;MT189295;HIV-1 isolate 5104_GAG_AIM_P2 from USA defective genome
+46_plasma_Chelyabinsk;27;MT189290;HIV-1 isolate 5104_CMV_CD69_K17 from USA defective genome
+46_plasma_Chelyabinsk;28;MT189287;HIV-1 isolate 5104_wk-2_5_L21 from USA defective genome
+46_plasma_Chelyabinsk;29;KY628218;"HIV-1 isolate BRGO3145 from Brazil gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;30;JX446806;"HIV-1 isolate AA010a_WG9 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;31;JX446804;"HIV-1 isolate AA010a_WG7 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;32;JX446803;"HIV-1 isolate AA010a_WG6 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;33;JX446802;"HIV-1 isolate AA010a_WG5 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;34;JX446801;"HIV-1 isolate AA010a_WG4 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;35;JX446800;"HIV-1 isolate AA010a_WG3 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;36;JX446799;"HIV-1 isolate AA010a_WG2 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;37;JX446798;"HIV-1 isolate AA010a_WG12 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;38;JX446797;"HIV-1 isolate AA010a_WG11 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;39;JX446796;"HIV-1 isolate AA010a_WG10 from Thailand gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+46_plasma_Chelyabinsk;40;JX290236;HIV-1 isolate 10RU73m from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;41;JX290218;HIV-1 isolate 10RU6587 from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;42;AF069140;HIV-1 isolate DH12 clone 3 from the USA, complete genome
+46_plasma_Chelyabinsk;43;MN703139;HIV-1 isolate DEMA616RU026, complete genome
+46_plasma_Chelyabinsk;44;MN317577;HIV-1 isolate HIV1_Arch98_2018 from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;45;MK510073;HIV-1 isolate HIV1_Arch51_2018 from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;46;MK510063;HIV-1 isolate HIV1_Arch120_2017 from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;47;MH330376;HIV-1 isolate MRK075 from Russia, complete genome
+46_plasma_Chelyabinsk;48;KU749403;HIV-1 isolate DEMA112UA024 from Ukraine, partial genome
+46_plasma_Chelyabinsk;49;KY036325;HIV-1 isolate 963 from USA pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;50;KM190972;HIV-1 strain Gom-45 from Belarus pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;51;KF374886;HIV-1 isolate 12RU137c from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;52;MT334929;HIV-1 isolate RU_ERS_1026_2016 from Russia, complete genome
+46_plasma_Chelyabinsk;53;MK245523;HIV-1 isolate 153_TAJ_Khujand from Tajikistan pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;54;MG798949;HIV-1 isolate KYR_Bishkek42 from Kyrgyzstan pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;55;KT737299;HIV-1 isolate AP036 from Brazil pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;56;KT340126;HIV-1 isolate 1100_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;57;OP300826;HIV-1 isolate 543_ZG2 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;58;OP299916;HIV-1 isolate 357_7BI from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;59;OP298514;HIV-1 isolate 1416_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;60;OP298449;HIV-1 isolate 1348_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;61;OP298344;HIV-1 isolate 1261_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;62;MH543027;HIV-1 isolate 42_TAJ from Tajikistan pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;63;KT340141;HIV-1 isolate 139_WR14 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;64;OP299637;"HIV-1 isolate 309_1CH from Poland pol protein (pol) gene, partial cds; and nonfunctional gag protein (gag) gene, partial sequence"
+46_plasma_Chelyabinsk;65;ON816645;"HIV-1 isolate ART6p24-102C2_14C0P0_491 from Canada gag protein gene, complete cds; and pol protein-like gene, partial sequence"
+46_plasma_Chelyabinsk;66;ON816581;"HIV-1 isolate ART6_91H4_89C0P0_483 from Canada gag protein-like gene, complete sequence; pol protein gene, partial cds; and vif protein, vpr protein, tat protein, rev protein, vpu protein, envelope glycoprotein, and nef protein genes, complete cds"
+46_plasma_Chelyabinsk;67;ON816559;"HIV-1 isolate ART6_91B10_67C0P0_485 from Canada gag protein-like gene, complete sequence; pol protein gene, partial cds; and vif protein, vpr protein, tat protein, rev protein, vpu protein, envelope glycoprotein, and nef protein genes, complete cds"
+46_plasma_Chelyabinsk;68;ON816551;"HIV-1 isolate ART6_91A7_59C0P0_485 from Canada gag protein-like gene, complete sequence; pol protein gene, partial cds; and vif protein, vpr protein, tat protein, rev protein, vpu protein, envelope glycoprotein, and nef protein genes, complete cds"
+46_plasma_Chelyabinsk;69;ON816546;"HIV-1 isolate ART6_63H9_21C0P0_479 from Canada gag protein-like gene, complete sequence; pol protein gene, partial cds; and vif protein, vpr protein, tat protein, rev protein, vpu protein, envelope glycoprotein, and nef protein genes, complete cds"
+46_plasma_Chelyabinsk;70;ON816541;"HIV-1 isolate ART6_63G5_ID49_8796_16 from Canada gag protein-like gene, complete sequence; pol protein gene, partial cds; and vif protein, vpr protein, tat protein, rev protein, vpu protein, envelope glycoprotein, and nef protein genes, complete cds"
+46_plasma_Chelyabinsk;71;HE657485;HIV-1 M:CRF03 Gr-8-A/B partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+46_plasma_Chelyabinsk;72;HE657455;HIV-1 M:B Mn-9-B partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+46_plasma_Chelyabinsk;73;OP301346;HIV-1 isolate 738_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;74;OP299328;"HIV-1 isolate 255_6WR from Poland pol protein (pol) gene, partial cds; and nonfunctional gag protein (gag) gene, partial sequence"
+46_plasma_Chelyabinsk;75;OP298904;HIV-1 isolate 191_7CH from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;76;OP298542;HIV-1 isolate 145_5ZG from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;77;KM284570;HIV-1 isolate G38_1 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;78;LN600135;HIV-1 M:A1 Br-40A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+46_plasma_Chelyabinsk;79;HF679272;HIV-1 M:A1 Gom-29A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+46_plasma_Chelyabinsk;80;HE657518;HIV-1 M:A MnObl-32-A partial ag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+46_plasma_Chelyabinsk;81;OP300983;HIV-1 isolate 591_6 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;82;MT369980;HIV-1 isolate RU_ERS_1100_2016 from Russia, complete genome
+46_plasma_Chelyabinsk;83;MK245482;HIV-1 isolate 55_TAJ_Khujand from Tajikistan pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;84;OP300569;HIV-1 isolate 479_BY2 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;85;KM284246;HIV-1 isolate 424_BY11 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;86;KM284118;HIV-1 isolate 264_GD13 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;87;MW229161;HIV-1 isolate 53_KRS_08.19 from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;88;HE657480;HIV-1 M:A Gr-2-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+46_plasma_Chelyabinsk;89;GU972734;HIV-1 isolate DA700BL0-01 from Jamaica pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;90;OP299334;HIV-1 isolate 256_5PN from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;91;KM284311;HIV-1 isolate 5092_BY11 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;92;KM283900;HIV-1 isolate 109_GD13 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;93;MF456276;HIV-1 isolate DC1690_0130114_PR_RT from USA pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;94;KX662508;HIV-1 isolate UK_B_702 from United Kingdom pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;95;KT167886;HIV-1 isolate PRRT_40 from USA pol protein gene, partial cds
+46_plasma_Chelyabinsk;96;OP300848;HIV-1 isolate 549_18 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;97;MT334930;HIV-1 isolate RU_ERS_1027_2016 from Russia, complete genome
+46_plasma_Chelyabinsk;98;OP299026;HIV-1 isolate 211_5WR from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+46_plasma_Chelyabinsk;99;MK294984;HIV-1 isolate HIV37_VNov2015 from Russia pol protein (pol) gene, partial cds
+46_plasma_Chelyabinsk;100;OP298376;HIV-1 isolate 128_3 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;1;MW115503;HIV-1 isolate SUR035 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;2;KM247291;HIV-1 isolate RU_IRK_546_1999 from Russia pol protein (pol) gene, partial cds >gi|700588763|gb|KM247299.1| HIV-1 isolate RU_IRK_555_1999 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;3;KF374892;HIV-1 isolate 12RU184c from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;4;MW115522;HIV-1 isolate SUR073 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;5;HQ161912;HIV-1 isolate VLD126 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;6;EF589041;"HIV-1 isolate 02KZYUZ300425 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+49_plasma_Chelyabinsk;7;EF589039;"HIV-1 isolate 02KZPAV300497 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+49_plasma_Chelyabinsk;8;MK931831;HIV-1 isolate RU_ERS_1601_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;9;KR233364;HIV-1 isolate VLD167 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;10;KC665922;HIV-1 isolate RU_KHB057 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;11;HM345566;HIV-1 isolate 37MOSR from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;12;MK029222;HIV-1 isolate 18844 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;13;MK029284;HIV-1 isolate 18971 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;14;MK029215;HIV-1 isolate 18835 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;15;KX662386;HIV-1 isolate UK_A1_36 from United Kingdom pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;16;OP330431;HIV-1 isolate RES_1302 from Belarus pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;17;KM247298;HIV-1 isolate RU_IRK_554_1999 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;18;EU345773;HIV-1 isolate RU01074 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;19;MF403215;HIV-1 isolate A1_2207501862101105 from Spain pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;20;KC340486;HIV-1 isolate 564286 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;21;KR233361;HIV-1 isolate VLD147 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;22;MK931893;HIV-1 isolate RU_ERS_1877_2010 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;23;MK931851;HIV-1 isolate RU_ERS_1686_2008 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;24;MK931845;HIV-1 isolate RU_ERS_1620_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;25;MK931844;HIV-1 isolate RU_ERS_1619_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;26;MK589584;HIV-1 isolate KRS5415 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;27;MK245698;HIV-1 isolate 450_TAJ from Tajikistan pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;28;MH543066;HIV-1 isolate 146_TAJ from Tajikistan pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;29;MG063795;HIV-1 isolate MARY1069/RU from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;30;MF124848;HIV-1 isolate SHL046 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;31;MF124829;HIV-1 isolate SHL013 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;32;KR233392;HIV-1 isolate VLD021 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;33;KM247300;HIV-1 isolate RU_IRK_556_1999 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;34;KM247297;HIV-1 isolate RU_IRK_553_1999 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;35;KM247296;HIV-1 isolate RU_IRK_552_1999 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;36;KM057364;HIV-1 isolate E.M._BY from Poland pol protein (pol) and gag protein (gag) genes, partial cds >gi|695100239|gb|KM284227.1| HIV-1 isolate 401_BI12 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;37;KC254587;HIV-1 isolate BLG020 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;38;JX290219;HIV-1 isolate 10RU6602 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;39;HQ130000;HIV-1 isolate 10RU5310 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;40;EU345875;HIV-1 isolate RUJA16 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;41;EF122560;HIV-1 isolate 04CNLN69 from China gag protein (gag) and pol protein (pol) genes, partial cds
+49_plasma_Chelyabinsk;42;AY829208;"HIV-1 isolate 02UZ740 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+49_plasma_Chelyabinsk;43;OM856664;HIV-1 isolate Oryol.5807 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;44;KM057369;HIV-1 isolate M.P._BY from Poland pol protein (pol) and gag protein (gag) genes, partial cds >gi|695100236|gb|KM284226.1| HIV-1 isolate 400_BI12 from Poland pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;45;KJ722077;HIV-1 isolate RU_NNG442 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;46;HQ424157;HIV-1 isolate KRD025 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;47;HQ161911;HIV-1 isolate VLD044 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;48;EF583222;HIV-1 isolate 04SP596775 from Spain pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;49;MK931830;HIV-1 isolate RU_ERS_1600_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;50;MH666785;HIV-1 isolate MOW211045 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;51;MK245670;HIV-1 isolate 364_TAJ from Tajikistan pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;52;KX432076;HIV-1 isolate MRK023 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;53;KR233389;HIV-1 isolate SRT099 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;54;KJ722087;HIV-1 isolate RU_NNG512 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;55;KF720957;HIV-1 isolate AM031_2009 from Armenia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;56;HQ161925;HIV-1 isolate SML087 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;57;EU345867;HIV-1 isolate RUJA03 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;58;MK932000;HIV-1 isolate RU_ERS_2477_2017 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;59;MK931809;HIV-1 isolate RU_ERS_1465_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;60;MK245706;HIV-1 isolate 462_TAJ from Tajikistan pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;61;MF403212;HIV-1 isolate A1_0716391855885417 from Spain pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;62;KR233355;HIV-1 isolate VLD120 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;63;KP090077;HIV-1 isolate MOS663/RU from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;64;HE657456;HIV-1 M:A Mn-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+49_plasma_Chelyabinsk;65;MK931936;HIV-1 isolate RU_ERS_2190_2016 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;66;MK931853;HIV-1 isolate RU_ERS_1688_2008 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;67;MH666619;HIV-1 isolate MOW176853 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;68;MG798954;HIV-1 isolate KYR_Bishkek51 from Kyrgyzstan pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;69;KY235853;HIV-1 isolate 15UZ14 from Uzbekistan pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;70;OL792422;HIV-1 isolate 1311000706 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;71;KF257869;HIV-1 isolate Orb482 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;72;HF679252;HIV-1 M:A1 Mn-34A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+49_plasma_Chelyabinsk;73;HF679237;HIV-1 M:A1 Mn13A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+49_plasma_Chelyabinsk;74;MK589583;HIV-1 isolate KRS5414 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;75;MH667159;HIV-1 isolate MOW29257 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;76;MH666626;HIV-1 isolate MOW177727 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;77;MK029270;HIV-1 isolate 18923 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;78;MK029178;HIV-1 isolate 16105 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;79;MH330362;HIV-1 isolate IRK029 from Russia, complete genome
+49_plasma_Chelyabinsk;80;KY235849;HIV-1 isolate 13UZ56 from Uzbekistan pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;81;KR233403;HIV-1 isolate SRT041 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;82;KC208003;HIV-1 isolate RU_BLG004 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;83;MK510046;HIV-1 isolate HIV1_Arch67_2017 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;84;MK931758;HIV-1 isolate RU_ERS_0931_2015 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;85;MK589646;HIV-1 isolate KRS6183 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;86;HQ129999;HIV-1 isolate 09RU2102 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;87;MK931911;HIV-1 isolate RU_ERS_1917_2009 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;88;MK589647;HIV-1 isolate KRS6184 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;89;MK589597;HIV-1 isolate KRS5723 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;90;OP330410;HIV-1 isolate RES_1279 from Belarus pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;91;MK931906;HIV-1 isolate RU_ERS_1909_2009 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;92;OL752830;HIV-1 isolate 21KG129 from Kyrgyzstan pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;93;MK931827;HIV-1 isolate RU_ERS_1594_2007 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;94;MH666877;HIV-1 isolate MOW236967 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;95;KR233358;HIV-1 isolate VLD140 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;96;KR233352;HIV-1 isolate VLD114 from Russia pol protein (pol) gene, partial cds
+49_plasma_Chelyabinsk;97;MK931623;HIV-1 isolate RU_ERS_0420_2014 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;98;MH666538;HIV-1 isolate MOW140948 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;99;MH666796;HIV-1 isolate MOW212623 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+49_plasma_Chelyabinsk;100;OL792462;HIV-1 isolate 1311000808 from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+4_plasma_Chelyabinsk;1;MH330352;HIV-1 isolate BLG041 from Russia, complete genome
+4_plasma_Chelyabinsk;2;EF589040;"HIV-1 isolate 02KZYUZ300413 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;3;EF589039;"HIV-1 isolate 02KZPAV300497 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;4;DQ823365;HIV-1 strain 01UAOD10 from Ukraine, partial genome
+4_plasma_Chelyabinsk;5;AY829212;"HIV-1 isolate 02UZ0672 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;6;AY829203;"HIV-1 isolate 02UZ652 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;7;MH330373;HIV-1 isolate MRK063 from Russia, complete genome
+4_plasma_Chelyabinsk;8;EF122560;HIV-1 isolate 04CNLN69 from China gag protein (gag) and pol protein (pol) genes, partial cds
+4_plasma_Chelyabinsk;9;AY829211;"HIV-1 isolate 02UZ0667 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), and vpu protein (vpu) genes, complete cds"
+4_plasma_Chelyabinsk;10;AY829208;"HIV-1 isolate 02UZ740 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;11;EF589044;"HIV-1 isolate 02KZPAV300502 from Kazakhstan nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;12;EF589041;"HIV-1 isolate 02KZYUZ300425 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;13;DQ167216;"HIV-1 isolate EST2002-394 from Estonia truncated gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), aberrant vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds"
+4_plasma_Chelyabinsk;14;EF589043;"HIV-1 isolate 02KZPAV300480 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;15;DQ823361;HIV-1 strain 01UAKV254 from Ukraine, partial genome
+4_plasma_Chelyabinsk;16;AY829209;"HIV-1 isolate 02UZ0659 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;17;AY829206;"HIV-1 isolate 02UZ698 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;18;AY829205;"HIV-1 isolate 02UZ694 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;19;MH330353;HIV-1 isolate BLG043 from Russia, complete genome
+4_plasma_Chelyabinsk;20;MH330349;HIV-1 isolate BLG033 from Russia, complete genome
+4_plasma_Chelyabinsk;21;AY829210;"HIV-1 isolate 02UZ0663 from Uzbekistan gag protein (gag) and truncated pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;22;OL505497;HIV-1 isolate 2017_73_LO from Russia pol protein (pol) gene, partial cds
+4_plasma_Chelyabinsk;23;JQ292892;"HIV-1 isolate RU01029 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;24;DQ823367;HIV-1 strain 01UAOD89 from Ukraine, partial genome
+4_plasma_Chelyabinsk;25;DQ823358;HIV-1 strain 01UADN121 from Ukraine, partial genome
+4_plasma_Chelyabinsk;26;DQ823356;HIV-1 strain 01UAPol294 from Ukraine, partial genome
+4_plasma_Chelyabinsk;27;DQ823359;HIV-1 strain 01UAPol293 from Ukraine, partial genome
+4_plasma_Chelyabinsk;28;MH330356;HIV-1 isolate BLG051 from Russia, complete genome
+4_plasma_Chelyabinsk;29;DQ823360;HIV-1 strain 01UAPol303 from Ukraine, partial genome
+4_plasma_Chelyabinsk;30;DQ207944;"HIV-1 isolate 99GEMZ011 from Georgia gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;31;MN703139;HIV-1 isolate DEMA616RU026, complete genome
+4_plasma_Chelyabinsk;32;MH330350;HIV-1 isolate BLG035 from Russia, complete genome
+4_plasma_Chelyabinsk;33;JF683780;HIV-1 isolate CY231 from Cyprus, partial genome
+4_plasma_Chelyabinsk;34;EF589042;"HIV-1 isolate 02KZKAR300435 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;35;DQ823357;HIV-1 strain 01UADN139 from Ukraine, partial genome
+4_plasma_Chelyabinsk;36;JX290235;HIV-1 isolate 10RU72m from Russia pol protein (pol) gene, partial cds
+4_plasma_Chelyabinsk;37;JF683763;HIV-1 isolate CY213 from Cyprus, partial genome
+4_plasma_Chelyabinsk;38;MH330362;HIV-1 isolate IRK029 from Russia, complete genome
+4_plasma_Chelyabinsk;39;MG902951;HIV-1 isolate ARH011 from Russia, complete genome
+4_plasma_Chelyabinsk;40;JQ292899;"HIV-1 isolate RU_915_1041 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;41;AY500393;HIV-1 isolate 03RU20-06-13 from Russia, complete genome
+4_plasma_Chelyabinsk;42;JQ292898;"HIV-1 isolate RU_915_1038 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;43;MH330351;HIV-1 isolate BLG038 from Russia, complete genome
+4_plasma_Chelyabinsk;44;MH330346;HIV-1 isolate ARH068 from Russia, complete genome
+4_plasma_Chelyabinsk;45;JQ292891;"HIV-1 isolate Irkutsk_5 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence"
+4_plasma_Chelyabinsk;46;MH330358;HIV-1 isolate IRK014 from Russia, complete genome
+4_plasma_Chelyabinsk;47;KY238328;"HIV-1 isolate MSK_SK_007_U5-vpu from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; tat protein (tat) and rev protein (rev) genes, partial cds; vpu protein (vpu) gene, complete cds; and envelope glycoprotein (env) gene, partial cds"
+4_plasma_Chelyabinsk;48;HE657486;HIV-1 M:A Gr-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+4_plasma_Chelyabinsk;49;MH330347;HIV-1 isolate BLG015 from Russia, complete genome
+4_plasma_Chelyabinsk;50;MH330345;HIV-1 isolate ARH066 from Russia, complete genome
+4_plasma_Chelyabinsk;51;HF679217;HIV-1 M:A1 MnObl-45A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+4_plasma_Chelyabinsk;52;MT369969;HIV-1 isolate RU_ERS_1054_2016 from Russia, complete genome
+4_plasma_Chelyabinsk;53;AF413987;HIV-1 isolate 98UA0116 from Ukraine, complete genome
+4_plasma_Chelyabinsk;54;OL505515;HIV-1 isolate 2017_118_LO from Russia pol protein (pol) gene, partial cds
+4_plasma_Chelyabinsk;55;JQ292897;"HIV-1 isolate RU_915_1035 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;56;MH330337;HIV-1 isolate ARH028 from Russia, complete genome
+4_plasma_Chelyabinsk;57;KY658682;HIV-1 isolate DEMA112UA040 from Ukraine, partial genome
+4_plasma_Chelyabinsk;58;ON989335;"HIV-1 isolate CY615 from Cyprus gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds"
+4_plasma_Chelyabinsk;59;JQ292894;"HIV-1 isolate RUA007 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;60;FJ388950;"HIV-1 isolate CY171 from Cyprus gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; rev protein (rev) and vpu protein (vpu) genes, complete cds; nonfunctional envelope glycoprotein (env) gene, complete sequence; and nef protein (nef) gene, partial cds"
+4_plasma_Chelyabinsk;61;MH330376;HIV-1 isolate MRK075 from Russia, complete genome
+4_plasma_Chelyabinsk;62;MT334922;HIV-1 isolate RU_ERS_1013_2016 from Russia, complete genome
+4_plasma_Chelyabinsk;63;MH330348;HIV-1 isolate BLG032 from Russia, complete genome
+4_plasma_Chelyabinsk;64;MF109697;HIV-1 isolate 15228_1_59.3 from United Kingdom, partial genome
+4_plasma_Chelyabinsk;65;OP056071;HIV-1 isolate KRS64-1 from Russia, complete genome
+4_plasma_Chelyabinsk;66;JQ292895;"HIV-1 isolate RU_560_1125_JA from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+4_plasma_Chelyabinsk;67;MN317577;HIV-1 isolate HIV1_Arch98_2018 from Russia pol protein (pol) gene, partial cds
+4_plasma_Chelyabinsk;68;MH330368;HIV-1 isolate IRK042 from Russia, complete genome
+4_plasma_Chelyabinsk;69;MH330359;HIV-1 isolate IRK025 from Russia, complete genome
+4_plasma_Chelyabinsk;70;OL505522;HIV-1 isolate 2018_9_LO from Russia pol protein (pol) gene, partial cds
+4_plasma_Chelyabinsk;71;KF374915;HIV-1 isolate 12RU6981 from Russia pol protein (pol) gene, partial cds
+4_plasma_Chelyabinsk;72;HE657482;HIV-1 M:A Gr-5-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+4_plasma_Chelyabinsk;73;MT369961;HIV-1 isolate RU_ERS_1042_2016 from Russia, complete genome
+4_plasma_Chelyabinsk;74;MH330354;HIV-1 isolate BLG044 from Russia, complete genome
+4_plasma_Chelyabinsk;75;MZ427720;HIV-1 isolate RU_ERS_2206_2018 from Russia, complete genome
+4_plasma_Chelyabinsk;76;JX500696;HIV-1 isolate 10RU6617 from Russia, partial genome
+4_plasma_Chelyabinsk;77;MT222947;HIV-1 isolate DEMA614RU018 from Russia, complete genome
+4_plasma_Chelyabinsk;78;MT369984;HIV-1 isolate RU_ERS_1104_2016 from Russia, complete genome
+4_plasma_Chelyabinsk;79;MH330367;HIV-1 isolate IRK039 from Russia, complete genome
+4_plasma_Chelyabinsk;80;KM190960;HIV-1 strain MnObl-78 from Belarus pol protein (pol) gene, partial cds
+4_plasma_Chelyabinsk;81;OL505529;HIV-1 isolate 2018_19_LO from Russia pol protein (pol) gene, partial cds
+4_plasma_Chelyabinsk;82;HE657525;HIV-1 M:A MnObl-24-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+4_plasma_Chelyabinsk;83;MT334931;HIV-1 isolate RU_ERS_1028_2016 from Russia, complete genome
+4_plasma_Chelyabinsk;84;MN703137;HIV-1 isolate DEMA614RU025 from Russia, complete genome
+4_plasma_Chelyabinsk;85;MH330364;HIV-1 isolate IRK031 from Russia, complete genome >gi|1573780104|gb|MH330365.1| HIV-1 isolate IRK035 from Russia, complete genome
+4_plasma_Chelyabinsk;86;MZ427747;HIV-1 isolate RU_ERS_234_2012 from Russia, complete genome
+4_plasma_Chelyabinsk;87;MT369997;HIV-1 isolate RU_ERS_1404_2016 from Russia, complete genome
+4_plasma_Chelyabinsk;88;MT369980;HIV-1 isolate RU_ERS_1100_2016 from Russia, complete genome
+4_plasma_Chelyabinsk;89;MH330357;HIV-1 isolate IRK007 from Russia, complete genome
+4_plasma_Chelyabinsk;90;MT334925;HIV-1 isolate RU_ERS_1018_2016 from Russia, complete genome
+4_plasma_Chelyabinsk;91;OL505508;HIV-1 isolate 2017_97_LO from Russia pol protein (pol) gene, partial cds
+4_plasma_Chelyabinsk;92;HE657456;HIV-1 M:A Mn-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+4_plasma_Chelyabinsk;93;HF679243;HIV-1 M:A1 Mn-25A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+4_plasma_Chelyabinsk;94;MH330372;HIV-1 isolate MRK056 from Russia, complete genome
+4_plasma_Chelyabinsk;95;MH330378;HIV-1 isolate MRK079 from Russia, complete genome
+4_plasma_Chelyabinsk;96;MZ427762;HIV-1 isolate RU_ERS_3125_2017 from Russia, complete genome
+4_plasma_Chelyabinsk;97;MT334920;HIV-1 isolate RU_ERS_1009_2016 from Russia, complete genome
+4_plasma_Chelyabinsk;98;HE657444;HIV-1 M:A Gom-15-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+4_plasma_Chelyabinsk;99;MH330369;HIV-1 isolate IRK043 from Russia, complete genome
+4_plasma_Chelyabinsk;100;MK510049;HIV-1 isolate HIV1_Arch75_2017 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;1;EF589040;"HIV-1 isolate 02KZYUZ300413 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;2;EF589039;"HIV-1 isolate 02KZPAV300497 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;3;EF589041;"HIV-1 isolate 02KZYUZ300425 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;4;MH330352;HIV-1 isolate BLG041 from Russia, complete genome
+5_plasma_Chelyabinsk;5;AY829212;"HIV-1 isolate 02UZ0672 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;6;AY829203;"HIV-1 isolate 02UZ652 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;7;AY829211;"HIV-1 isolate 02UZ0667 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), and vpu protein (vpu) genes, complete cds"
+5_plasma_Chelyabinsk;8;AY829206;"HIV-1 isolate 02UZ698 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;9;AY829208;"HIV-1 isolate 02UZ740 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;10;EF122560;HIV-1 isolate 04CNLN69 from China gag protein (gag) and pol protein (pol) genes, partial cds
+5_plasma_Chelyabinsk;11;AY829209;"HIV-1 isolate 02UZ0659 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;12;AY829205;"HIV-1 isolate 02UZ694 from Uzbekistan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;13;AY500393;HIV-1 isolate 03RU20-06-13 from Russia, complete genome
+5_plasma_Chelyabinsk;14;JQ292893;"HIV-1 isolate RUA001 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;15;JX290235;HIV-1 isolate 10RU72m from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;16;MH330362;HIV-1 isolate IRK029 from Russia, complete genome
+5_plasma_Chelyabinsk;17;MH330353;HIV-1 isolate BLG043 from Russia, complete genome
+5_plasma_Chelyabinsk;18;JQ292891;"HIV-1 isolate Irkutsk_5 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence"
+5_plasma_Chelyabinsk;19;JQ292892;"HIV-1 isolate RU01029 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;20;MH330354;HIV-1 isolate BLG044 from Russia, complete genome
+5_plasma_Chelyabinsk;21;MH330349;HIV-1 isolate BLG033 from Russia, complete genome
+5_plasma_Chelyabinsk;22;KY238327;"HIV-1 isolate MSK_SK_006-2 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;23;KY238326;"HIV-1 isolate MSK_SK_006-1 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;24;MG902951;HIV-1 isolate ARH011 from Russia, complete genome
+5_plasma_Chelyabinsk;25;JX500696;HIV-1 isolate 10RU6617 from Russia, partial genome
+5_plasma_Chelyabinsk;26;KF374925;HIV-1 isolate 12RU45p from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;27;HF679217;HIV-1 M:A1 MnObl-45A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+5_plasma_Chelyabinsk;28;MH330356;HIV-1 isolate BLG051 from Russia, complete genome
+5_plasma_Chelyabinsk;29;KF374871;HIV-1 isolate 11RU11913 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;30;KF374862;HIV-1 isolate 11RU9900 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;31;JQ292895;"HIV-1 isolate RU_560_1125_JA from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;32;JF683763;HIV-1 isolate CY213 from Cyprus, partial genome
+5_plasma_Chelyabinsk;33;MH330348;HIV-1 isolate BLG032 from Russia, complete genome
+5_plasma_Chelyabinsk;34;JX290219;HIV-1 isolate 10RU6602 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;35;DQ823357;HIV-1 strain 01UADN139 from Ukraine, partial genome
+5_plasma_Chelyabinsk;36;KY235847;HIV-1 isolate 13UZ42 from Uzbekistan pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;37;OL505515;HIV-1 isolate 2017_118_LO from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;38;HE657486;HIV-1 M:A Gr-11-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+5_plasma_Chelyabinsk;39;HE657456;HIV-1 M:A Mn-12-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+5_plasma_Chelyabinsk;40;MK510024;HIV-1 isolate HIV1_Arch17_2015 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;41;MH330358;HIV-1 isolate IRK014 from Russia, complete genome
+5_plasma_Chelyabinsk;42;HF679222;HIV-1 M:A1 MnoBl-60A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+5_plasma_Chelyabinsk;43;JX290220;HIV-1 isolate 10RU6617 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;44;MH330338;HIV-1 isolate ARH029 from Russia, complete genome
+5_plasma_Chelyabinsk;45;KY235853;HIV-1 isolate 15UZ14 from Uzbekistan pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;46;MT369972;HIV-1 isolate RU_ERS_1091_2016 from Russia, complete genome
+5_plasma_Chelyabinsk;47;HE657510;HIV-1 M:A MnObl-09-A partal gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+5_plasma_Chelyabinsk;48;JF683780;HIV-1 isolate CY231 from Cyprus, partial genome
+5_plasma_Chelyabinsk;49;EF589043;"HIV-1 isolate 02KZPAV300480 from Kazakhstan gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;50;MG763750;HIV-1 isolate 15RU83fKR from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;51;KY238328;"HIV-1 isolate MSK_SK_007_U5-vpu from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; tat protein (tat) and rev protein (rev) genes, partial cds; vpu protein (vpu) gene, complete cds; and envelope glycoprotein (env) gene, partial cds"
+5_plasma_Chelyabinsk;52;KF374876;HIV-1 isolate 11RU12103 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;53;MT369980;HIV-1 isolate RU_ERS_1100_2016 from Russia, complete genome
+5_plasma_Chelyabinsk;54;JQ292898;"HIV-1 isolate RU_915_1038 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;55;MH330359;HIV-1 isolate IRK025 from Russia, complete genome
+5_plasma_Chelyabinsk;56;HF679252;HIV-1 M:A1 Mn-34A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+5_plasma_Chelyabinsk;57;MT369974;HIV-1 isolate RU_ERS_1093_2016 from Russia, complete genome
+5_plasma_Chelyabinsk;58;MT369966;HIV-1 isolate RU_ERS_1051_2016 from Russia, complete genome
+5_plasma_Chelyabinsk;59;HE657479;HIV-1 M:A Gr-13-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+5_plasma_Chelyabinsk;60;HE657460;HIV-1 M:A Mn-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+5_plasma_Chelyabinsk;61;DQ823359;HIV-1 strain 01UAPol293 from Ukraine, partial genome
+5_plasma_Chelyabinsk;62;OL505467;HIV-1 isolate 2016_84_LO from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;63;EF589044;"HIV-1 isolate 02KZPAV300502 from Kazakhstan nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;64;DQ167216;"HIV-1 isolate EST2002-394 from Estonia truncated gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), aberrant vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds"
+5_plasma_Chelyabinsk;65;DQ823361;HIV-1 strain 01UAKV254 from Ukraine, partial genome
+5_plasma_Chelyabinsk;66;DQ823360;HIV-1 strain 01UAPol303 from Ukraine, partial genome
+5_plasma_Chelyabinsk;67;MZ427755;HIV-1 isolate RU_ERS_3013_2015 from Russia, complete genome
+5_plasma_Chelyabinsk;68;KF374856;HIV-1 isolate 11RU9750 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;69;HF679237;HIV-1 M:A1 Mn13A1 partial gag-pol gene for polyprotein, protease and reverse transcriptase region
+5_plasma_Chelyabinsk;70;JX290214;HIV-1 isolate 10RU6401 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;71;MT369961;HIV-1 isolate RU_ERS_1042_2016 from Russia, complete genome
+5_plasma_Chelyabinsk;72;HE657493;HIV-1 M:A Mg-1-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+5_plasma_Chelyabinsk;73;MH330346;HIV-1 isolate ARH068 from Russia, complete genome
+5_plasma_Chelyabinsk;74;JQ292894;"HIV-1 isolate RUA007 from Russia gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds"
+5_plasma_Chelyabinsk;75;KY238318;HIV-1 isolate MSK_SK_001_PRRT from Russia pol protein (pol) and gag protein (gag) genes, partial cds
+5_plasma_Chelyabinsk;76;OL505522;HIV-1 isolate 2018_9_LO from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;77;MH330373;HIV-1 isolate MRK063 from Russia, complete genome
+5_plasma_Chelyabinsk;78;MH330368;HIV-1 isolate IRK042 from Russia, complete genome
+5_plasma_Chelyabinsk;79;MH330367;HIV-1 isolate IRK039 from Russia, complete genome
+5_plasma_Chelyabinsk;80;KF374887;HIV-1 isolate 12RU138c from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;81;JX290221;HIV-1 isolate 10RU6753 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;82;MH330363;HIV-1 isolate IRK030 from Russia, complete genome
+5_plasma_Chelyabinsk;83;MG799048;HIV-1 isolate KYR_Osh83 from Kyrgyzstan pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;84;KF374883;HIV-1 isolate 12RU041c from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;85;MK245670;HIV-1 isolate 364_TAJ from Tajikistan pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;86;MG211631;HIV-1 isolate 14Tomsk45 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;87;KY235849;HIV-1 isolate 13UZ56 from Uzbekistan pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;88;HE657481;HIV-1 M:A Gr-4-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+5_plasma_Chelyabinsk;89;KM190962;HIV-1 strain MnObl-81 from Belarus pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;90;KF374857;HIV-1 isolate 11RU9755 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;91;HE657518;HIV-1 M:A MnObl-32-A partial ag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+5_plasma_Chelyabinsk;92;HE657474;HIV-1 M:A Br-9-A partial gag-pol gene for polyprotein, protease and reverse transcriptase region, genomic RNA
+5_plasma_Chelyabinsk;93;KM190960;HIV-1 strain MnObl-78 from Belarus pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;94;MH330364;HIV-1 isolate IRK031 from Russia, complete genome >gi|1573780104|gb|MH330365.1| HIV-1 isolate IRK035 from Russia, complete genome
+5_plasma_Chelyabinsk;95;MN703137;HIV-1 isolate DEMA614RU025 from Russia, complete genome
+5_plasma_Chelyabinsk;96;MT334922;HIV-1 isolate RU_ERS_1013_2016 from Russia, complete genome
+5_plasma_Chelyabinsk;97;MH543104;HIV-1 isolate 274_TAJ from Tajikistan pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;98;MN317576;HIV-1 isolate HIV1_Arch96_2018 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;99;MK510016;HIV-1 isolate HIV1_Arch4_2014 from Russia pol protein (pol) gene, partial cds
+5_plasma_Chelyabinsk;100;MH330369;HIV-1 isolate IRK043 from Russia, complete genome

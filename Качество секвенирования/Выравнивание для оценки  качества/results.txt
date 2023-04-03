@@ -1,0 +1,1056 @@
+record id
+1_p1
+start position in ref
+2136
+record id
+1_p2
+start position in ref
+2181
+record id
+1_r1
+start position in ref
+2779
+record id
+1_r2
+start position in ref
+2688
+record id
+1_r3
+start position in ref
+3145
+record id
+1_r4
+start position in ref
+2667
+record id
+2_p1
+start position in ref
+2136
+record id
+2_p2
+start position in ref
+2217
+record id
+2_r1
+start position in ref
+2720
+record id
+2_r2
+start position in ref
+2667
+record id
+2_r3
+start position in ref
+3136
+record id
+2_r4
+start position in ref
+2667
+record id
+3_p1
+start position in ref
+2348
+record id
+3_p2
+start position in ref
+2217
+record id
+3_r1
+start position in ref
+2738
+record id
+3_r2
+start position in ref
+2680
+record id
+3_r3
+start position in ref
+3141
+record id
+3_r4
+start position in ref
+2667
+record id
+4_p1
+start position in ref
+2138
+record id
+4_p2
+start position in ref
+2220
+record id
+4_r1
+start position in ref
+2746
+record id
+4_r2
+start position in ref
+2667
+record id
+4_r3
+start position in ref
+3108
+record id
+4_r4
+start position in ref
+2667
+record id
+5_p1
+start position in ref
+2137
+record id
+5_p2
+start position in ref
+2214
+record id
+5_r1
+start position in ref
+2756
+record id
+5_r2
+start position in ref
+2667
+record id
+5_r3
+start position in ref
+3143
+record id
+5_r4
+start position in ref
+2667
+record id
+6_p1
+start position in ref
+2137
+record id
+6_p2
+start position in ref
+2244
+record id
+6_r1
+start position in ref
+2732
+record id
+6_r2
+start position in ref
+2667
+record id
+6_r3
+start position in ref
+3146
+record id
+6_r4
+start position in ref
+2667
+record id
+7_p1
+start position in ref
+2315
+record id
+7_p2
+start position in ref
+2315
+record id
+7_r1
+start position in ref
+2760
+record id
+7_r2
+start position in ref
+2667
+record id
+7_r3
+start position in ref
+9656
+record id
+7_r4
+start position in ref
+2667
+record id
+8_p1
+start position in ref
+2315
+record id
+8_p2
+start position in ref
+2315
+record id
+8_r1
+start position in ref
+2721
+record id
+8_r2
+start position in ref
+2675
+record id
+8_r3
+start position in ref
+3162
+record id
+8_r4
+start position in ref
+2667
+record id
+9_p1
+start position in ref
+2315
+record id
+9_p2
+start position in ref
+2315
+record id
+9_r1
+start position in ref
+2762
+record id
+9_r2
+start position in ref
+2675
+record id
+9_r3
+start position in ref
+3146
+record id
+9_r4
+start position in ref
+2668
+record id
+11_p1
+start position in ref
+2315
+record id
+11_p2
+start position in ref
+2315
+record id
+11_r1
+start position in ref
+2749
+record id
+11_r13
+start position in ref
+3181
+record id
+11_r2
+start position in ref
+2674
+record id
+11_r4
+start position in ref
+2669
+record id
+12_p1
+start position in ref
+2315
+record id
+12_p2
+start position in ref
+2315
+record id
+12_r1
+start position in ref
+2790
+record id
+12_r2
+start position in ref
+2670
+record id
+12_r3
+start position in ref
+9638
+record id
+12_r4
+start position in ref
+2667
+record id
+13_p1
+start position in ref
+2315
+record id
+13_p2
+start position in ref
+2315
+record id
+13_r1.
+start position in ref
+2748
+record id
+13_r2
+start position in ref
+2785
+record id
+13_r3
+start position in ref
+3141
+record id
+13_r4
+start position in ref
+2672
+record id
+14_p1
+start position in ref
+2315
+record id
+14_p2
+start position in ref
+2315
+record id
+14_r1
+start position in ref
+2791
+record id
+14_r2
+start position in ref
+2674
+record id
+14_r3
+start position in ref
+3182
+record id
+14_r4
+start position in ref
+2667
+record id
+15_p1
+start position in ref
+2315
+record id
+15_p2
+start position in ref
+2315
+record id
+15_r1.
+start position in ref
+2746
+record id
+15_r2
+start position in ref
+2672
+record id
+15_r3
+start position in ref
+3163
+record id
+15_r4
+start position in ref
+2667
+record id
+16_p1
+start position in ref
+2315
+record id
+16_p2
+start position in ref
+2315
+record id
+16_r1.
+start position in ref
+2733
+record id
+16_r2
+start position in ref
+2688
+record id
+16_r3
+start position in ref
+3111
+record id
+16_r4
+start position in ref
+2672
+record id
+18_p1
+start position in ref
+2314
+record id
+18_p2
+start position in ref
+2314
+record id
+18_r1.
+start position in ref
+2747
+record id
+18_r2
+start position in ref
+2676
+record id
+18_r3
+start position in ref
+3147
+record id
+18_r4
+start position in ref
+2669
+record id
+20_p1
+start position in ref
+2315
+record id
+20_p2
+start position in ref
+2315
+record id
+20_r1.
+start position in ref
+2756
+record id
+20_r2
+start position in ref
+2676
+record id
+20_r3
+start position in ref
+3144
+record id
+20_r4
+start position in ref
+2667
+record id
+22_p1
+start position in ref
+2315
+record id
+22_p2
+start position in ref
+2315
+record id
+22_r1.
+start position in ref
+2713
+record id
+22_r2
+start position in ref
+2672
+record id
+22_r3
+start position in ref
+3140
+record id
+22_r4
+start position in ref
+2667
+record id
+23_p1
+start position in ref
+2315
+record id
+23_p2
+start position in ref
+2315
+record id
+23_r1.
+start position in ref
+2717
+record id
+23_r2
+start position in ref
+2671
+record id
+23_r3
+start position in ref
+3110
+record id
+23_r4
+start position in ref
+2668
+record id
+25_p1
+start position in ref
+2315
+record id
+25_p2
+start position in ref
+2315
+record id
+25_r1.
+start position in ref
+2720
+record id
+25_r2
+start position in ref
+2677
+record id
+25_r3
+start position in ref
+3147
+record id
+25_r4
+start position in ref
+2667
+record id
+27_p1
+start position in ref
+2315
+record id
+27_p2
+start position in ref
+2315
+record id
+27_r1.
+start position in ref
+2744
+record id
+27_r2
+start position in ref
+2669
+record id
+27_r3
+start position in ref
+9653
+record id
+27_r4
+start position in ref
+2668
+record id
+28_p1
+start position in ref
+2315
+record id
+28_p2
+start position in ref
+2315
+record id
+28_r1.
+start position in ref
+2757
+record id
+28_r2
+start position in ref
+2674
+record id
+28_r3
+start position in ref
+3144
+record id
+28_r4
+start position in ref
+2667
+record id
+31_p1
+start position in ref
+2315
+record id
+31_p2
+start position in ref
+2315
+record id
+31_r1.
+start position in ref
+2748
+record id
+31_r2
+start position in ref
+2673
+record id
+31_r3
+start position in ref
+3167
+record id
+31_r4
+start position in ref
+2667
+record id
+32_p1
+start position in ref
+2315
+record id
+32_p2
+start position in ref
+2315
+record id
+32_r1
+start position in ref
+2751
+record id
+32_r2
+start position in ref
+2749
+record id
+32_r3
+start position in ref
+3130
+record id
+32_r4
+start position in ref
+2667
+record id
+38_p1
+start position in ref
+2315
+record id
+38_p2
+start position in ref
+2315
+record id
+38_r1
+start position in ref
+2746
+record id
+38_r2
+start position in ref
+2688
+record id
+38_r3
+start position in ref
+3133
+record id
+38_r4
+start position in ref
+2667
+record id
+41_p1
+start position in ref
+2315
+record id
+41_p2
+start position in ref
+2315
+record id
+41_r1
+start position in ref
+2747
+record id
+41_r2
+start position in ref
+2675
+record id
+41_r3
+start position in ref
+9654
+record id
+41_r4
+start position in ref
+2925
+record id
+44_p1
+start position in ref
+2294
+record id
+44_p2
+start position in ref
+2237
+record id
+44_r1
+start position in ref
+2720
+record id
+44_r2
+start position in ref
+2986
+record id
+44_r3
+start position in ref
+3130
+record id
+44_r4
+start position in ref
+2669
+record id
+45_p1
+start position in ref
+2197
+record id
+45_p2
+start position in ref
+2187
+record id
+45_r1
+start position in ref
+2713
+record id
+45_r2
+start position in ref
+3005
+record id
+45_r3
+start position in ref
+3127
+record id
+45_r4
+start position in ref
+2669
+record id
+47_p1
+start position in ref
+2317
+record id
+47_p2
+start position in ref
+2317
+record id
+47_r1
+start position in ref
+2752
+record id
+47_r2
+start position in ref
+3035
+record id
+47_r3
+start position in ref
+3141
+record id
+47_r4
+start position in ref
+2667
+record id
+48_p1
+start position in ref
+2143
+record id
+48_p2
+start position in ref
+2217
+record id
+48_r1
+start position in ref
+2720
+record id
+48_r2
+start position in ref
+2677
+record id
+48_r3
+start position in ref
+3166
+record id
+48_r4
+start position in ref
+2670
+record id
+49_p1
+start position in ref
+2344
+record id
+49_p2
+start position in ref
+2315
+record id
+49_r1
+start position in ref
+2721
+record id
+49_r2
+start position in ref
+2980
+record id
+49_r3
+start position in ref
+3140
+record id
+49_r4
+start position in ref
+2676
+record id
+53-r2
+start position in ref
+2800
+record id
+53_p1
+start position in ref
+2315
+record id
+53_p2
+start position in ref
+2315
+record id
+53_r1
+start position in ref
+2722
+record id
+53_r2
+start position in ref
+9656
+record id
+53_r3
+start position in ref
+3143
+record id
+55_p1
+start position in ref
+2251
+record id
+55_p2
+start position in ref
+2219
+record id
+55_r1
+start position in ref
+2721
+record id
+55_r2
+start position in ref
+2825
+record id
+55_r3
+start position in ref
+3128
+record id
+55_r4
+start position in ref
+2669
+record id
+58_p1
+start position in ref
+2315
+record id
+58_p2
+start position in ref
+2315
+record id
+58_r1
+start position in ref
+2707
+record id
+58_r2
+start position in ref
+2807
+record id
+58_r3
+start position in ref
+3096
+record id
+58_r4
+start position in ref
+2666
+record id
+59_p1
+start position in ref
+2315
+record id
+59_p2
+start position in ref
+2315
+record id
+59_r1
+start position in ref
+2720
+record id
+59_r2
+start position in ref
+2692
+record id
+59_r3
+start position in ref
+9638
+record id
+59_r4
+start position in ref
+2692
+record id
+60_p1
+start position in ref
+2315
+record id
+60_p2
+start position in ref
+2315
+record id
+60_r1
+start position in ref
+2716
+record id
+60_r2
+start position in ref
+2666
+record id
+60_r3
+start position in ref
+3120
+record id
+60_r4
+start position in ref
+2667
+record id
+64-r2
+start position in ref
+2949
+record id
+64_p1
+start position in ref
+2307
+record id
+64_p2
+start position in ref
+2230
+record id
+64_r1
+start position in ref
+2717
+record id
+64_r3
+start position in ref
+3131
+record id
+64_r4
+start position in ref
+2668
+record id
+65_p
+start position in ref
+2217
+record id
+65_p1
+start position in ref
+2148
+record id
+65_r1
+start position in ref
+2711
+record id
+65_r2
+start position in ref
+2677
+record id
+65_r3
+start position in ref
+3140
+record id
+65_r4
+start position in ref
+2667
+record id
+67_p1
+start position in ref
+2283
+record id
+67_p2
+start position in ref
+2211
+record id
+67_r1
+start position in ref
+2749
+record id
+67_r2
+start position in ref
+2993
+record id
+67_r3
+start position in ref
+3121
+record id
+67_r4
+start position in ref
+2667
+record id
+72_p1
+start position in ref
+2138
+record id
+72_p2
+start position in ref
+2217
+record id
+72_r1
+start position in ref
+2748
+record id
+72_r2
+start position in ref
+2672
+record id
+72_r3
+start position in ref
+3143
+record id
+72_r4
+start position in ref
+2671
+record id
+76_p1
+start position in ref
+2143
+record id
+76_p2
+start position in ref
+2218
+record id
+76_r1
+start position in ref
+2720
+record id
+76_r2
+start position in ref
+2672
+record id
+76_r3
+start position in ref
+3143
+record id
+76_r4
+start position in ref
+2668
+record id
+77_p1
+start position in ref
+2142
+record id
+77_p2
+start position in ref
+2215
+record id
+77_r1
+start position in ref
+2718
+record id
+77_r2
+start position in ref
+2668
+record id
+77_r3
+start position in ref
+3109
+record id
+77_r4
+start position in ref
+2674
+record id
+78_p1
+start position in ref
+2136
+record id
+78_p2
+start position in ref
+2181
+record id
+78_r1
+start position in ref
+2718
+record id
+78_r2
+start position in ref
+2677
+record id
+78_r3
+start position in ref
+3121
+record id
+78_r4
+start position in ref
+2667
+record id
+80_p1
+start position in ref
+2315
+record id
+80_p2
+start position in ref
+2315
+record id
+80_r1
+start position in ref
+2748
+record id
+80_r2
+start position in ref
+2667
+record id
+80_r3
+start position in ref
+3131
+record id
+80_r4
+start position in ref
+2668
