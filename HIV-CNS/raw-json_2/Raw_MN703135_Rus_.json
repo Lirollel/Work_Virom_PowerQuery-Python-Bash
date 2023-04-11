@@ -1,0 +1,279 @@
+{
+  "allGenes": [
+    {
+      "name": "PR",
+      "refSequence": "PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEEMNLPGRWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVGPTPVNIIGRNLLTQIGCTLNF",
+      "length": 99,
+      "drugClasses": [
+        {
+          "name": "PI",
+          "hasSurveilDrugResistMutations": true,
+          "hasRxSelectedMutations": true,
+          "mutationTypes": [
+            "Major",
+            "Accessory",
+            "Other"
+          ],
+          "drugs": [
+            {
+              "name": "ATV",
+              "fullName": "atazanavir/r",
+              "displayAbbr": "ATV/r",
+              "__typename": "Drug"
+            },
+            {
+              "name": "DRV",
+              "fullName": "darunavir/r",
+              "displayAbbr": "DRV/r",
+              "__typename": "Drug"
+            },
+            {
+              "name": "FPV",
+              "fullName": "fosamprenavir/r",
+              "displayAbbr": "FPV/r",
+              "__typename": "Drug"
+            },
+            {
+              "name": "IDV",
+              "fullName": "indinavir/r",
+              "displayAbbr": "IDV/r",
+              "__typename": "Drug"
+            },
+            {
+              "name": "LPV",
+              "fullName": "lopinavir/r",
+              "displayAbbr": "LPV/r",
+              "__typename": "Drug"
+            },
+            {
+              "name": "NFV",
+              "fullName": "nelfinavir",
+              "displayAbbr": "NFV",
+              "__typename": "Drug"
+            },
+            {
+              "name": "SQV",
+              "fullName": "saquinavir/r",
+              "displayAbbr": "SQV/r",
+              "__typename": "Drug"
+            },
+            {
+              "name": "TPV",
+              "fullName": "tipranavir/r",
+              "displayAbbr": "TPV/r",
+              "__typename": "Drug"
+            }
+          ],
+          "__typename": "DrugClass"
+        }
+      ],
+      "__typename": "Gene"
+    },
+    {
+      "name": "RT",
+      "refSequence": "PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIPHPAGLKKKKSVTVLDVGDAYFSVPLDKDFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLRWGFTTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQIYAGIKVKQLCKLLRGTKALTEVIPLTEEAELELAENREILKEPVHGVYYDPSKDLIAEIQKQGQGQWTYQIYQEPFKNLKTGKYARMRGAHTNDVKQLTEAVQKIATESIVIWGKTPKFKLPIQKETWEAWWTEYWQATWIPEWEFVNTPPLVKLWYQLEKEPIVGAETFYVDGAANRETKLGKAGYVTDRGRQKVVSLTDTTNQKTELQAIHLALQDSGLEVNIVTDSQYALGIIQAQPDKSESELVSQIIEQLIKKEKVYLAWVPAHKGIGGNEQVDKLVSAGIRKVL",
+      "length": 560,
+      "drugClasses": [
+        {
+          "name": "NRTI",
+          "hasSurveilDrugResistMutations": true,
+          "hasRxSelectedMutations": true,
+          "mutationTypes": [
+            "NRTI",
+            "Other"
+          ],
+          "drugs": [
+            {
+              "name": "ABC",
+              "fullName": "abacavir",
+              "displayAbbr": "ABC",
+              "__typename": "Drug"
+            },
+            {
+              "name": "AZT",
+              "fullName": "zidovudine",
+              "displayAbbr": "AZT",
+              "__typename": "Drug"
+            },
+            {
+              "name": "D4T",
+              "fullName": "stavudine",
+              "displayAbbr": "D4T",
+              "__typename": "Drug"
+            },
+            {
+              "name": "DDI",
+              "fullName": "didanosine",
+              "displayAbbr": "DDI",
+              "__typename": "Drug"
+            },
+            {
+              "name": "FTC",
+              "fullName": "emtricitabine",
+              "displayAbbr": "FTC",
+              "__typename": "Drug"
+            },
+            {
+              "name": "LMV",
+              "fullName": "lamivudine",
+              "displayAbbr": "3TC",
+              "__typename": "Drug"
+            },
+            {
+              "name": "TDF",
+              "fullName": "tenofovir",
+              "displayAbbr": "TDF",
+              "__typename": "Drug"
+            }
+          ],
+          "__typename": "DrugClass"
+        },
+        {
+          "name": "NNRTI",
+          "hasSurveilDrugResistMutations": true,
+          "hasRxSelectedMutations": true,
+          "mutationTypes": [
+            "NNRTI",
+            "Other"
+          ],
+          "drugs": [
+            {
+              "name": "DOR",
+              "fullName": "doravirine",
+              "displayAbbr": "DOR",
+              "__typename": "Drug"
+            },
+            {
+              "name": "EFV",
+              "fullName": "efavirenz",
+              "displayAbbr": "EFV",
+              "__typename": "Drug"
+            },
+            {
+              "name": "ETR",
+              "fullName": "etravirine",
+              "displayAbbr": "ETR",
+              "__typename": "Drug"
+            },
+            {
+              "name": "NVP",
+              "fullName": "nevirapine",
+              "displayAbbr": "NVP",
+              "__typename": "Drug"
+            },
+            {
+              "name": "RPV",
+              "fullName": "rilpivirine",
+              "displayAbbr": "RPV",
+              "__typename": "Drug"
+            }
+          ],
+          "__typename": "DrugClass"
+        }
+      ],
+      "__typename": "Gene"
+    },
+    {
+      "name": "IN",
+      "refSequence": "FLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVDCSPGIWQLDCTHLEGKIILVAVHVASGYIEAEVIPAETGQETAYFLLKLAGRWPVKTIHTDNGSNFTSTTVKAACWWAGIKQEFGIPYNPQSQGVVESMNKELKKIIGQVRDQAEHLKTAVQMAVFIHNFKRKGGIGGYSAGERIVDIIATDIQTKELQKQITKIQNFRVYYRDSRDPLWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKIIRDYGKQMAGDDCVASRQDED",
+      "length": 288,
+      "drugClasses": [
+        {
+          "name": "INSTI",
+          "hasSurveilDrugResistMutations": true,
+          "hasRxSelectedMutations": true,
+          "mutationTypes": [
+            "Major",
+            "Accessory",
+            "Other"
+          ],
+          "drugs": [
+            {
+              "name": "BIC",
+              "fullName": "bictegravir",
+              "displayAbbr": "BIC",
+              "__typename": "Drug"
+            },
+            {
+              "name": "CAB",
+              "fullName": "cabotegravir",
+              "displayAbbr": "CAB",
+              "__typename": "Drug"
+            },
+            {
+              "name": "DTG",
+              "fullName": "dolutegravir",
+              "displayAbbr": "DTG",
+              "__typename": "Drug"
+            },
+            {
+              "name": "EVG",
+              "fullName": "elvitegravir",
+              "displayAbbr": "EVG",
+              "__typename": "Drug"
+            },
+            {
+              "name": "RAL",
+              "fullName": "raltegravir",
+              "displayAbbr": "RAL",
+              "__typename": "Drug"
+            }
+          ],
+          "__typename": "DrugClass"
+        }
+      ],
+      "__typename": "Gene"
+    }
+  ],
+  "currentVersion": {
+    "text": "HIVDB_9.4",
+    "publishDate": "2022-12-07",
+    "__typename": "DrugResistanceAlgorithm",
+    "display": "HIVDB 9.4",
+    "family": "HIVDB",
+    "version": "9.4"
+  },
+  "currentProgramVersion": {
+    "text": "3.4.2",
+    "publishDate": "2022-12-14",
+    "__typename": "SierraVersion"
+  },
+  "report": {
+    "inputSequence": {
+      "header": "MN703135_Rus_",
+      "__typename": "UnalignedSequenceOutput",
+      "MD5": "099c956738774a6c6d9bbd38d44efb2e",
+      "sequence": "CCTTGAGTGCTTCAAGTAGTGTGTGCCCGTCTGTTGTGTGACTCTGGTAACTAGAGATCCCTCAGACCACTCTAGGCGGTGTAAAAATCTCTAGCAGTGGCGCCCGAACAGGGACTTGAAAGCGAAAGTTCCAGAGAAGTTCTCTCGACGCAGGACTCGGCTTGCTGAGGTGCACACAGCAAGAGGCGAGAGCGGCGACTGGTGAGTACGCCTAAAGATTTTGACTAGCGGAGGCTAGAAGGAGAGAGATGGGTGCGAGAGCGTCAGTATTAAGCGGGGGAAAATTAGATGCATGGGAAAAAATTCGGTTAAGGCCAGGGGGAAAGAAACAATATAGATTAAAACACATAGTATGGGCAAGCAGGGAGCTGGACAGATTCGCGCTTAACCCTGGCCTTTTAGAAACAGCAGAAGGATGTCAACAAATATTGGAACAGTTACAACCAAGTGTCAAAACAGGATCAGAAGAACTTAGATCATTATTTAATACAGTAGCAACCCTCTATTGTGTACATCAACGGATAGATGTAAAAGACACCAAGGAAGCTTTAGATAAAATAGAGGAAATACAAAATAAAAGTAAGCAAAAAACCGCCCAACAGGCAGCAACTAGCACAGGAAGCAGCAGTCAAAACTATCCCATAGTGCAAAATGCACAAGGGCAAATGRYACACCAGTCCATGTCACCTAGGACTTTGAATGCATGGGTGAAAGTAATAGAAGAAAAGGCTTTCAGCCCAGAGGTAATACCCATGTTTTCAGCATTATCAGAGGGAGCCACCCCACAAGATTTAAACATGATGCTGAACATAGTGGGGGGACACCAGGCAGCTATGCAAATGTTGAAAGATACCATCAATGAGGAAGCTGCTGAATGGGATAGGTTACATCCAAYACAGGCAGGGCCTTTTCCACCAGGGCAGCTAAGAGAACCAAGGGGAAGTGACATAGCAGGAACTACTAGTACCCTGCAAGAACAAATAGGATGGATGACAAGCAACCCACCTATCCCAGTGGGAGACA"
+    },
+    "bestMatchingSubtype": {
+      "display": "Unknown",
+      "distance": 1,
+      "referenceAccession": "AB049811",
+      "__typename": "HIVBoundSubtype"
+    },
+    "availableGenes": [
+      {
+        "name": "gag",
+        "__typename": "Gene"
+      },
+      {
+        "name": "CA",
+        "__typename": "Gene"
+      }
+    ],
+    "mixtureRate": 0.003875968992248062,
+    "mutations": [],
+    "unusualMutations": [],
+    "frameShifts": [],
+    "insertions": [],
+    "deletions": [],
+    "stopCodons": [],
+    "ambiguousMutations": [],
+    "apobecMutations": [],
+    "mutationPrevalences": [],
+    "algorithmComparison": [],
+    "drugResistance": [],
+    "alignedGeneSequences": [],
+    "__typename": "SequenceAnalysis"
+  }
+}
