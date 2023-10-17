@@ -1,0 +1,102 @@
+3500 Plate Layout File Version 1.0
+
+Plate Name	Application Type	Capillary Length (cm)	Polymer	Number of Wells	Owner Name	Barcode Number	Comments
+COVID-19_230208	Sequencing	50	POP7	96			
+
+Well	Sample Name	Assay	Results Group	File Name Convention	Sample Type	User Defined Field 1	User Defined Field 2	User Defined Field 3	User Defined Field 4	User Defined Field 5	Amplicon	Specimen	Comments
+A01	19-19A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+B01	20-20A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+C01	21-21A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+D01	22-22A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+E01	23-23A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+F01	24-24A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+G01	25-25A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+H01	26-26A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+A02	19-19B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+B02	20-20B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+C02	21-21B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+D02	22-22B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+E02	23-23B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+F02	24-24B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+G02	25-25B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+H02	26-26B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+A03	27-27A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+B03	29-29A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+C03	30-30A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+D03	31-31A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+E03	32-32A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+F03	33-33A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+G03	PMV-A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+H03	28-28A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+A04	27-27B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+B04	29-29B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+C04	30-30B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+D04	31-31B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+E04	32-32B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+F04	33-33B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+G04	PMV-B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+H04	28-28B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+A05	19A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+B05	20A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+C05	21A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+D05	22A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+E05	23A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+F05	24A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+G05	25A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+H05	26A	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+A06	19B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+B06	20B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+C06	21B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+D06	22B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+E06	23B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+F06	24B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+G06	25B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+H06	26B	Std_Seq_Assay-POP7	HIV	HIV	Sample								
+A07													
+B07													
+C07													
+D07													
+E07													
+F07													
+G07													
+H07													
+A08													
+B08													
+C08													
+D08													
+E08													
+F08													
+G08													
+H08													
+A09													
+B09													
+C09													
+D09													
+E09													
+F09													
+G09													
+H09													
+A10													
+B10													
+C10													
+D10													
+E10													
+F10													
+G10													
+H10													
+A11													
+B11													
+C11													
+D11													
+E11													
+F11													
+G11													
+H11													
+A12													
+B12													
+C12													
+D12													
+E12													
+F12													
+G12													
+H12													

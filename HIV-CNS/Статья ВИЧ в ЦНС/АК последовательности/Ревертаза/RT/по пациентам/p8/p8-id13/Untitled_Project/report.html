@@ -1,0 +1,710 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Untitled Project | Report</title>
+    <meta name="description" content="SWISS-MODEL modelling results for Untitled Project." />
+    <link rel="stylesheet" type="text/css" href="../web/js/jquery.fancybox.css"/>
+    <style>
+			.sequence { font-size: 12px; font-family:"Courier New", Courier, monospace;}
+			h2 {font-size: 1.2em; font-family:Arial; margin:20 0 0 0}
+			h3 {font-size: 1.0em; font-family:Arial; margin:0 0 0 0}
+			
+			.borderedTbl>tbody>tr>td, .borderedTbl th{ 
+        text-align:center;
+  			border-top:1px solid #DDD;
+  			border-left:1px solid #DDD;
+      }
+      .borderedTbl{
+        border-bottom:1px solid #DDD;
+        border-right:1px solid #DDD; 
+      }
+      td { 
+        -webkit-hyphens: auto;
+           -moz-hyphens: auto;
+                hyphens: auto; 
+              }
+
+			body {
+			width:100%; 
+			height:100%; 
+			background-color: #E7E8EA;
+			margin: 0;
+			padding: 0;
+			word-wrap: break-word;
+			font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+      font-size: 14px;
+
+			}
+			#content{
+			padding:20px;
+			width:780px;
+			margin-left:auto;
+			margin-right:auto;
+			background-color:#FFF;}
+			
+			#sib_footer {
+			background-color: #333333;
+			color: #F7F8FA;
+			font-family: Verdana;
+			font-size: 10px;
+			font-weight: normal;
+			height: 20px;
+			letter-spacing: 1px;
+			
+			width:760px;
+      margin-left:auto;
+      margin-right:auto;
+      padding:0px 20px 0px 20px
+			}
+			
+			#sib_footer a {
+  			color: #FFFFFF;
+  			font-family: Verdana;
+  			font-size: 10px;
+  			font-weight: normal;
+  			letter-spacing: 1px;
+			}
+			a, a:link, a:visited {
+			color: #D6161D;
+			text-decoration: none;
+			} 	
+
+			.alTbl{ font-family:'Courier New', Courier, monospace; }
+	   img{ border:0; }
+			
+	@media print{
+	
+	#content{
+			padding:20px;
+			background-color:#FFF;
+		}
+	body{ 
+	    width:100%;
+	    height:100%; 
+	    background-color: #FFF;
+			padding: 0;
+		}	
+	#sib_footer{
+		display:none;
+	}
+	}
+      
+    </style>
+  </head>
+  <body>
+  
+  <div id="content">
+  	<table border=0 width="100%">
+  		<tr>
+    		<td valign="middle">
+  			<a title="SIB Swiss Institute of Bioinformatics" href="https://www.sib.swiss">
+  			<img src="../web/images/sib_logo_small.png"></a>
+  		</td>
+  		<td valign="middle">
+  			<a title="Biozentrum, University of Basel" href="https://www.biozentrum.unibas.ch">
+  			<img src="../web/images/biozentrum_en.png"></a>
+  		</td>
+		  <td valign="middle"><div style="font-size:1.9em;">SWISS-MODEL Homology Modelling Report</div> </td>
+	 </tr>
+	</table> 
+    
+  <div style="clear:both"></div>
+
+
+ 
+  <h2>Model Building Report</h2>
+  <p>
+This document lists the results for the homology modelling project &quot;Untitled Project&quot; submitted to SWISS-MODEL workspace
+on Aug. 24, 2023, 7:42 a.m..The submitted primary amino acid sequence is given in Table T1.</p>
+<p>If you use any results in your research, please cite the relevant publications:</p>
+<ul>
+  <li>Waterhouse, A., Bertoni, M., Bienert, S., Studer, G., Tauriello, G., Gumienny, R.,
+      Heer, F.T., de Beer, T.A.P., Rempfer, C., Bordoli, L., Lepore, R., Schwede, T.   
+      SWISS-MODEL: homology modelling of protein structures and complexes.
+      Nucleic Acids Res. 46(W1), W296-W303 (2018).
+    <a href="https://pubmed.ncbi.nlm.nih.gov/29788355"
+       target="_blank"><img src="../web/images/pubmed.png
+                                 "
+                            width="17" height="16" align="absmiddle"></a>
+    <a href="https://dx.doi.org/10.1093/nar/gky427"
+       target="_blank"><img src="../web/images/doi.jpg
+                                 "
+                            width="30" height="16" align="absmiddle"
+                            style="padding-left:2px"></a>
+  </li>
+  <li>Bienert, S., Waterhouse, A., de Beer, T.A.P., Tauriello, G., Studer,
+    G., Bordoli, L., Schwede, T. The SWISS-MODEL Repository - new features and
+    functionality. Nucleic Acids Res. 45, D313-D319 (2017).
+    <a href="https://pubmed.ncbi.nlm.nih.gov/27899672"
+       target="_blank"><img src="../web/images/pubmed.png
+                                 "
+                            width="17" height="16" align="absmiddle"></a>
+    <a href="https://dx.doi.org/10.1093/nar/gkw1132"
+       target="_blank"><img src="../web/images/doi.jpg
+                                 "
+                            width="30" height="16" align="absmiddle"
+                            style="padding-left:2px"></a>
+  </li>
+  <li><a name="promod3"></a>Studer, G., Tauriello, G., Bienert, S.,     
+          Biasini, M., Johner, N., Schwede, T. ProMod3 - A versatile homology 
+          modelling toolbox. PLOS Comp. Biol. 17(1), e1008667 (2021).
+    <a href="https://pubmed.ncbi.nlm.nih.gov/33507980"
+       target="_blank"><img src="../web/images/pubmed.png
+                                 "
+                            width="17" height="16" align="absmiddle"></a>
+    <a href=" https://doi.org/10.1371/journal.pcbi.1008667"
+       target="_blank"><img src="../web/images/doi.jpg
+                                 "
+                            width="30" height="16" align="absmiddle"
+                            style="padding-left:2px"></a>
+  </li>
+  <li><a name="qmean"></a>Studer, G., Rempfer, C., Waterhouse, A.M., 
+    Gumienny, G., Haas, J., Schwede, T. QMEANDisCo - distance constraints 
+    applied on model quality estimation. Bioinformatics 36, 1765-1771 (2020).
+    <a href="https://pubmed.ncbi.nlm.nih.gov/31697312"
+       target="_blank"><img src="../web/images/pubmed.png
+                                 "
+                            width="17" height="16" align="absmiddle"></a>
+    <a href="https://dx.doi.org/10.1093/bioinformatics/btz828"
+       target="_blank"><img src="../web/images/doi.jpg
+                                 "
+                            width="30" height="16" align="absmiddle"
+                            style="padding-left:2px"></a>
+  </li>
+  <li><a name="qsqe"></a>Bertoni, M., Kiefer, F., Biasini, M., Bordoli, L.,
+    Schwede, T. Modeling protein quaternary structure of homo- and
+    hetero-oligomers beyond binary interactions by homology. Scientific
+    Reports 7 (2017).
+    <a href="https://pubmed.ncbi.nlm.nih.gov/28874689"
+       target="_blank"><img src="../web/images/pubmed.png
+                                 "
+                            width="17" height="16" align="absmiddle"></a>
+    <a href="https://dx.doi.org/10.1038/s41598-017-09654-8"
+       target="_blank"><img src="../web/images/doi.jpg
+                                 "
+                            width="30" height="16" align="absmiddle"
+                            style="padding-left:2px"></a>
+  </li>
+</ul>
+
+<h2>Results</h2>
+<p>
+The SWISS-MODEL template library (SMTL version 2023-08-16, PDB release 2023-08-11) was searched with 
+
+ 
+ 
+
+ for evolutionary related structures matching the target sequence in Table T1. For details on the template search, see Materials and Methods. Overall 968 templates were found (Table T2).</p>
+
+
+<h2>Models</h2>
+
+
+<p>The following model was built (see Materials and Methods "Model Building"):</p>
+
+      
+
+      <table id="model_01" class="borderedTbl" width="100%" border=0 cellspacing=1 cellpadding=5>
+  		<thead>
+        <tr>
+        <th><h3>Model #01</h3></th>
+        <th>File</th>
+        <th>Built with</th>
+        <th>Oligo-State</th>
+        <th>Ligands</th>
+        <th title="Global Model Quality Estimate">GMQE</th>
+        <th>QMEANDisCo Global</th>
+        </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td><a href="models/01/01.png" target="_blank"><img height="60" src="models/01/01.png"></a>
+        </td>
+  	    <td><a href="models/01/model.pdb" target="_blank">PDB</a></td>
+  		<td>ProMod3 3.3.0</td>
+        <td>monomer </td>
+        <td>
+          <div style="max-width:350px;">None
+          </div>
+        </td>
+        <td>0.81</td>
+        <td><span id="avgLocalScore_01">0.75</span> &plusmn; 0.05</td>
+      </tr>
+     </table>
+  	
+  	<table width="100%" cellspacing=5>
+  	<tr>
+  	    <td width="30%">
+       	 <table id="qmeanGlobalTbl01"></table>
+        </td>
+          <td width="33%">
+            <a href="#lq-chart-01" rel="lq-01" class="fancybox">
+              <div id="lq-chart-01-thumb" style="margin:12px 4px;"></div>
+            </a>
+            <div id="lq-chart-01" style="display:none"></div>
+          </td>
+
+          <td width="33%">
+            <a href="#qn-chart-01" class="fancybox">
+              <div id="qn-chart-01-thumb" style="margin:12px 4px;"></div>
+            </a>
+            <div id="qn-chart-01" style="display:none"></div>
+          </td>
+  	 </tr>
+  	</table>
+
+
+  	<table class="borderedTbl">
+  		<thead>
+  			<tr>
+  				<th>Template</th>
+  				<th>Seq Identity</th>
+  				<th>Oligo-state</th>
+  				<th>QSQE</th>
+  				<th>Found by</th>
+  				<th>Method</th>
+  				<th>Resolution</th>
+  				<th>Seq Similarity</th>
+  				<th>Range</th>
+  				<th>Coverage</th>
+  				<th>Description</th>
+  			</tr>
+  		</thead>
+  		<tbody>
+        
+        
+        <tr>
+  				<td>
+                
+                  <a href="model/01/templates/6kdm.1.B.pdb.gz" target="_blank">6kdm.1.B</a>
+                
+            
+          </td>
+  				<td>93.31</td>
+  				<td>monomer</td>
+  				<td>0.00</td>
+  				<td>BLAST</td>
+  				<td>X-ray</td>
+  				<td>2.32&Aring;</td>
+  				<td>0.61</td>
+  				<td>5 - 269
+
+        </td>
+  				<td>1.00</td>
+  				<td>
+          HIV-1 RT p51 subunit</td>
+  			</tr>
+  		</tbody>
+  	</table> 
+  	
+    
+
+    
+
+  
+    <br>
+    <h3>Excluded ligands</h3>
+    <table width="100%" class="borderedTbl">
+      <thead>
+        <tr>
+          <th>Ligand Name.Number</th>
+          <th>Reason for Exclusion</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+    <tbody>
+    
+      
+      <tr><td>ET9.3</td><td>
+      Binding site not conserved.
+      </td>
+      <td><div style="max-width:650px;">[[(1R,3S,5S)-3-(2-azanyl-6-oxidanylidene-3H-purin-9-yl)-2-methylidene-5-oxidanyl-cyclopentyl]methoxy-oxidanyl-phosphoryl] phosphono hydrogen phosphate</div></td>
+      </tr>
+      
+    
+      
+      <tr><td>GOL.1</td><td>
+      Not biologically relevant.
+      </td>
+      <td><div style="max-width:650px;">GLYCEROL</div></td>
+      </tr>
+      
+      <tr><td>GOL.4</td><td>
+      Not biologically relevant.
+      </td>
+      <td><div style="max-width:650px;">GLYCEROL</div></td>
+      </tr>
+      
+      <tr><td>GOL.5</td><td>
+      Not biologically relevant.
+      </td>
+      <td><div style="max-width:650px;">GLYCEROL</div></td>
+      </tr>
+      
+    
+      
+      <tr><td>MG.2</td><td>
+      Binding site not conserved.
+      </td>
+      <td><div style="max-width:650px;">MAGNESIUM ION</div></td>
+      </tr>
+      
+    
+		</tbody>
+	</table>
+  
+
+<br>
+
+
+<pre>Target    PISPIETVPVTLKPGMDGPKVKQWPLTEEKIKALIDICKEMEKEGKISKVGPENPYNTPVFVIKKKDSSKWRKLVDFREL<br>6kdm.1.B  PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFREL<br><br>Target    NKRTQDFWEVQLGIPHPAGLKRKKSVTVLDVGDAYFSVPLDENFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPSIF<br>6kdm.1.B  NKRTQDFWEVQLGIPHPAGLKQKKSVTVLDVGDAYFSVPLDKDFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPAIF<br><br>Target    QSSMTKILEPFRLKNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRAHLLSWGFTTPDKKHQKEPPFLWMGYELHPDKWT<br>6kdm.1.B  QSSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLRWGFTTPDKKHQKEPPFLWMGYELHPDKWT<br><br>Target    VKPIQLPDKDSWTVNDIQKLVGKLNWASQ<br>6kdm.1.B  VQPIVLPEKDSWTVNDIQKLVGKLNWASQ<br><br></pre>
+
+
+  <br>
+  <hr><br>
+  
+
+
+
+
+
+<h2>Materials and Methods</h2>
+
+
+
+<h2>Template Search</h2>
+<p>Template search with 
+ 
+ 
+ has been performed against the SWISS-MODEL template library (SMTL, last update: 2023-08-16, last included PDB release: 2023-08-11).</p>
+
+
+
+
+
+
+
+
+
+<h2>Template Selection</h2>
+<p>For each identified template, the template's quality has been predicted from features of the target-template alignment.
+ The templates with the highest quality have then been selected for model building.</p>
+
+
+
+
+
+
+
+
+
+
+
+<h2>Model Building</h2>
+<p>
+Models are built based on the target-template alignment using ProMod3 (<a href="#promod3">Studer et al.</a>). Coordinates which are conserved between the target and the template are copied from the template to the model. Insertions and deletions are remodelled using a fragment library. Side chains are then rebuilt. Finally, the geometry of the resulting model is regularized by using a force field.
+</p>
+
+<h2>Model Quality Estimation</h2>
+<p>
+The global and per-residue model quality has been assessed using the QMEAN scoring function (<a href="#qmean">Studer et al.</a>).
+</p>
+
+<h2>Ligand Modelling</h2>
+<p>
+Ligands present in the template structure are transferred by homology to the model when the following criteria are met: (a) The ligands are annotated as biologically relevant in the template library, (b) the ligand is in contact with the model, (c) the ligand is not clashing with the protein, (d) the residues in contact with the ligand are conserved between the target and the template. If any of these four criteria is not satisfied, a certain ligand will not be included in the model. The model summary includes information on why and which ligand has not been included.</p>
+
+<h2>Oligomeric State Conservation</h2>
+<p>
+The quaternary structure annotation of the template is used to model the target sequence in its oligomeric form. The method (<a href="#qsqe">Bertoni et al.</a>) is based on a supervised machine learning algorithm, Support Vector Machines (SVM), which combines interface conservation, structural clustering, and other template features to provide a quaternary structure quality estimate (QSQE). The QSQE score is a number between 0 and 1, reflecting the expected accuracy of the interchain contacts for a model built based a given alignment and template. Higher numbers indicate higher reliability. This complements the GMQE score which estimates the accuracy of the tertiary structure of the resulting model.</p>
+
+<h2>References</h2>
+<p>
+  <ul>
+    <li><a name="blastp"></a><b>BLAST</b><br>
+        Camacho, C., Coulouris, G., Avagyan, V., Ma, N., Papadopoulos, J.,
+        Bealer, K., Madden, T.L. BLAST+: architecture and applications. BMC
+        Bioinformatics 10, 421-430 (2009).
+        <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/20003500">
+          <img width="17" align="absmiddle" height="16"
+               src="../web/images/pubmed.png
+                    "></a>
+        <a href="https://dx.doi.org/10.1186/1471-2105-10-421"
+           target="_blank"><img src="../web/images/doi.jpg
+                                     " width="30"
+                                height="16" align="absmiddle"
+                                style="padding-left:2px"></a></li>
+    <li><a name="hhblits"></a><b>HHblits</b><br>
+         Steinegger, M., Meier, M., Mirdita, M., V&ouml;hringer, H., Haunsberger,
+        S. J., S&ouml;ding, J. HH-suite3 for fast remote homology detection and
+        deep protein annotation. BMC Bioinformatics 20, 473 (2019).
+        <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/31521110">
+          <img width="17" align="absmiddle" height="16"
+               src="../web/images/pubmed.png
+                    "></a>
+        <a href="https://dx.doi.org/10.1186/s12859-019-3019-7"
+           target="_blank"><img src="../web/images/doi.jpg
+                                     " width="30"
+                                height="16" align="absmiddle"
+                                style="padding-left:2px"></a></li>
+    
+    
+    
+  </ul>
+
+<h2>Table T1:</h2>
+<p>Primary amino acid sequence for which templates were searched and models were built.</p>
+<div class="sequence">PISPIETVPVTLKPGMDGPKVKQWPLTEEKIKALIDICKEMEKEGKISKVGPENPYNTPVFVIKKKDSSKWRKLVDFRELNKRTQDFWEVQLGIPHPAGL<br>KRKKSVTVLDVGDAYFSVPLDENFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPSIFQSSMTKILEPFRLKNPDIVIYQYMDDLYVGSDLEIGQHRT<br>KIEELRAHLLSWGFTTPDKKHQKEPPFLWMGYELHPDKWTVKPIQLPDKDSWTVNDIQKLVGKLNWASQ<br></div>
+
+
+<h2>Table T2:</h2>
+<table class="borderedTbl">
+<thead>
+	<tr>
+		<th>Template</th>
+		<th>Seq Identity</th>
+		<th>Oligo-state</th>
+		<th>QSQE</th>
+		<th>Found by</th>
+		<th>Method</th>
+		<th>Resolution</th>
+		<th>Seq Similarity</th>
+		<th>Coverage</th>
+		<th>Description</th>
+	</tr>
+</thead>
+<tbody>
+
+<tr>
+		<td>6kdm.1.B</td>
+		<td>93.31</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>BLAST</td>
+		<td>X-ray</td>
+		<td>2.32&Aring;</td>
+		<td>0.61</td>
+		<td>1.00</td>
+		<td>HIV-1 RT p51 subunit</td>
+	</tr>
+<tr>
+		<td>6ik9.2.B</td>
+		<td>93.31</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>BLAST</td>
+		<td>X-ray</td>
+		<td>2.44&Aring;</td>
+		<td>0.61</td>
+		<td>1.00</td>
+		<td>HIV-1 reverse transcriptase p51 subunit</td>
+	</tr>
+<tr>
+		<td>7dbm.1.B</td>
+		<td>93.31</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>BLAST</td>
+		<td>X-ray</td>
+		<td>2.43&Aring;</td>
+		<td>0.61</td>
+		<td>1.00</td>
+		<td>HIV-1 RT p51 subunit</td>
+	</tr>
+<tr>
+		<td>6ik9.1.B</td>
+		<td>93.31</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>BLAST</td>
+		<td>X-ray</td>
+		<td>2.44&Aring;</td>
+		<td>0.61</td>
+		<td>1.00</td>
+		<td>HIV-1 reverse transcriptase p51 subunit</td>
+	</tr>
+<tr>
+		<td>3dle.1.B</td>
+		<td>93.31</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>HHblits</td>
+		<td>X-ray</td>
+		<td>2.50&Aring;</td>
+		<td>0.61</td>
+		<td>1.00</td>
+		<td>p51 RT</td>
+	</tr>
+<tr>
+		<td>A0A7Z1MW46.1.A</td>
+		<td>91.82</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>AFDB search</td>
+		<td>AlphaFold v2</td>
+		<td>NA</td>
+		<td>0.60</td>
+		<td>1.00</td>
+		<td>Protease</td>
+	</tr>
+<tr>
+		<td>3e01.1.B</td>
+		<td>93.31</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>HHblits</td>
+		<td>X-ray</td>
+		<td>2.95&Aring;</td>
+		<td>0.61</td>
+		<td>1.00</td>
+		<td>Gag-Pol polyprotein</td>
+	</tr>
+<tr>
+		<td>1dtt.1.B</td>
+		<td>93.31</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>HHblits</td>
+		<td>X-ray</td>
+		<td>3.00&Aring;</td>
+		<td>0.61</td>
+		<td>1.00</td>
+		<td>HIV-1 RT B-CHAIN</td>
+	</tr>
+<tr>
+		<td>1t05.1.D</td>
+		<td>93.31</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>HHblits</td>
+		<td>X-ray</td>
+		<td>3.00&Aring;</td>
+		<td>0.61</td>
+		<td>1.00</td>
+		<td>POL polyprotein</td>
+	</tr>
+<tr>
+		<td>1har.1.A</td>
+		<td>88.89</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>BLAST</td>
+		<td>X-ray</td>
+		<td>2.20&Aring;</td>
+		<td>0.59</td>
+		<td>0.80</td>
+		<td>HIV-1 REVERSE TRANSCRIPTASE (FINGERS AND PALM SUBDOMAINS)</td>
+	</tr>
+<tr>
+		<td>1har.1.A</td>
+		<td>88.84</td>
+		<td>monomer</td>
+		<td>-</td>
+		<td>HHblits</td>
+		<td>X-ray</td>
+		<td>2.20&Aring;</td>
+		<td>0.59</td>
+		<td>0.80</td>
+		<td>HIV-1 REVERSE TRANSCRIPTASE (FINGERS AND PALM SUBDOMAINS)</td>
+	</tr>
+</tbody>
+</table>
+
+
+<br>The table above shows the top 11 filtered templates. A further 529 templates were found which were considered to be less suitable for modelling than the filtered list.<br>
+1bqm.1.A, 1bqm.1.B, 1bqn.1.A, 1bqn.1.B, 1c0t.1.A, 1c0t.1.B, 1c0u.1.A, 1c1b.1.A, 1c1b.1.B, 1d0e.1.C, 1d0e.1.D, 1d1u.1.B, 1dlo.1.A, 1dlo.1.B, 1dtq.1.A, 1dtq.1.B, 1dtt.1.A, 1eet.1.A, 1ep4.1.A, 1ep4.1.B, 1fk9.1.A, 1fk9.1.B, 1fko.1.A, 1fko.1.B, 1fkp.1.A, 1fkp.1.B, 1hmv.1.A, 1hmv.1.B, 1hni.1.A, 1hni.1.B, 1hnv.1.A, 1hnv.1.B, 1hpz.1.A, 1hpz.1.B, 1hqe.1.A, 1hqe.1.B, 1hvu.1.B, 1hvu.1.C, 1hys.1.C, 1hys.1.D, 1i6j.1.B, 1ikv.1.A, 1ikv.1.B, 1ikw.1.A, 1ikw.2.D, 1ikx.1.B, 1j5o.1.C, 1j5o.1.D, 1jkh.1.A, 1jkh.1.B, 1jla.1.A, 1jla.1.B, 1jlb.1.A, 1jlc.1.A, 1jlc.1.B, 1jle.1.A, 1jle.1.B, 1jlf.1.A, 1jlf.1.B, 1jlq.1.A, 1klm.1.A, 1klm.1.B, 1lw0.1.A, 1lw0.1.B, 1lw2.1.A, 1lwc.1.A, 1lwc.1.B, 1lwe.1.A, 1lwe.1.B, 1lwf.1.A, 1lwf.1.B, 1mml.1.A, 1mu2.1.A, 1mu2.1.B, 1n5y.1.C, 1n5y.1.D, 1nnd.1.A, 1qai.1.A, 1qai.1.B, 1qe1.1.A, 1qe1.1.B, 1r0a.1.D, 1rev.1.A, 1rt2.1.A, 1rt2.1.B, 1rt3.1.A, 1rt3.1.B, 1rt4.1.A, 1rt7.1.A, 1rtd.1.C, 1rtd.2.D, 1rth.1.A, 1rth.1.B, 1rti.1.A, 1rtj.1.A, 1rtj.1.B, 1s1t.1.B, 1s1u.1.A, 1s1u.1.B, 1s1v.1.A, 1s1w.1.A, 1s1w.1.B, 1s1x.1.A, 1s1x.1.B, 1s6p.1.A, 1s6p.1.B, 1s6q.1.A, 1s9e.1.A, 1s9e.1.B, 1s9g.1.A, 1s9g.1.B, 1suq.1.A, 1sv5.1.A, 1sv5.1.B, 1t03.1.D, 1t05.1.C, 1tkt.1.B, 1tv6.1.A, 1tv6.1.B, 1tvr.1.A, 1tvr.1.B, 1uwb.1.A, 1uwb.1.B, 1vrt.1.A, 1vrt.1.B, 1vru.1.A, 1vru.1.B, 2b5j.1.A, 2b5j.1.B, 2b6a.1.A, 2b6a.1.B, 2ban.1.A, 2be2.1.A, 2be2.1.B, 2ckw.1.A, 2fvp.1.B, 2hmi.1.C, 2hmi.1.D, 2hnd.1.A, 2hnd.1.B, 2hny.1.A, 2hny.1.B, 2i5j.1.A, 2i5j.1.B, 2iaj.1.A, 2iaj.1.B, 2ic3.1.A, 2ic3.1.B, 2jle.1.A, 2jle.1.B, 2opp.1.A, 2opp.1.B, 2opq.1.A, 2opq.1.B, 2opr.1.A, 2opr.1.B, 2ops.1.A, 2ops.1.B, 2r1f.1.A, 2r2r.1.A, 2r2s.1.A, 2rf2.1.A, 2rki.1.A, 2rki.1.B, 2uuw.1.A, 2vg5.1.A, 2vg5.1.B, 2vg6.1.B, 2vg7.1.A, 2wk4.1.A, 2wk4.1.B, 2wom.1.A, 2wom.1.B, 2won.1.A, 2won.1.B, 2ykm.1.A, 2ykm.1.B, 2ykn.1.A, 2ynf.1.A, 2ynf.1.B, 2yng.1.A, 2ze2.1.A, 2ze2.1.B, 3bgr.1.A, 3dle.1.A, 3dlg.1.A, 3dlk.1.A, 3dlk.1.B, 3dm2.1.A, 3dmj.1.A, 3dmj.1.B, 3dok.1.A, 3dok.1.B, 3dol.1.A, 3drp.1.A, 3drp.1.B, 3drr.1.A, 3drr.1.B, 3e01.1.A, 3ffi.1.A, 3ffi.1.B, 3hvt.1.A, 3hvt.1.B, 3ig1.1.A, 3ig1.1.B, 3irx.1.A, 3irx.1.B, 3isn.1.A, 3ith.1.A, 3ith.1.B, 3ith.2.A, 3ith.2.B, 3jsm.1.C, 3jsm.1.D, 3kjv.1.A, 3kjv.1.B, 3kk1.1.A, 3kk3.1.A, 3kk3.1.B, 3kle.1.A, 3kle.1.B, 3klf.1.A, 3klf.2.B, 3klg.1.A, 3klg.1.B, 3klh.1.A, 3klh.1.B, 3kli.1.A, 3kli.1.B, 3lam.1.A, 3lam.1.B, 3mec.1.A, 3med.1.A, 3meg.1.A, 3meg.1.B, 3nbp.1.A, 3oms.1.A, 3qip.1.A, 3qip.1.B, 3qlh.1.A, 3qlh.1.B, 3qo9.1.A, 3qo9.1.B, 3t19.1.B, 3t1a.1.B, 3tam.1.A, 3tam.1.B, 3v6d.1.A, 3v6d.2.A, 3v6d.2.B, 4b3o.1.A, 4b3o.1.B, 4b3p.1.A, 4b3q.1.A, 4b3q.1.B, 4dg1.1.A, 4dg1.1.B, 4hkq.1.A, 4htw.1.A, 4i2p.1.A, 4i2p.1.B, 4i2q.1.A, 4i2q.1.B, 4icl.1.A, 4ig0.1.A, 4ig0.1.B, 4ig3.1.B, 4kfb.1.A, 4kfb.1.B, 4kko.1.A, 4ko0.1.A, 4ko0.1.B, 4kse.1.A, 4kv8.1.A, 4kv8.1.B, 4lsl.1.A, 4lsl.1.B, 4lsn.1.A, 4lsn.1.B, 4mfb.1.A, 4mfb.1.B, 4mh8.1.A, 4ncg.1.B, 4o44.1.A, 4o44.1.B, 4o4g.1.A, 4o4g.1.B, 4ol8.1.A, 4ol8.1.B, 4ol8.2.C, 4ol8.2.D, 4pqu.1.A, 4pqu.1.B, 4pqu.2.A, 4pqu.2.B, 4puo.2.B, 4pwd.2.A, 4q0b.1.A, 4q0b.1.B, 4rw4.1.A, 4rw4.1.B, 4rw9.1.A, 4we1.1.A, 4zhr.1.A, 4zhr.1.B, 5c24.1.A, 5c24.1.B, 5c42.1.A, 5d3g.2.A, 5d3g.2.B, 5dmq.1.A, 5fdl.1.A, 5fdl.1.B, 5g2x.1.C, 5hbm.1.A, 5hbm.1.B, 5hhj.1.A, 5hhj.1.B, 5hhl.1.A, 5i3u.1.A, 5i3u.1.B, 5i3u.2.A, 5i42.1.A, 5irg.1.A, 5irg.2.B, 5j1e.1.A, 5j1e.1.B, 5j1e.2.A, 5j2m.1.B, 5j2q.1.A, 5k14.1.A, 5k14.1.B, 5kef.1.A, 5ovn.1.A, 5ovn.1.B, 5t82.1.A, 5ter.1.A, 5tuq.1.A, 5tuq.1.B, 5tw3.1.A, 5txl.1.A, 5txl.2.B, 5txm.1.A, 5txn.1.A, 5txo.1.A, 5uv5.1.A, 5uv5.1.B, 5uv5.2.A, 5uv5.2.B, 5vbs.1.A, 5vqr.1.A, 5vqs.1.A, 5vqs.1.B, 5vqx.1.A, 5vqz.1.A, 5xn0.1.A, 5xn0.2.A, 5xn1.1.A, 5xn1.2.A, 6an2.1.B, 6aoc.1.A, 6aoc.1.B, 6aoc.2.A, 6aoc.2.B, 6ar3.1.A, 6asw.2.A, 6b19.1.A, 6b19.1.B, 6b1q.1.B, 6bhj.1.A, 6bsg.1.A, 6bsg.1.B, 6bsi.1.A, 6c0j.1.B, 6c0k.1.A, 6c0l.1.A, 6c0l.1.B, 6c0p.1.B, 6c0r.1.A, 6c0r.1.B, 6cgf.1.A, 6d6v.1.A, 6dtw.1.B, 6duf.1.A, 6duf.1.B, 6dug.1.A, 6duh.1.A, 6ecl.1.A, 6ecl.1.B, 6eli.1.A, 6hak.1.A, 6hak.2.B, 6ik9.1.A, 6ik9.1.B, 6ik9.2.A, 6ik9.2.B, 6kdm.1.A, 6kdm.1.B, 6kdm.2.A, 6kdo.1.A, 6kdo.2.A, 6me0.1.C, 6o9e.1.A, 6o9e.1.B, 6o9e.2.B, 6oe3.1.B, 6or7.1.A, 6otz.1.A, 6otz.1.B, 6p1x.1.A, 6p2g.1.B, 6p8v.1.H, 6uir.1.A, 6uir.1.B, 6uit.1.A, 6uk0.1.A, 6uk0.1.B, 6usq.1.A, 6vug.1.B, 6waz.1.A, 6waz.1.B, 6wb0.1.A, 6wb0.1.B, 6wb1.1.C, 6wb1.1.D, 6wb2.1.C, 6wb2.1.D, 6zd1.1.A, 6zd2.1.A, 6zd6.1.A, 6zdp.1.A, 6zdq.1.A, 6zdu.1.A, 6zdu.1.B, 7ahx.1.A, 7ahx.2.A, 7aid.2.B, 7aij.1.B, 7bg9.1.A, 7d0f.1.B, 7d0g.1.B, 7d1a.1.A, 7dbm.1.A, 7dbm.1.B, 7dbm.2.A, 7dbn.1.A, 7kft.1.D, 7kjv.1.A, 7kjw.1.A, 7kjx.1.B, 7krd.1.A, 7kse.1.A, 7ksf.1.A, 7kwu.1.B, 7lma.1.B, 7lpw.1.A, 7lpw.1.B, 7lqu.1.A, 7lqu.1.B, 7lri.1.B, 7lrm.2.A, 7lrx.1.A, 7lsk.2.A, 7o0g.1.A, 7o0h.1.A, 7o0h.1.B, 7o24.1.A, 7o24.1.B, 7oz2.1.A, 7oz2.1.B, 7oz2.2.A, 7oz5.2.B, 7ozw.1.A, 7ozw.1.B, 7p15.1.A, 7p15.1.B, 7qxa.1.A, 7qxb.1.A, 7r06.1.A, 7r08.1.A, 7r08.2.A, 7r08.2.C, 7sep.1.A, 7sep.1.B, 7sls.1.A, 7sls.1.B, 7so2.1.A, 7so3.1.A, 7sr6.1.A, 7sr6.1.B, 7taz.1.A, 7trd.1.B, 7uim.1.B, 7uin.1.B, 7uy5.1.B, 7v99.1.A, 7v9u.1.A, 7v9u.1.B, 7v9x.1.A, 7xjg.1.F, 7z0z.1.A, 7z24.1.A, 7z24.1.B, 7z29.1.A, 7z29.1.B, 7z2d.1.A, 7z2d.1.B, 7z2e.1.A, 7z2e.1.B, 7z2g.1.A, 7z2g.1.B, 7z2h.1.A, 7z2h.1.B, 8bgj.1.A, 8bgj.2.A, 8bgj.3.A, 8dw1.1.A, 8dwm.1.A, 8dx2.1.A, 8dx2.1.B, 8dxb.1.B, 8dxl.1.A, 8fcc.1.A, 8fcc.1.B, 8fce.1.A, 8ffx.1.A, 8ffx.1.B, 8gh6.1.A, 8h2h.1.C
+ 
+
+
+	</div>
+	
+  <div id="sib_footer">			
+   <div id="sib_footer_content"> 
+       <a href="https://www.sib.swiss">Swiss Institute of Bioinformatics</a>
+       <a href="mailto:help-swissmodel@unibas.ch" style="margin-left:16px;">Contact Us</a>
+      <div id="sib_footer_right" style="float:right"></div>
+  	</div>
+	</div>
+  
+  <script src="../web/js/jquery-3.7.0.min.js"></script>
+  <script src="../web/js/jquery.fancybox.pack.js"></script> 
+  <script src="../web/js/raphael-min.js"></script>
+  <script src="../web/js/smng.min.js"></script>
+  <script>
+ var localQMEANNormImage='../web/images/qmean_norm.png';
+ var modelData = {
+   
+      "01":{
+        'qmean_local' : { 
+        "B":[null,null,null,null,0.61,0.68,0.85,0.8,0.84,0.82,0.8,0.83,0.77,0.85,0.88,0.88,0.9,0.94,0.93,0.86,0.9,0.81,0.83,0.78,0.86,0.83,0.83,0.8,0.79,0.81,0.84,0.83,0.88,0.86,0.84,0.87,0.83,0.89,0.84,0.83,0.84,0.87,0.87,0.85,0.94,0.87,0.91,0.91,0.87,0.91,0.86,0.81,0.83,0.88,0.92,0.9,0.9,0.92,0.95,0.91,0.85,0.87,0.8,0.68,0.51,0.41,0.41,0.41,0.45,0.57,0.71,0.63,0.77,0.86,0.91,0.93,0.93,0.85,0.9,0.91,0.85,0.82,0.78,0.82,0.7,0.68,0.58,0.36,0.38,0.39,0.4,0.51,0.58,0.59,0.69,0.69,0.77,0.75,0.68,0.62,0.63,0.67,0.75,0.75,0.81,0.84,0.88,0.81,0.83,0.74,0.78,0.73,0.68,0.78,0.86,0.89,0.81,0.86,0.94,0.93,0.92,0.9,0.89,0.89,0.86,0.89,0.89,0.94,0.95,0.92,0.91,0.87,0.89,0.8,0.74,0.6,0.64,0.69,0.76,0.8,0.8,0.84,0.83,0.91,0.91,0.92,0.93,0.94,0.91,0.93,0.86,0.91,0.82,0.76,0.84,0.87,0.8,0.78,0.82,0.82,0.72,0.68,0.74,0.8,0.8,0.8,0.84,0.86,0.84,0.9,0.89,0.8,0.89,0.87,0.87,0.89,0.81,0.87,0.86,0.88,0.85,0.77,0.72,0.72,0.76,0.82,0.83,0.84,0.89,0.89,0.88,0.86,0.83,0.79,0.82,0.83,0.8,0.83,0.77,0.82,0.83,0.82,0.73,0.79,0.82,0.72,0.74,0.76,0.78,0.65,0.68,0.59,0.62,0.57,0.47,0.39,0.27,0.29,0.27,0.34,0.32,0.36,0.32,0.29,0.26,0.28,0.29,0.3,0.25,0.44,0.55,0.53,0.69,0.7,0.68,0.68,0.56,0.5,0.42,0.42,0.5,0.49,0.52,0.57,0.57,0.77,0.79,0.76,0.66,0.56,0.78,0.77,0.84,0.85,0.82,0.84,0.82,0.78,0.76,0.82,0.84,0.83,0.74,0.81,0.78,0.61,0.79,0.69,0.58] },
+        'qmean_global':{"qmean4_norm_score":0.7699433311600065,"qmean4_z_score":-0.1127910785909857,"qmean6_norm_score":0.7728861015680404,"qmean6_z_score":-0.07505572392259087,"interaction_norm_score":-0.024310588525643325,"interaction_z_score":0.12322589147682585,"cbeta_norm_score":-0.014834442564857785,"cbeta_z_score":0.3905843442628401,"packing_norm_score":-0.36682817064014805,"packing_z_score":-0.08464595475230625,"torsion_norm_score":-0.3019117270065543,"torsion_z_score":-0.1781416216648795,"ss_agreement_norm_score":0.56301224622524,"ss_agreement_z_score":-0.6802373369272767,"acc_agreement_norm_score":0.7396226415094339,"acc_agreement_z_score":0.510054876081757,"avg_local_score":0.7527931788994924,"avg_local_score_error":0.051}
+      }
+    
+ }  
+
+
+ $(document).ready( function()
+   {  
+      drawQMEAN('01')
+   }) ;
+
+function drawQMEAN(id)
+{
+  var resCount = 0;
+  var local_scores = [];
+  for(chain in modelData[id].qmean_local)
+  {
+    var ls = {'chain':chain,'scores':[]};
+
+    for(var i=0; i<modelData[id].qmean_local[chain].length; i++)
+    {
+        ls['scores'].push([i, modelData[id].qmean_local[chain][i]]);
+        if(modelData[id].qmean_local[chain][i])
+          resCount++;
+    }
+    local_scores.push(ls);
+  }
+
+  $('#avgLocalScore_'+id)
+    .css({'background-color':
+          qmeanLocalColour(modelData[id].qmean_global.avg_local_score, .9),
+          'padding':'2px 8px 2px 8px',
+          'color':'white',
+          'border-radius':'1em',               
+          'display':'inline-block'});
+
+  drawQMEANLocal(local_scores, modelData[id].qmean_global.avg_local_score, id);
+
+  drawQMEANGlobal(modelData[id]['qmean_global'], resCount, id, false);
+
+  $('a[rel=lq-'+id+'],a[href="#qn-chart-'+id+'"]')
+    .fancybox(
+      {
+        padding:30, 
+        'cyclic':true,
+        'hideOnContentClick':true,
+        beforeShow:function(a,b)
+        {
+          var id = $(this.content[0]).first().attr('id');
+          if(id.indexOf('lq-chart')>-1)
+            $('#'+id).closest('.fancybox-outer').after(
+               '<a style="color:#666;float:right;" onclick="svgToPNG(\''+id+'\',\'Local_quality_estimate.png\');">&#128247; Save as PNG</a>'
+               );
+          else if(id.indexOf('qn-chart')>-1)
+            $('#'+id).after(
+               '<a style="color:#666;float:right;" onclick="svgToPNG(\''+id+'\',\'Quality_comparison.png\');">&#128247; Save as PNG</a>'
+               );
+        }
+      });
+}
+
+
+
+
+  </script>
+
+  </body>
+</html>

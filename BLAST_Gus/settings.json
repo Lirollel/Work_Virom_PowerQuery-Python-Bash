@@ -1,8 +1,0 @@
-{
-	"dir_blast":"BLAST.tmp",
-	"dir_gb":"GB.tmp",
-	"input_seq":"input_sequences.fasta",
-	"alignments":100,
-	"hitlist_size":400,
-	"usermail": "admin@eniivi.ru"
-}

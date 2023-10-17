@@ -1,0 +1,15 @@
+Contiguous Read Length Bin	Number of Traces
+50	15
+100	2
+150	2
+200	2
+250	0
+300	2
+350	0
+400	0
+450	0
+500	0
+550	0
+600	0
+650	0
+700	1
