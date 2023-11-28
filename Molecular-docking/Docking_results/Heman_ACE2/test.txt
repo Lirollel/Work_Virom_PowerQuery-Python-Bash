@@ -1,0 +1,1 @@
+receptor = 2jif_ACE2.pdb ligand = GMCSF.sdf

@@ -1,0 +1,49 @@
+receptor = 1yrt_CALM.pdb
+ligand = GMCSF.sdf
+
+center_x = -0.250
+center_y = -3.972
+center_z = -1.333
+
+size_x = 80
+size_y = 112
+size_z = 78
+
+energy_range = 4
+
+out = 01_docked.sdf
+
+log = 01_log.log   _______  _______ _________ _        _______ 
+  (  ____ \(       )\__   __/( (    /|(  ___  )
+  | (    \/| () () |   ) (   |  \  ( || (   ) |
+  | (_____ | || || |   | |   |   \ | || (___) |
+  (_____  )| |(_)| |   | |   | (\ \) ||  ___  |
+        ) || |   | |   | |   | | \   || (   ) |
+  /\____) || )   ( |___) (___| )  \  || )   ( |
+  \_______)|/     \|\_______/|/    )_)|/     \|
+
+
+smina is based off AutoDock Vina. Please cite appropriately.
+
+Weights      Terms
+-0.035579    gauss(o=0,_w=0.5,_c=8)
+-0.005156    gauss(o=3,_w=2,_c=8)
+0.840245     repulsion(o=0,_c=8)
+-0.035069    hydrophobic(g=0.5,_b=1.5,_c=8)
+-0.587439    non_dir_h_bond(g=-0.7,_b=0,_c=8)
+1.923        num_tors_div
+
+Using random seed: -729607780
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       0.0        0.000      0.000    
+2       0.0        1.995      2.459    
+3       0.1        29.223     34.618   
+4       0.1        36.923     42.740   
+5       0.1        1.727      2.601    
+6       0.2        56.431     61.155   
+7       0.4        24.256     30.079   
+8       0.4        32.730     39.195   
+9       0.4        63.099     69.287   

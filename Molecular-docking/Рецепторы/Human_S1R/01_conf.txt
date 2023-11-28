@@ -1,0 +1,16 @@
+receptor = 6djz_S1R.pdb
+ligand = GMCSF.sdf
+
+center_x = 13.278
+center_y = 32.917
+center_z = -31.278
+
+size_x = 82
+size_y = 52
+size_z = 74
+
+energy_range = 4
+
+out = 01_docked.sdf
+
+log = 01_log.log

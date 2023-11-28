@@ -1,2 +1,0 @@
-conda activate docking
-cd c:\Users\user\Projects\Work\Molecular-docking\

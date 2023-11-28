@@ -1,0 +1,16 @@
+receptor = 7k2v_PIKfyve.pdb
+ligand = GMCSF.sdf
+
+center_x = 170.943
+center_y = 246.554
+center_z = 201.335
+
+size_x = 78
+size_y = 80
+size_z = 96
+
+energy_range = 4
+
+out = 01_docked.sdf
+
+log = 01_log.log

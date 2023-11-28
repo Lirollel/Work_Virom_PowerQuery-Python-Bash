@@ -1,0 +1,16 @@
+receptor = 6et4_DHODH.pdb
+ligand = GMCSF.sdf
+
+center_x = 47.676
+center_y = 109.003
+center_z = 3.888
+
+size_x = 80
+size_y = 78
+size_z = 78
+
+energy_range = 4
+
+out = 01_docked.sdf
+
+log = 01_log.log
