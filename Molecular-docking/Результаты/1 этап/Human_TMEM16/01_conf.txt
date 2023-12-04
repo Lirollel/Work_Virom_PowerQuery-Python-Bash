@@ -1,0 +1,16 @@
+receptor = 5oc9_TMEM16.pdb
+ligand = GMCSF.sdf
+
+center_x = 40.576
+center_y = 68.738
+center_z = 54.024
+
+size_x = 126
+size_y = 92
+size_z = 126
+
+energy_range = 4
+
+out = 01_docked.sdf
+
+log = 01_log.log
