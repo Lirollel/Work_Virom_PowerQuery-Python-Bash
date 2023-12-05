@@ -1,0 +1,16 @@
+receptor = 7k2v_PIKfyve.pdb
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+center_x = 170.943
+center_y = 246.554
+center_z = 201.335
+
+size_x = 78
+size_y = 80
+size_z = 96
+
+energy_range = 4
+
+out = 02_docked.sdf
+
+log = 02_log.log

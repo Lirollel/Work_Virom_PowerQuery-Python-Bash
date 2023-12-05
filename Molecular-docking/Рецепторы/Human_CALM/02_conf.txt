@@ -1,0 +1,16 @@
+receptor = 1yrt_CALM.pdb
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+center_x = 12
+center_y = 22.78
+center_z = 49
+
+size_x = 72
+size_y = 68
+size_z = 72
+
+energy_range = 4
+
+out = 02_docked.sdf
+
+log = 02_log.log

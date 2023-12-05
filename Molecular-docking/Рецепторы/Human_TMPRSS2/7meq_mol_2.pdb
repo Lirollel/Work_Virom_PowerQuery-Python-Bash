@@ -1,0 +1,38 @@
+CRYST1   59.445   51.425   64.353  90.00  91.53  90.00 P 1 21 1      1
+HETATM    1  C   GBS A 601      -8.026  -6.110  18.596  1.00 50.85           C  
+ANISOU    1  C   GBS A 601     8621   5426   5275    178    771    173       C  
+HETATM    2  O   GBS A 601      -7.986  -2.731  17.507  1.00 56.58           O  
+ANISOU    2  O   GBS A 601     9382   6127   5989    414    778    204       O  
+HETATM    3  C1  GBS A 601      -8.586  -6.949  19.545  1.00 50.17           C  
+ANISOU    3  C1  GBS A 601     8505   5368   5191    127    803    184       C  
+HETATM    4  C2  GBS A 601      -9.771  -6.594  20.191  1.00 48.57           C  
+ANISOU    4  C2  GBS A 601     8213   5252   4988    164    848    221       C  
+HETATM    5  N2  GBS A 601     -10.432  -7.436  21.122  1.00 46.68           N  
+ANISOU    5  N2  GBS A 601     7935   5054   4745    103    888    240       N  
+HETATM    6  C3  GBS A 601     -10.383  -5.387  19.865  1.00 49.90           C  
+ANISOU    6  C3  GBS A 601     8326   5475   5159    266    857    244       C  
+HETATM    7  N3  GBS A 601     -10.614  -9.109  22.642  1.00 42.03           N  
+ANISOU    7  N3  GBS A 601     7382   4446   4140    -24    943    253       N  
+HETATM    8  C4  GBS A 601      -9.821  -4.550  18.918  1.00 51.90           C  
+ANISOU    8  C4  GBS A 601     8623   5686   5410    320    820    235       C  
+HETATM    9  N4  GBS A 601      -8.498  -8.407  22.128  1.00 44.27           N  
+ANISOU    9  N4  GBS A 601     7823   4574   4422     55    889    190       N  
+HETATM   10  C5  GBS A 601      -8.628  -4.893  18.279  1.00 53.03           C  
+ANISOU   10  C5  GBS A 601     8853   5745   5550    269    779    199       C  
+HETATM   11  C6  GBS A 601      -7.987  -3.930  17.343  1.00 55.22           C  
+ANISOU   11  C6  GBS A 601     9183   5978   5821    322    753    193       C  
+HETATM   12  C18 GBS A 601      -9.817  -8.294  21.949  1.00 44.54           C  
+ANISOU   12  C18 GBS A 601     7745   4715   4464     46    906    225       C  
+CONECT    1    3   10
+CONECT    2   11
+CONECT    3    1    4
+CONECT    4    3    5    6
+CONECT    5    4   12
+CONECT    6    4    8
+CONECT    7   12
+CONECT    8    6   10
+CONECT    9   12
+CONECT   10    8    1   11
+CONECT   11    2   10
+CONECT   12    9    5    7
+END

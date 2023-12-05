@@ -1,5 +1,5 @@
 receptor = 7bw4_RdRps.pdb
-ligand = GMCSF.sdf
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
 
 center_x = 89.633
 center_y = 92.136

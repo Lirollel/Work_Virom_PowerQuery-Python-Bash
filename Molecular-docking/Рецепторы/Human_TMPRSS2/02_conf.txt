@@ -1,0 +1,16 @@
+receptor = 7meq_TMPRSS2.pdb
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+center_x = -7.503
+center_y = -5.226
+center_z = 14.916
+
+size_x = 76
+size_y = 120
+size_z = 104
+
+energy_range = 4
+
+out = 02_docked.sdf
+
+log = 02_log.log

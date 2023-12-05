@@ -1,0 +1,11 @@
+receptor = 8if2_S-RBD.pdb
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+autobox_ligand = 8if2_ACE2.pdb     
+autobox_add = 10
+
+energy_range = 4
+
+out = 04_docked.sdf
+
+log = 04_log.log

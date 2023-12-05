@@ -1,0 +1,11 @@
+receptor = 5oc9_TMEM16.pdb
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+autobox_ligand = 5oc9_mol.pdb     
+autobox_add = 10
+
+energy_range = 4
+
+out = 03_docked.sdf
+
+log = 03_log.log
