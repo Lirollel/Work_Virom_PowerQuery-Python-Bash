@@ -1,0 +1,16 @@
+receptor = 8if2_ACE2.pdb
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+center_x = 45.250
+center_y = 16.944
+center_z = 4.528
+
+size_x = 56
+size_y = 126
+size_z = 74
+
+energy_range = 4
+
+out = 02_docked.sdf
+
+log = 02_log.log
