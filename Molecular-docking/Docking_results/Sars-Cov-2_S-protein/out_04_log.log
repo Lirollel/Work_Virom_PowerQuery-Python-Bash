@@ -1,0 +1,44 @@
+receptor = 8if2_S-RBD.pdb
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+autobox_ligand = 8if2_ACE2.pdb     
+autobox_add = 10
+
+energy_range = 4
+
+out = 04_docked.sdf
+
+log = 04_log.log   _______  _______ _________ _        _______ 
+  (  ____ \(       )\__   __/( (    /|(  ___  )
+  | (    \/| () () |   ) (   |  \  ( || (   ) |
+  | (_____ | || || |   | |   |   \ | || (___) |
+  (_____  )| |(_)| |   | |   | (\ \) ||  ___  |
+        ) || |   | |   | |   | | \   || (   ) |
+  /\____) || )   ( |___) (___| )  \  || )   ( |
+  \_______)|/     \|\_______/|/    )_)|/     \|
+
+
+smina is based off AutoDock Vina. Please cite appropriately.
+
+Weights      Terms
+-0.035579    gauss(o=0,_w=0.5,_c=8)
+-0.005156    gauss(o=3,_w=2,_c=8)
+0.840245     repulsion(o=0,_c=8)
+-0.035069    hydrophobic(g=0.5,_b=1.5,_c=8)
+-0.587439    non_dir_h_bond(g=-0.7,_b=0,_c=8)
+1.923        num_tors_div
+
+Using random seed: -1566184392
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -5.4       0.000      0.000    
+2       -5.3       30.820     34.664   
+3       -5.2       2.757      7.636    
+4       -5.2       2.596      6.950    
+5       -5.1       2.693      7.340    
+6       -5.1       2.850      7.178    
+7       -5.1       2.821      9.238    
+8       -5.1       2.592      10.313   
+9       -5.0       28.930     34.024   

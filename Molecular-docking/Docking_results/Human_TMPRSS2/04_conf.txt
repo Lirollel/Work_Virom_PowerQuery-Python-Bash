@@ -1,0 +1,11 @@
+receptor = 7meq_TMPRSS2.pdb
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+autobox_ligand = 7meq_mol_2.pdb    
+autobox_add = 10
+
+energy_range = 4
+
+out = 04_docked.sdf
+
+log = 04_log.log

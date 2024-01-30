@@ -1,0 +1,35 @@
+receptor = 6wuu_PLpro.pdb
+ligand = GMCSF.sdfligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+center_x = 33.079
+center_y = 78.773
+center_z = 7.613
+
+size_x = 108
+size_y = 78
+size_z = 112
+
+energy_range = 4
+
+out = 02_docked.sdf
+
+log = 02_log.log   _______  _______ _________ _        _______ 
+  (  ____ \(       )\__   __/( (    /|(  ___  )
+  | (    \/| () () |   ) (   |  \  ( || (   ) |
+  | (_____ | || || |   | |   |   \ | || (___) |
+  (_____  )| |(_)| |   | |   | (\ \) ||  ___  |
+        ) || |   | |   | |   | | \   || (   ) |
+  /\____) || )   ( |___) (___| )  \  || )   ( |
+  \_______)|/     \|\_______/|/    )_)|/     \|
+
+
+smina is based off AutoDock Vina. Please cite appropriately.
+
+Weights      Terms
+-0.035579    gauss(o=0,_w=0.5,_c=8)
+-0.005156    gauss(o=3,_w=2,_c=8)
+0.840245     repulsion(o=0,_c=8)
+-0.035069    hydrophobic(g=0.5,_b=1.5,_c=8)
+-0.587439    non_dir_h_bond(g=-0.7,_b=0,_c=8)
+1.923        num_tors_div
+

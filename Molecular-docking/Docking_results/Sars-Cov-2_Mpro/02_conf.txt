@@ -1,0 +1,16 @@
+receptor = 8ddm_Mpro.pdb
+ligand = GMCSF_openbabel_smiles_to_2d_sdf.sdf
+
+center_x = 14.506
+center_y = -0.305
+center_z = 23.721
+
+size_x = 62
+size_y = 62
+size_z = 58
+
+energy_range = 4
+
+out = 02_docked.sdf
+
+log = 02_log.log
